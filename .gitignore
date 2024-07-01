@@ -1,0 +1,8 @@
+db/
+docs/
+.env
+data/
+models/
+assets/
+static/
+yolov5s.pt

@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-A305-P14-D-010",
+    "import": {
+      "author": "최금동",
+      "book_title": "애련송",
+      "country": "한국",
+      "id": "D0039",
+      "publish_year": 2021,
+      "times_bg": "근대",
+      "title": "애련송",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 20,
+      "gender": "FEMALE",
+      "id": 10
+    },
+    "script": {
+      "chars_count": 922,
+      "id": "D-A305",
+      "normalized": [
+        "그게 무슨 소리냐, 요새 아버지 꼴을 넌 보지도 못했니?",
+        "저를 그럼 무슨 미끼로 이용하실 작정이세요?",
+        "글쎄 어머니, 전 죽으면 죽었지 시집은 안 가요.",
+        "그럼 생전 처녀로 늙어 죽을 작정이냐, 하여간 두말할 것 없다.",
+        "오, 베르타, 당신, 품위, 당신, 자존심!",
+        "당신 지금 무슨 놀이를 하는 거요, 무엇을 원하는 겁니까?",
+        "그 어떤 것도 나를 그녀와 떨어지게 하지 못할 겁니다.",
+        "나는 행복하게 되돌아왔지만 나의 행복이 당신에게는 견디기 힘든 것이군요, 이 새를 놓아줘요!",
+        "너 같은 인생이 뭐하러 좌우명을 만들어?",
+        "너 같은 인간 갈 길이야 내가 잘 알지.",
+        "그렇게 살지 마십시오.",
+        "뭐야 인마?",
+        "아버지, 이 억울함을 풀어 주세요, 예?",
+        "그래서 경찰서에 신고라도 할 거요?",
+        "벌을 받아야지, 산 사람이든, 죽은 사람이든 남의 물건에 손대는 게 얼마나 나쁜 짓인데.",
+        "산 사람 죽이고도 가져가는 세상인데, 죽은 사람 돈 좀 가져가면 어떻소?",
+        "이런, 잘못이 하나도 없단 소리구먼.",
+        "신고하려면 해요, 난 장례 치르려고 돈 꺼냈다고 잡아떼면 그만이니까.",
+        "영감 말고 여기 본 사람도 없고.",
+        "겨우 백만 원 때문에, 사람을 죽여?",
+        "그것도 죽을 날 기다리는 노인네를?",
+        "그게 뭐 어때서, 백만 원이면 안 되는 이유라도 있나?",
+        "사람 목숨이 천만 원이야, 이천만 원이야?",
+        "이제 그 백만 원을 세 명이서 나눠 갖겠다?",
+        "한 사람 앞에 삼십만 원하고 몇만 원 떨어지는 꼴이네.",
+        "아무리 밑천 없는 장사라지만 너무들 하는 거 아니야?",
+        "죽고 싶어?",
+        "내 말이 틀렸어?",
+        "강도질하려고 사람을 찔렀는데, 돈이 삼십 몇만 원뿐이라는 건 있을 수 있지만, 그 돈 보고 사람 죽인다는 건 좀 심하잖아.",
+        "아무리 돈이 좋아도, 그 돈으로 뭘 할 거라고.",
+        "이런 버르장머리 없는 놈.",
+        "오늘 밤, 할머닐 죽이고, 백만 원을 가지려고 했거든요.",
+        "아이구, 무슨 끔찍한 소리냐?",
+        "이걸로요, 간단히 끝내려고 했어요.",
+        "집어넣어!",
+        "내 몫을 줘요!",
+        "니 몫이라니?",
+        "만약 어제 가서 죽였다면 그 돈은 다 내 거예요, 무슨 뜻인지 몰라요?",
+        "옥자 할머니를 살해한 범인이요.",
+        "아주 잔인하게 살해했어요.",
+        "억울하게 돌아가신 할머니의 한을 풀어 주세요.",
+        "겨우 장례비 백만 원 때문에 할머니를 죽였어요.",
+        "그래요, 아주 나빠요.",
+        "그렇다면, 안됐군요, 이젠 완전히, 끝이에요!",
+        "도대체 누가 이 편지 주인이 나라고 당신한테",
+        "당신의 앤, 테이비의 앤, 그리고 이번엔 당치 않게도 나의 앤이란 말입니다.",
+        "무슨 뜻이냐고요?",
+        "이 유언장 속에 앤의 후견인이 누구로 되어 있다고 생각하십니까?",
+        "당신이라, 당신과 나입니다!",
+        "나예요, 나, 나!"
+      ],
+      "origin": [
+        "그게 무슨 소리냐, 요새 아버지 꼴을 넌 보지도 못했니?",
+        "저를 그럼 무슨 미끼로 이용하실 작정이세요?",
+        "글쎄 어머니, 전 죽으면 죽었지 시집은 안 가요.",
+        "그럼 생전 처녀로 늙어 죽을 작정이냐, 하여간 두말할 것 없다.",
+        "오, 베르타, 당신, 품위, 당신, 자존심!",
+        "당신 지금 무슨 놀이를 하는 거요, 무엇을 원하는 겁니까?",
+        "그 어떤 것도 나를 그녀와 떨어지게 하지 못할 겁니다.",
+        "나는 행복하게 되돌아왔지만 나의 행복이 당신에게는 견디기 힘든 것이군요, 이 새를 놓아줘요!",
+        "너 같은 인생이 뭐하러 좌우명을 만들어?",
+        "너 같은 인간 갈 길이야 내가 잘 알지.",
+        "그렇게 살지 마십시오.",
+        "뭐야 인마?",
+        "아버지, 이 억울함을 풀어 주세요, 예?",
+        "그래서 경찰서에 신고라도 할 거요?",
+        "벌을 받아야지, 산 사람이든, 죽은 사람이든 남의 물건에 손대는 게 얼마나 나쁜 짓인데.",
+        "산 사람 죽이고도 가져가는 세상인데, 죽은 사람 돈 좀 가져가면 어떻소?",
+        "이런, 잘못이 하나도 없단 소리구먼.",
+        "신고하려면 해요, 난 장례 치르려고 돈 꺼냈다고 잡아떼면 그만이니까.",
+        "영감 말고 여기 본 사람도 없고.",
+        "겨우 백만 원 때문에, 사람을 죽여?",
+        "그것도 죽을 날 기다리는 노인네를?",
+        "그게 뭐 어때서, 백만 원이면 안 되는 이유라도 있나?",
+        "사람 목숨이 천만 원이야, 이천만 원이야?",
+        "이제 그 백만 원을 세 명이서 나눠 갖겠다?",
+        "한 사람 앞에 삼십만 원하고 몇만 원 떨어지는 꼴이네.",
+        "아무리 밑천 없는 장사라지만 너무들 하는 거 아니야?",
+        "죽고 싶어?",
+        "내 말이 틀렸어?",
+        "강도질하려고 사람을 찔렀는데, 돈이 삼십 몇만 원뿐이라는 건 있을 수 있지만, 그 돈 보고 사람 죽인다는 건 좀 심하잖아.",
+        "아무리 돈이 좋아도, 그 돈으로 뭘 할 거라고.",
+        "이런 버르장머리 없는 놈.",
+        "오늘 밤, 할머닐 죽이고, 백만 원을 가지려고 했거든요.",
+        "아이구, 무슨 끔찍한 소리냐?",
+        "이걸로요, 간단히 끝내려고 했어요.",
+        "집어넣어!",
+        "내 몫을 줘요!",
+        "니 몫이라니?",
+        "만약 어제 가서 죽였다면 그 돈은 다 내 거예요, 무슨 뜻인지 몰라요?",
+        "옥자 할머니를 살해한 범인이요.",
+        "아주 잔인하게 살해했어요.",
+        "억울하게 돌아가신 할머니의 한을 풀어 주세요.",
+        "겨우 장례비 백만 원 때문에 할머니를 죽였어요.",
+        "그래요, 아주 나빠요.",
+        "그렇다면, 안됐군요, 이젠 완전히, 끝이에요!",
+        "도대체 누가 이 편지 주인이 나라고 당신한테…",
+        "당신의 앤, 테이비의 앤, 그리고 이번엔 당치 않게도 나의 앤이란 말입니다.",
+        "무슨 뜻이냐고요?",
+        "이 유언장 속에 앤의 후견인이 누구로 되어 있다고 생각하십니까?",
+        "당신이라, 당신과 나입니다!",
+        "나예요, 나, 나!"
+      ],
+      "part_no": 14,
+      "tokens_count": 327
+    },
+    "sentences": [
+      {
+        "id": "D-A3-D-010-0651",
+        "origin_text": "그게 무슨 소리냐, 요새 아버지 꼴을 넌 보지도 못했니?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.459991455078125,
+          "file_duration": 4.92,
+          "filename": "D-A3-D-010-0651.wav",
+          "ptr": "그게 무슨 소리냐  /  요새 아버지 꼴을  /  넌 보지도 못했니?",
+          "tr": "그게 무슨 소리냐, 요새 아버지 꼴을 넌 보지도 못했니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0652",
+        "origin_text": "저를 그럼 무슨 미끼로 이용하실 작정이세요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6299951171875,
+          "filename": "D-A3-D-010-0652.wav",
+          "ptr": "저를 그럼  /  무슨 미끼로 이용하실 작정이세요?",
+          "tr": "저를 그럼 무슨 미끼로 이용하실 작정이세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0653",
+        "origin_text": "글쎄 어머니, 전 죽으면 죽었지 시집은 안 가요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.82000732421875,
+          "file_duration": 5.32000732421875,
+          "filename": "D-A3-D-010-0653.wav",
+          "ptr": "글쎄  /  어머니  /  전 죽으면 죽었지 시집은 안 가요.",
+          "tr": "글쎄 어머니, 전 죽으면 죽었지 시집은 안 가요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0654",
+        "origin_text": "그럼 생전 처녀로 늙어 죽을 작정이냐, 하여간 두말할 것 없다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.860015869140625,
+          "file_duration": 7.360015869140625,
+          "filename": "D-A3-D-010-0654.wav",
+          "ptr": "그럼  /  생전 처녀로  /  늙어 죽을 작정이냐  /  하여간  /  두말할 것 없다.",
+          "tr": "그럼 생전 처녀로 늙어 죽을 작정이냐, 하여간 두말할 것 없다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0655",
+        "origin_text": "오, 베르타, 당신, 품위, 당신, 자존심!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-A3-D-010-0655.wav",
+          "ptr": "오 베르타  /  당신 품위  /  당신 자존심!",
+          "tr": "오, 베르타, 당신, 품위, 당신, 자존심!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0656",
+        "origin_text": "당신 지금 무슨 놀이를 하는 거요, 무엇을 원하는 겁니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.540008544921875,
+          "file_duration": 5.040008544921875,
+          "filename": "D-A3-D-010-0656.wav",
+          "ptr": "당신  /  지금 무슨 놀이를 하는 거요  /  무엇을 원하는 겁니까?",
+          "tr": "당신 지금 무슨 놀이를 하는 거요, 무엇을 원하는 겁니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0657",
+        "origin_text": "그 어떤 것도 나를 그녀와 떨어지게 하지 못할 겁니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.899993896484375,
+          "file_duration": 4.44000244140625,
+          "filename": "D-A3-D-010-0657.wav",
+          "ptr": "그 어떤 것도  /  나를 그녀와 떨어지게 하지 못할 겁니다.",
+          "tr": "그 어떤 것도 나를 그녀와 떨어지게 하지 못할 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0658",
+        "origin_text": "나는 행복하게 되돌아왔지만 나의 행복이 당신에게는 견디기 힘든 것이군요, 이 새를 놓아줘요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.55999755859375,
+          "file_duration": 8.080000000000005,
+          "filename": "D-A3-D-010-0658.wav",
+          "ptr": "나는 행복하게 되돌아왔지만  /  나의 행복이  /  당신에게는 견디기 힘든 것이군요  /  이 새를 놓아줘요!",
+          "tr": "나는 행복하게 되돌아왔지만 나의 행복이 당신에게는 견디기 힘든 것이군요, 이 새를 놓아줘요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0659",
+        "origin_text": "너 같은 인생이 뭐하러 좌우명을 만들어?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.94000244140625,
+          "file_duration": 3.3999999999999986,
+          "filename": "D-A3-D-010-0659.wav",
+          "ptr": "너 같은 인생이  /  뭐하러 좌우명을 만들어?",
+          "tr": "너 같은 인생이 뭐하러 좌우명을 만들어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0660",
+        "origin_text": "너 같은 인간 갈 길이야 내가 잘 알지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.17999267578125,
+          "file_duration": 3.739991455078126,
+          "filename": "D-A3-D-010-0660.wav",
+          "ptr": "너 같은 인간 갈 길이야 내가 잘 알지.",
+          "tr": "너 같은 인간 갈 길이야 내가 잘 알지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0661",
+        "origin_text": "그렇게 살지 마십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.41998291015625,
+          "file_duration": 1.91998291015625,
+          "filename": "D-A3-D-010-0661.wav",
+          "ptr": "그렇게 살지 마십시오.",
+          "tr": "그렇게 살지 마십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0662",
+        "origin_text": "뭐야 인마?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.740020751953125,
+          "file_duration": 1.210000000000008,
+          "filename": "D-A3-D-010-0662.wav",
+          "ptr": "뭐야 인마?",
+          "tr": "뭐야 인마?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0663",
+        "origin_text": "아버지, 이 억울함을 풀어 주세요, 예?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.279998779296875,
+          "file_duration": 3.7100048828124983,
+          "filename": "D-A3-D-010-0663.wav",
+          "ptr": "아버지  /  이 억울함을 풀어 주세요  /  예?",
+          "tr": "아버지, 이 억울함을 풀어 주세요, 예?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0664",
+        "origin_text": "그래서 경찰서에 신고라도 할 거요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3,
+          "file_duration": 3.4399999999999977,
+          "filename": "D-A3-D-010-0664.wav",
+          "ptr": "그래서  /  경찰서에 신고라도 할 거요?",
+          "tr": "그래서 경찰서에 신고라도 할 거요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0665",
+        "origin_text": "벌을 받아야지, 산 사람이든, 죽은 사람이든 남의 물건에 손대는 게 얼마나 나쁜 짓인데.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.540008544921875,
+          "file_duration": 6.980009765624999,
+          "filename": "D-A3-D-010-0665.wav",
+          "ptr": "벌을 받아야지  /  산 사람이든 죽은 사람이든  /  남의 물건에 손대는 게 얼마나 나쁜 짓인데.",
+          "tr": "벌을 받아야지, 산 사람이든, 죽은 사람이든 남의 물건에 손대는 게 얼마나 나쁜 짓인데."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0666",
+        "origin_text": "산 사람 죽이고도 가져가는 세상인데, 죽은 사람 돈 좀 가져가면 어떻소?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.03997802734375,
+          "file_duration": 5.499982910156248,
+          "filename": "D-A3-D-010-0666.wav",
+          "ptr": "산 사람 죽이고도 가져가는 세상인데  /  죽은 사람 돈 좀 가져가면 어떻소?",
+          "tr": "산 사람 죽이고도 가져가는 세상인데, 죽은 사람 돈 좀 가져가면 어떻소?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0667",
+        "origin_text": "이런, 잘못이 하나도 없단 소리구먼.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.279998779296875,
+          "file_duration": 3.789990234374997,
+          "filename": "D-A3-D-010-0667.wav",
+          "ptr": "이런  /  잘못이 하나도 없단 소리구먼.",
+          "tr": "이런, 잘못이 하나도 없단 소리구먼."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0668",
+        "origin_text": "신고하려면 해요, 난 장례 치르려고 돈 꺼냈다고 잡아떼면 그만이니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.660003662109375,
+          "file_duration": 6.219999999999999,
+          "filename": "D-A3-D-010-0668.wav",
+          "ptr": "신고하려면 해요  /  난 장례 치르려고  /  돈 꺼냈다고 잡아떼면 그만이니까.",
+          "tr": "신고하려면 해요, 난 장례 치르려고 돈 꺼냈다고 잡아떼면 그만이니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0669",
+        "origin_text": "영감 말고 여기 본 사람도 없고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.660003662109375,
+          "file_duration": 3.140007324218743,
+          "filename": "D-A3-D-010-0669.wav",
+          "ptr": "영감 말고  /  여기 본 사람도 없고.",
+          "tr": "영감 말고 여기 본 사람도 없고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0670",
+        "origin_text": "겨우 백만 원 때문에, 사람을 죽여?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.779998779296875,
+          "file_duration": 3.170000000000016,
+          "filename": "D-A3-D-010-0670.wav",
+          "ptr": "겨우 백 만 원 때문에  /  사람을 죽여?",
+          "tr": "겨우 백 만 원 때문에, 사람을 죽여?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0671",
+        "origin_text": "그것도 죽을 날 기다리는 노인네를?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.259979248046875,
+          "file_duration": 3.759979248046875,
+          "filename": "D-A3-D-010-0671.wav",
+          "ptr": "그것도  /  죽을 날 기다리는 노인네를?",
+          "tr": "그것도 죽을 날 기다리는 노인네를?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0672",
+        "origin_text": "그게 뭐 어때서, 백만 원이면 안 되는 이유라도 있나?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.480010986328125,
+          "file_duration": 4.960006103515639,
+          "filename": "D-A3-D-010-0672.wav",
+          "ptr": "그게 뭐 어때서  /  백 만 원이면  /  안 되는 이유라도 있나?",
+          "tr": "그게 뭐 어때서, 백 만 원이면 안 되는 이유라도 있나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0673",
+        "origin_text": "사람 목숨이 천만 원이야, 이천만 원이야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.660003662109375,
+          "file_duration": 3.2200170898437364,
+          "filename": "D-A3-D-010-0673.wav",
+          "ptr": "사람 목숨이 천 만 원이야 이천 만 원이야?",
+          "tr": "사람 목숨이 천 만 원이야, 이천 만 원이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0674",
+        "origin_text": "이제 그 백만 원을 세 명이서 나눠 갖겠다?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.339996337890625,
+          "file_duration": 3.839996337890625,
+          "filename": "D-A3-D-010-0674.wav",
+          "ptr": "이제 그 백 만 원을  /  세 명이서 나눠 갖겠다?",
+          "tr": "이제 그 백 만 원을 세 명이서 나눠 갖겠다?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0675",
+        "origin_text": "한 사람 앞에 삼십만 원하고 몇만 원 떨어지는 꼴이네.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "D-A3-D-010-0675.wav",
+          "ptr": "한 사람 앞에  /  삼십 만 원하고 몇만 원 떨어지는 꼴이네.",
+          "tr": "한 사람 앞에 삼십 만 원하고 몇만 원 떨어지는 꼴이네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0676",
+        "origin_text": "아무리 밑천 없는 장사라지만 너무들 하는 거 아니야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.5,
+          "file_duration": 3.9700207519531148,
+          "filename": "D-A3-D-010-0676.wav",
+          "ptr": "아무리 밑천 없는 장사라지만  /  너무들 하는 거 아니야?",
+          "tr": "아무리 밑천 없는 장사라지만 너무들 하는 거 아니야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0677",
+        "origin_text": "죽고 싶어?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.9000244140625,
+          "file_duration": 1.3700000000000045,
+          "filename": "D-A3-D-010-0677.wav",
+          "ptr": "죽고 싶어?",
+          "tr": "죽고 싶어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0678",
+        "origin_text": "내 말이 틀렸어?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.260009765625,
+          "file_duration": 1.760009765625,
+          "filename": "D-A3-D-010-0678.wav",
+          "ptr": "내 말이 틀렸어?",
+          "tr": "내 말이 틀렸어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0679",
+        "origin_text": "강도질하려고 사람을 찔렀는데, 돈이 삼십 몇만 원뿐이라는 건 있을 수 있지만, 그 돈 보고 사람 죽인다는 건 좀 심하잖아.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 9.08001708984375,
+          "file_duration": 9.620003662109383,
+          "filename": "D-A3-D-010-0679.wav",
+          "ptr": "강도질하려고 사람을 찔렀는데  /  돈이 삼십 몇만 원뿐이라는 건 있을 수 있지만  /  그 돈 보고 사람 죽인다는 건 좀 심하잖아.",
+          "tr": "강도질하려고 사람을 찔렀는데, 돈이 삼십 몇만 원뿐이라는 건 있을 수 있지만, 그 돈 보고 사람 죽인다는 건 좀 심하잖아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0680",
+        "origin_text": "아무리 돈이 좋아도, 그 돈으로 뭘 할 거라고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.34002685546875,
+          "file_duration": 3.84002685546875,
+          "filename": "D-A3-D-010-0680.wav",
+          "ptr": "아무리 돈이 좋아도  /  그 돈으로 뭘 할 거라고.",
+          "tr": "아무리 돈이 좋아도, 그 돈으로 뭘 할 거라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0681",
+        "origin_text": "이런 버르장머리 없는 놈.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.760009765625,
+          "file_duration": 2.260009765625,
+          "filename": "D-A3-D-010-0681.wav",
+          "ptr": "이런 버르장머리 없는 놈.",
+          "tr": "이런 버르장머리 없는 놈."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0682",
+        "origin_text": "오늘 밤, 할머닐 죽이고, 백만 원을 가지려고 했거든요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.17999267578125,
+          "file_duration": 4.67999267578125,
+          "filename": "D-A3-D-010-0682.wav",
+          "ptr": "오늘 밤  /  할머닐 죽이고  /  백 만 원을 가지려고 했거든요.",
+          "tr": "오늘 밤, 할머닐 죽이고, 백 만 원을 가지려고 했거든요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0683",
+        "origin_text": "아이구, 무슨 끔찍한 소리냐?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.3399658203125,
+          "file_duration": 2.8399658203125,
+          "filename": "D-A3-D-010-0683.wav",
+          "ptr": "아이구  /  무슨 끔찍한 소리냐?",
+          "tr": "아이구, 무슨 끔찍한 소리냐?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0684",
+        "origin_text": "이걸로요, 간단히 끝내려고 했어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.47998046875,
+          "file_duration": 2.97998046875,
+          "filename": "D-A3-D-010-0684.wav",
+          "ptr": "이걸로요  /  간단히 끝내려고 했어요.",
+          "tr": "이걸로요, 간단히 끝내려고 했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0685",
+        "origin_text": "집어넣어!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.72003173828125,
+          "file_duration": 1.2600354003906205,
+          "filename": "D-A3-D-010-0685.wav",
+          "ptr": "집어넣어!",
+          "tr": "집어넣어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0686",
+        "origin_text": "내 몫을 줘요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.20001220703125,
+          "file_duration": 1.7199987792968727,
+          "filename": "D-A3-D-010-0686.wav",
+          "ptr": "내 몫을 줘요!",
+          "tr": "내 몫을 줘요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0687",
+        "origin_text": "니 몫이라니?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.02001953125,
+          "file_duration": 1.5600012207031284,
+          "filename": "D-A3-D-010-0687.wav",
+          "ptr": "니 몫이라니?",
+          "tr": "니 몫이라니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0688",
+        "origin_text": "만약 어제 가서 죽였다면 그 돈은 다 내 거예요, 무슨 뜻인지 몰라요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.6800537109375,
+          "file_duration": 6.210032958984385,
+          "filename": "D-A3-D-010-0688.wav",
+          "ptr": "만약  /  어제 가서 죽였다면  /  그 돈은 다 내 거예요  /  무슨 뜻인지 몰라요?",
+          "tr": "만약 어제 가서 죽였다면 그 돈은 다 내 거예요, 무슨 뜻인지 몰라요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0689",
+        "origin_text": "옥자 할머니를 살해한 범인이요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1600341796875,
+          "file_duration": 2.6600341796875,
+          "filename": "D-A3-D-010-0689.wav",
+          "ptr": "옥자 할머니를 살해한 범인이요.",
+          "tr": "옥자 할머니를 살해한 범인이요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0690",
+        "origin_text": "아주 잔인하게 살해했어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.86004638671875,
+          "file_duration": 2.2700000000000102,
+          "filename": "D-A3-D-010-0690.wav",
+          "ptr": "아주 잔인하게 살해했어요.",
+          "tr": "아주 잔인하게 살해했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0691",
+        "origin_text": "억울하게 돌아가신 할머니의 한을 풀어 주세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.94000244140625,
+          "file_duration": 3.44000244140625,
+          "filename": "D-A3-D-010-0691.wav",
+          "ptr": "억울하게 돌아가신  /  할머니의 한을 풀어 주세요.",
+          "tr": "억울하게 돌아가신 할머니의 한을 풀어 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0692",
+        "origin_text": "겨우 장례비 백만 원 때문에 할머니를 죽였어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.739990234375,
+          "file_duration": 4.239990234375,
+          "filename": "D-A3-D-010-0692.wav",
+          "ptr": "겨우 장례비 백 만 원 때문에  /  할머니를 죽였어요.",
+          "tr": "겨우 장례비 백 만 원 때문에 할머니를 죽였어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0693",
+        "origin_text": "그래요, 아주 나빠요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.739990234375,
+          "file_duration": 2.279991455078118,
+          "filename": "D-A3-D-010-0693.wav",
+          "ptr": "그래요  /  아주 나빠요.",
+          "tr": "그래요, 아주 나빠요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0694",
+        "origin_text": "그렇다면, 안됐군요, 이젠 완전히, 끝이에요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.260009765625,
+          "file_duration": 3.760009765625,
+          "filename": "D-A3-D-010-0694.wav",
+          "ptr": "그렇다면 안됐군요  /  이젠 완전히 끝이에요!",
+          "tr": "그렇다면, 안됐군요, 이젠 완전히, 끝이에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0695",
+        "origin_text": "도대체 누가 이 편지 주인이 나라고 당신한테…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.3599853515625,
+          "file_duration": 4.900003662109384,
+          "filename": "D-A3-D-010-0695.wav",
+          "ptr": "도대체 누가  /  이 편지 주인이  /  나라고 당신한테",
+          "tr": "도대체 누가 이 편지 주인이 나라고 당신한테"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0696",
+        "origin_text": "당신의 앤, 테이비의 앤, 그리고 이번엔 당치 않게도 나의 앤이란 말입니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.3399658203125,
+          "file_duration": 7.8399658203125,
+          "filename": "D-A3-D-010-0696.wav",
+          "ptr": "당신의 앤  /  테이비의 앤  /  그리고  /  이번엔 당치 않게도  /  나의 앤이란 말입니다.",
+          "tr": "당신의 앤, 테이비의 앤, 그리고 이번엔 당치 않게도 나의 앤이란 말입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0697",
+        "origin_text": "무슨 뜻이냐고요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.239990234375,
+          "file_duration": 1.739990234375,
+          "filename": "D-A3-D-010-0697.wav",
+          "ptr": "무슨 뜻이냐고요?",
+          "tr": "무슨 뜻이냐고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0698",
+        "origin_text": "이 유언장 속에 앤의 후견인이 누구로 되어 있다고 생각하십니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.22003173828125,
+          "file_duration": 5.72003173828125,
+          "filename": "D-A3-D-010-0698.wav",
+          "ptr": "이 유언장 속에  /  앤의 후견인이  /  누구로 되어 있다고 생각하십니까?",
+          "tr": "이 유언장 속에 앤의 후견인이 누구로 되어 있다고 생각하십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0699",
+        "origin_text": "당신이라, 당신과 나입니다!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.4000244140625,
+          "file_duration": 3.9000244140625,
+          "filename": "D-A3-D-010-0699.wav",
+          "ptr": "당신이라  /  당신과 나입니다!",
+          "tr": "당신이라, 당신과 나입니다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-D-010-0700",
+        "origin_text": "나예요, 나, 나!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.4599609375,
+          "file_duration": 2.98998657226565,
+          "filename": "D-A3-D-010-0700.wav",
+          "ptr": "나예요  /  나  /  나!",
+          "tr": "나예요, 나, 나!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "D",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오4"
+    },
+    "voice": {
+      "duration": 310.08,
+      "filename": "/data2/gst-voice/splitted/D/010/D-A305-P14-D-010.wav",
+      "recorded_at": "2022-08-31 08:57:40",
+      "sample_rate": 44100
+    }
+  }
+]

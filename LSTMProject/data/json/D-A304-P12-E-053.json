@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-A304-P12-E-053",
+    "import": {
+      "author": "유진 오닐",
+      "book_title": "상복이 어울리는 엘렉트라",
+      "country": "미국",
+      "id": "D0025",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "상복이 어울리는 엘렉트라",
+      "translator": "이형식"
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "MALE",
+      "id": 53
+    },
+    "script": {
+      "chars_count": 857,
+      "id": "D-A304",
+      "normalized": [
+        "나도 법정에 서고 싶지 않아.",
+        "가서 밖에 숨어.",
+        "그가 어둠 속에서 통로를 지나면서 너를 못 볼 거야.",
+        "바로 이리로 올 거니까, 바로 그때 니가",
+        "빨리, 지금 나가, 곧 돌아올 거야!",
+        "안 돼, 빨리 와!",
+        "난 전에도 이 사람을 만난 적이 있어.",
+        "오린, 이리 와!",
+        "오린, 그런 식으로 나를 보지 마, 말해.",
+        "당신의 그 사람 말이에요!",
+        "거짓말하지 말아요, 지금까지 거짓말을 너무 많이 했어요, 엄마!",
+        "잊는다고?",
+        "누나는 오래전에 잊은 줄 알았는데, 누나는 절대로 기억하는 것처럼 보이지 않았어!",
+        "아니, 누나가 무슨 권리로 사랑을 해?",
+        "아니, 대체 뭐라고요?",
+        "자네는 그녀의 명예를 훼손했고, 그 여자 아버지의 명예를 훼손했어.",
+        "나쁜 녀석, 여자들과 여자들보다 더 약한 음악가들에게 감히 그런 짓을 하다니.",
+        "나쁜 녀석이라고?",
+        "자네는 공개적으로 그에게 사죄해야 하네.",
+        "대체 나에게 왜 그러는 거야!",
+        "그렇다면 그의 이름으로 내가 자네에게 답을 주지.",
+        "자네, 나한테 무엇을 원하는 거야?",
+        "레하르의 명예 회복을.",
+        "나한테 강요하려는 건 아니겠지, 단순한 사람 같으니라고.",
+        "그래, 건달 노릇 하지 말라고 강요하겠네.",
+        "자네도 건달이지 않나?",
+        "자네 나와 싸워 보겠나.",
+        "진심이야, 좋아.",
+        "자네가 레하르의 결투 신청에 응하지 않으면.",
+        "결코 안 하겠네.",
+        "아주 나쁜 년이야, 최고로 형편없는 년이라고.",
+        "육욕만 있을 뿐이야!",
+        "교양이 없다고!",
+        "이 비열한 악당아, 이놈 우리들 사이에 사연도 많았는데 어떻게 날 똑바로 쳐다볼 수가 있어.",
+        "남편이라고, 이 짐승 같은 놈아!",
+        "내가 피첨 년과의 사건을 모른다고 생각하니, 눈알을 빼 놓을까 보다!",
+        "그럼 그년과 결혼을 안 했어, 이 짐승 같은 놈아?",
+        "부인, 한밤중에 남의 집에 들이닥치다니!",
+        "꼭 말해 두어야 되겠어요, 우리에게 그러지 마시라고요.",
+        "그 더러운 주둥이 닥쳐요, 그러지 않으면",
+        "위조 증서를 내놓고 은행에 사기를 치려고 했지.",
+        "당신의 보석처럼 위조된 거요.",
+        "웃기는군요.",
+        "누굴 부른다고?",
+        "멍청하고 미련하긴.",
+        "나를 잡지 못할걸, 난 덫에 걸리지 않아.",
+        "저 굽실거리는 자들을 먹여 살리기엔 내 돈이 너무 아깝단 말이오.",
+        "지금 막 타오르던 불길이 대공 전하의 에나멜 구두에 짓밟혀 꺼져 버렸소.",
+        "내가 개 코에다가 십 페니히라도 던져 줄, 그런 미친 사람이라고 생각하시오?",
+        "당신이 내가 한 말을 알아듣지 못한다면, 한 대 후려치면서 분명한 내 뜻을 전하겠소."
+      ],
+      "origin": [
+        "나도 법정에 서고 싶지 않아.",
+        "가서 밖에 숨어.",
+        "그가 어둠 속에서 통로를 지나면서 너를 못 볼 거야.",
+        "바로 이리로 올 거니까, 바로 그때 니가…",
+        "빨리, 지금 나가, 곧 돌아올 거야!",
+        "안 돼, 빨리 와!",
+        "난 전에도 이 사람을 만난 적이 있어...",
+        "오린, 이리 와!",
+        "오린, 그런 식으로 나를 보지 마, 말해...",
+        "당신의 그 사람 말이에요!",
+        "거짓말하지 말아요, 지금까지 거짓말을 너무 많이 했어요, 엄마!",
+        "잊는다고?",
+        "누나는 오래전에 잊은 줄 알았는데, 누나는 절대로 기억하는 것처럼 보이지 않았어!",
+        "아니, 누나가 무슨 권리로 사랑을 해?",
+        "아니, 대체 뭐라고요?",
+        "자네는 그녀의 명예를 훼손했고, 그 여자 아버지의 명예를 훼손했어.",
+        "나쁜 녀석, 여자들과 여자들보다 더 약한 음악가들에게 감히 그런 짓을 하다니.",
+        "나쁜 녀석이라고?",
+        "자네는 공개적으로 그에게 사죄해야 하네.",
+        "대체 나에게 왜 그러는 거야!",
+        "그렇다면 그의 이름으로 내가 자네에게 답을 주지.",
+        "자네, 나한테 무엇을 원하는 거야?",
+        "레하르의 명예 회복을.",
+        "나한테 강요하려는 건 아니겠지, 단순한 사람 같으니라고.",
+        "그래, 건달 노릇 하지 말라고 강요하겠네.",
+        "자네도 건달이지 않나?",
+        "자네 나와 싸워 보겠나.",
+        "진심이야, 좋아.",
+        "자네가 레하르의 결투 신청에 응하지 않으면.",
+        "결코 안 하겠네.",
+        "아주 나쁜 년이야, 최고로 형편없는 년이라고.",
+        "육욕만 있을 뿐이야!",
+        "교양이 없다고!",
+        "이 비열한 악당아, 이놈 우리들 사이에 사연도 많았는데 어떻게 날 똑바로 쳐다볼 수가 있어.",
+        "남편이라고, 이 짐승 같은 놈아!",
+        "내가 피첨 년과의 사건을 모른다고 생각하니, 눈알을 빼 놓을까 보다!",
+        "그럼 그년과 결혼을 안 했어, 이 짐승 같은 놈아?",
+        "부인, 한밤중에 남의 집에 들이닥치다니!",
+        "꼭 말해 두어야 되겠어요, 우리에게 그러지 마시라고요.",
+        "그 더러운 주둥이 닥쳐요, 그러지 않으면…",
+        "위조 증서를 내놓고 은행에 사기를 치려고 했지.",
+        "당신의 보석처럼 위조된 거요.",
+        "웃기는군요.",
+        "누굴 부른다고?",
+        "멍청하고 미련하긴.",
+        "나를 잡지 못할걸, 난 덫에 걸리지 않아.",
+        "저 굽실거리는 자들을 먹여 살리기엔 내 돈이 너무 아깝단 말이오.",
+        "지금 막 타오르던 불길이 대공 전하의 에나멜 구두에 짓밟혀 꺼져 버렸소.",
+        "내가 개 코에다가 10페니히라도 던져 줄, 그런 미친 사람이라고 생각하시오?",
+        "당신이 내가 한 말을 알아듣지 못한다면, 한 대 후려치면서 분명한 내 뜻을 전하겠소."
+      ],
+      "part_no": 12,
+      "tokens_count": 297
+    },
+    "sentences": [
+      {
+        "id": "D-A3-E-053-0551",
+        "origin_text": "나도 법정에 서고 싶지 않아.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.6400146484375,
+          "file_duration": 2.1400146484375,
+          "filename": "D-A3-E-053-0551.wav",
+          "ptr": "나도 법정에 서고 싶지 않아.",
+          "tr": "나도 법정에 서고 싶지 않아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0552",
+        "origin_text": "가서 밖에 숨어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.79998779296875,
+          "file_duration": 1.25998779296875,
+          "filename": "D-A3-E-053-0552.wav",
+          "ptr": "가서 밖에 숨어.",
+          "tr": "가서 밖에 숨어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0553",
+        "origin_text": "그가 어둠 속에서 통로를 지나면서 너를 못 볼 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.58001708984375,
+          "file_duration": 3.08001708984375,
+          "filename": "D-A3-E-053-0553.wav",
+          "ptr": "그가 어둠 속에서 통로를 지나면서 너를 못 볼 거야.",
+          "tr": "그가 어둠 속에서 통로를 지나면서 너를 못 볼 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0554",
+        "origin_text": "바로 이리로 올 거니까, 바로 그때 니가…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.3800048828125,
+          "file_duration": 2.91999267578125,
+          "filename": "D-A3-E-053-0554.wav",
+          "ptr": "바로 이리로 올 거니까  /  바로 그때 니가",
+          "tr": "바로 이리로 올 거니까, 바로 그때 니가"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0555",
+        "origin_text": "빨리, 지금 나가, 곧 돌아올 거야!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.260009765625,
+          "file_duration": 2.7600000000000016,
+          "filename": "D-A3-E-053-0555.wav",
+          "ptr": "빨리  /  지금 나가  /  곧 돌아올 거야!",
+          "tr": "빨리, 지금 나가, 곧 돌아올 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0556",
+        "origin_text": "안 돼, 빨리 와!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1,
+          "file_duration": 1.5,
+          "filename": "D-A3-E-053-0556.wav",
+          "ptr": "안 돼  /  빨리 와!",
+          "tr": "안 돼, 빨리 와!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0557",
+        "origin_text": "난 전에도 이 사람을 만난 적이 있어...",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.34002685546875,
+          "file_duration": 2.8599975585937507,
+          "filename": "D-A3-E-053-0557.wav",
+          "ptr": "난  /  전에도 이 사람을 만난 적이 있어.",
+          "tr": "난 전에도 이 사람을 만난 적이 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0558",
+        "origin_text": "오린, 이리 와!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.02001953125,
+          "file_duration": 1.5400244140625006,
+          "filename": "D-A3-E-053-0558.wav",
+          "ptr": "오린  /  이리 와!",
+          "tr": "오린, 이리 와!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0559",
+        "origin_text": "오린, 그런 식으로 나를 보지 마, 말해...",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.0999755859375,
+          "file_duration": 3.6300000000000026,
+          "filename": "D-A3-E-053-0559.wav",
+          "ptr": "오린  /  그런 식으로 나를 보지 마  /  말해.",
+          "tr": "오린, 그런 식으로 나를 보지 마, 말해."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0560",
+        "origin_text": "당신의 그 사람 말이에요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.3599853515625,
+          "file_duration": 1.8900000000000006,
+          "filename": "D-A3-E-053-0560.wav",
+          "ptr": "당신의 그 사람 말이에요!",
+          "tr": "당신의 그 사람 말이에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0561",
+        "origin_text": "거짓말하지 말아요, 지금까지 거짓말을 너무 많이 했어요, 엄마!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.590009765624998,
+          "filename": "D-A3-E-053-0561.wav",
+          "ptr": "거짓말하지 말아요  /  지금까지 거짓말을 너무 많이 했어요 엄마!",
+          "tr": "거짓말하지 말아요, 지금까지 거짓말을 너무 많이 했어요, 엄마!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0562",
+        "origin_text": "잊는다고?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.65997314453125,
+          "file_duration": 1.1700000000000017,
+          "filename": "D-A3-E-053-0562.wav",
+          "ptr": "잊는다고?",
+          "tr": "잊는다고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0563",
+        "origin_text": "누나는 오래전에 잊은 줄 알았는데, 누나는 절대로 기억하는 것처럼 보이지 않았어!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.0999755859375,
+          "file_duration": 5.649978027343749,
+          "filename": "D-A3-E-053-0563.wav",
+          "ptr": "누나는 오래전에 잊은 줄 알았는데  /  누나는 절대로 기억하는 것처럼 보이지 않았어!",
+          "tr": "누나는 오래전에 잊은 줄 알았는데, 누나는 절대로 기억하는 것처럼 보이지 않았어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0564",
+        "origin_text": "아니, 누나가 무슨 권리로 사랑을 해?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.01995849609375,
+          "file_duration": 3.51995849609375,
+          "filename": "D-A3-E-053-0564.wav",
+          "ptr": "아니  /  누나가 무슨 권리로 사랑을 해?",
+          "tr": "아니, 누나가 무슨 권리로 사랑을 해?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0565",
+        "origin_text": "아니, 대체 뭐라고요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.08001708984375,
+          "file_duration": 2.549997558593745,
+          "filename": "D-A3-E-053-0565.wav",
+          "ptr": "아니  /  대체 뭐라고요?",
+          "tr": "아니, 대체 뭐라고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0566",
+        "origin_text": "자네는 그녀의 명예를 훼손했고, 그 여자 아버지의 명예를 훼손했어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.12005615234375,
+          "file_duration": 4.670029296875001,
+          "filename": "D-A3-E-053-0566.wav",
+          "ptr": "자네는 그녀의 명예를 훼손했고  /  그 여자 아버지의 명예를 훼손했어.",
+          "tr": "자네는 그녀의 명예를 훼손했고, 그 여자 아버지의 명예를 훼손했어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0567",
+        "origin_text": "나쁜 녀석, 여자들과 여자들보다 더 약한 음악가들에게 감히 그런 짓을 하다니.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.6199951171875,
+          "file_duration": 6.140000000000001,
+          "filename": "D-A3-E-053-0567.wav",
+          "ptr": "나쁜 녀석  /  여자들과 여자들보다 더 약한 음악가들에게  /  감히 그런 짓을 하다니.",
+          "tr": "나쁜 녀석, 여자들과 여자들보다 더 약한 음악가들에게 감히 그런 짓을 하다니."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0568",
+        "origin_text": "나쁜 녀석이라고?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.0799560546875,
+          "file_duration": 1.6200000000000045,
+          "filename": "D-A3-E-053-0568.wav",
+          "ptr": "나쁜 녀석이라고?",
+          "tr": "나쁜 녀석이라고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0569",
+        "origin_text": "자네는 공개적으로 그에게 사죄해야 하네.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.29998779296875,
+          "file_duration": 2.849987792968747,
+          "filename": "D-A3-E-053-0569.wav",
+          "ptr": "자네는 공개적으로 그에게 사죄해야 하네.",
+          "tr": "자네는 공개적으로 그에게 사죄해야 하네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0570",
+        "origin_text": "대체 나에게 왜 그러는 거야!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.41998291015625,
+          "file_duration": 1.9499853515625034,
+          "filename": "D-A3-E-053-0570.wav",
+          "ptr": "대체 나에게 왜 그러는 거야!",
+          "tr": "대체 나에게 왜 그러는 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0571",
+        "origin_text": "그렇다면 그의 이름으로 내가 자네에게 답을 주지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.260009765625,
+          "file_duration": 3.709980468750004,
+          "filename": "D-A3-E-053-0571.wav",
+          "ptr": "그렇다면  /  그의 이름으로 내가 자네에게 답을 주지.",
+          "tr": "그렇다면 그의 이름으로 내가 자네에게 답을 주지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0572",
+        "origin_text": "자네, 나한테 무엇을 원하는 거야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.44000244140625,
+          "file_duration": 2.969982910156247,
+          "filename": "D-A3-E-053-0572.wav",
+          "ptr": "자네  /  나한테 무엇을 원하는 거야?",
+          "tr": "자네, 나한테 무엇을 원하는 거야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0573",
+        "origin_text": "레하르의 명예 회복을.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.29998779296875,
+          "file_duration": 1.8599902343750045,
+          "filename": "D-A3-E-053-0573.wav",
+          "ptr": "레하르의 명예 회복을.",
+          "tr": "레하르의 명예 회복을."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0574",
+        "origin_text": "나한테 강요하려는 건 아니겠지, 단순한 사람 같으니라고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.739990234375,
+          "file_duration": 4.239990234375,
+          "filename": "D-A3-E-053-0574.wav",
+          "ptr": "나한테 강요하려는 건 아니겠지  /  단순한 사람 같으니라고.",
+          "tr": "나한테 강요하려는 건 아니겠지, 단순한 사람 같으니라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0575",
+        "origin_text": "그래, 건달 노릇 하지 말라고 강요하겠네.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.8599853515625,
+          "file_duration": 3.3599853515625,
+          "filename": "D-A3-E-053-0575.wav",
+          "ptr": "그래  /  건달 노릇 하지 말라고 강요하겠네.",
+          "tr": "그래, 건달 노릇 하지 말라고 강요하겠네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0576",
+        "origin_text": "자네도 건달이지 않나?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.27996826171875,
+          "file_duration": 1.8199829101562557,
+          "filename": "D-A3-E-053-0576.wav",
+          "ptr": "자네도 건달이지 않나?",
+          "tr": "자네도 건달이지 않나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0577",
+        "origin_text": "자네 나와 싸워 보겠나.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.0999755859375,
+          "file_duration": 2.6099999999999994,
+          "filename": "D-A3-E-053-0577.wav",
+          "ptr": "자네  /  나와 싸워 보겠나.",
+          "tr": "자네 나와 싸워 보겠나."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0578",
+        "origin_text": "진심이야, 좋아.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.02001953125,
+          "file_duration": 2.52001953125,
+          "filename": "D-A3-E-053-0578.wav",
+          "ptr": "진심이야  /  좋아.",
+          "tr": "진심이야, 좋아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0579",
+        "origin_text": "자네가 레하르의 결투 신청에 응하지 않으면.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.3399658203125,
+          "file_duration": 2.8700000000000045,
+          "filename": "D-A3-E-053-0579.wav",
+          "ptr": "자네가 레하르의 결투 신청에 응하지 않으면.",
+          "tr": "자네가 레하르의 결투 신청에 응하지 않으면."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0580",
+        "origin_text": "결코 안 하겠네.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.08001708984375,
+          "file_duration": 1.5699902343750125,
+          "filename": "D-A3-E-053-0580.wav",
+          "ptr": "결코 안 하겠네.",
+          "tr": "결코 안 하겠네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0581",
+        "origin_text": "아주 나쁜 년이야, 최고로 형편없는 년이라고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.22003173828125,
+          "file_duration": 3.6800292968750057,
+          "filename": "D-A3-E-053-0581.wav",
+          "ptr": "아주 나쁜 년이야  /  최고로 형편없는 년이라고.",
+          "tr": "아주 나쁜 년이야, 최고로 형편없는 년이라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0582",
+        "origin_text": "육욕만 있을 뿐이야!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.1199951171875,
+          "file_duration": 1.669992675781259,
+          "filename": "D-A3-E-053-0582.wav",
+          "ptr": "육욕만 있을 뿐이야!",
+          "tr": "육욕만 있을 뿐이야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0583",
+        "origin_text": "교양이 없다고!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.87994384765625,
+          "file_duration": 1.37994384765625,
+          "filename": "D-A3-E-053-0583.wav",
+          "ptr": "교양이 없다고!",
+          "tr": "교양이 없다고!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0584",
+        "origin_text": "이 비열한 악당아, 이놈 우리들 사이에 사연도 많았는데 어떻게 날 똑바로 쳐다볼 수가 있어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.1600341796875,
+          "file_duration": 6.6600341796875,
+          "filename": "D-A3-E-053-0584.wav",
+          "ptr": "이 비열한 악당아  /  이놈  /  우리들 사이에 사연도 많았는데  /  어떻게 날 똑바로 쳐다볼 수가 있어.",
+          "tr": "이 비열한 악당아, 이놈 우리들 사이에 사연도 많았는데 어떻게 날 똑바로 쳐다볼 수가 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0585",
+        "origin_text": "남편이라고, 이 짐승 같은 놈아!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.89996337890625,
+          "file_duration": 2.4399755859375034,
+          "filename": "D-A3-E-053-0585.wav",
+          "ptr": "남편이라고 이 짐승 같은 놈아!",
+          "tr": "남편이라고, 이 짐승 같은 놈아!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0586",
+        "origin_text": "내가 피첨 년과의 사건을 모른다고 생각하니, 눈알을 빼 놓을까 보다!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.94000244140625,
+          "file_duration": 4.479990234375009,
+          "filename": "D-A3-E-053-0586.wav",
+          "ptr": "내가 피첨 년과의 사건을 모른다고 생각하니  /  눈알을 빼 놓을까 보다!",
+          "tr": "내가 피첨 년과의 사건을 모른다고 생각하니, 눈알을 빼 놓을까 보다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0587",
+        "origin_text": "그럼 그년과 결혼을 안 했어, 이 짐승 같은 놈아?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.67999267578125,
+          "file_duration": 3.1299999999999955,
+          "filename": "D-A3-E-053-0587.wav",
+          "ptr": "그럼 그년과 결혼을 안 했어 이 짐승 같은 놈아?",
+          "tr": "그럼 그년과 결혼을 안 했어, 이 짐승 같은 놈아?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0588",
+        "origin_text": "부인, 한밤중에 남의 집에 들이닥치다니!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3,
+          "file_duration": 3.459970703125009,
+          "filename": "D-A3-E-053-0588.wav",
+          "ptr": "부인  /  한밤중에 남의 집에 들이닥치다니!",
+          "tr": "부인, 한밤중에 남의 집에 들이닥치다니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0589",
+        "origin_text": "꼭 말해 두어야 되겠어요, 우리에게 그러지 마시라고요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.32000732421875,
+          "file_duration": 3.82000732421875,
+          "filename": "D-A3-E-053-0589.wav",
+          "ptr": "꼭 말해 두어야 되겠어요  /  우리에게 그러지 마시라고요.",
+          "tr": "꼭 말해 두어야 되겠어요, 우리에게 그러지 마시라고요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0590",
+        "origin_text": "그 더러운 주둥이 닥쳐요, 그러지 않으면…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.03997802734375,
+          "file_duration": 3.53997802734375,
+          "filename": "D-A3-E-053-0590.wav",
+          "ptr": "그 더러운 주둥이 닥쳐요  /  그러지 않으면",
+          "tr": "그 더러운 주둥이 닥쳐요, 그러지 않으면"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0591",
+        "origin_text": "위조 증서를 내놓고 은행에 사기를 치려고 했지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.58001708984375,
+          "file_duration": 3.0400146484375057,
+          "filename": "D-A3-E-053-0591.wav",
+          "ptr": "위조 증서를 내놓고 은행에 사기를 치려고 했지.",
+          "tr": "위조 증서를 내놓고 은행에 사기를 치려고 했지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0592",
+        "origin_text": "당신의 보석처럼 위조된 거요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.800048828125,
+          "file_duration": 2.2700219726562523,
+          "filename": "D-A3-E-053-0592.wav",
+          "ptr": "당신의 보석처럼 위조된 거요.",
+          "tr": "당신의 보석처럼 위조된 거요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0593",
+        "origin_text": "웃기는군요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.91998291015625,
+          "file_duration": 1.4700024414062511,
+          "filename": "D-A3-E-053-0593.wav",
+          "ptr": "웃기는군요.",
+          "tr": "웃기는군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0594",
+        "origin_text": "누굴 부른다고?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.9000244140625,
+          "file_duration": 1.4500048828124932,
+          "filename": "D-A3-E-053-0594.wav",
+          "ptr": "누굴 부른다고?",
+          "tr": "누굴 부른다고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0595",
+        "origin_text": "멍청하고 미련하긴.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.3199462890625,
+          "file_duration": 1.8999707031250068,
+          "filename": "D-A3-E-053-0595.wav",
+          "ptr": "멍청하고 미련하긴.",
+          "tr": "멍청하고 미련하긴."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0596",
+        "origin_text": "나를 잡지 못할걸, 난 덫에 걸리지 않아.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.1199951171875,
+          "file_duration": 3.6499902343749966,
+          "filename": "D-A3-E-053-0596.wav",
+          "ptr": "나를 잡지 못할걸  /  난 덫에 걸리지 않아.",
+          "tr": "나를 잡지 못할걸, 난 덫에 걸리지 않아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0597",
+        "origin_text": "저 굽실거리는 자들을 먹여 살리기엔 내 돈이 너무 아깝단 말이오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.699951171875,
+          "file_duration": 4.199951171875,
+          "filename": "D-A3-E-053-0597.wav",
+          "ptr": "저 굽실거리는 자들을 먹여 살리기엔  /  내 돈이 너무 아깝단 말이오.",
+          "tr": "저 굽실거리는 자들을 먹여 살리기엔 내 돈이 너무 아깝단 말이오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0598",
+        "origin_text": "지금 막 타오르던 불길이 대공 전하의 에나멜 구두에 짓밟혀 꺼져 버렸소.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.239990234375,
+          "file_duration": 4.789999999999992,
+          "filename": "D-A3-E-053-0598.wav",
+          "ptr": "지금 막 타오르던 불길이  /  대공 전하의 에나멜 구두에 짓밟혀 꺼져 버렸소.",
+          "tr": "지금 막 타오르던 불길이 대공 전하의 에나멜 구두에 짓밟혀 꺼져 버렸소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0599",
+        "origin_text": "내가 개 코에다가 10페니히라도 던져 줄, 그런 미친 사람이라고 생각하시오?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.97998046875,
+          "file_duration": 5.560000000000002,
+          "filename": "D-A3-E-053-0599.wav",
+          "ptr": "내가 개 코에다가  /  십 페니히라도 던져 줄  /  그런 미친 사람이라고 생각하시오?",
+          "tr": "내가 개 코에다가 십 페니히라도 던져 줄, 그런 미친 사람이라고 생각하시오?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-E-053-0600",
+        "origin_text": "당신이 내가 한 말을 알아듣지 못한다면, 한 대 후려치면서 분명한 내 뜻을 전하겠소.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5,
+          "file_duration": 5.449987792968756,
+          "filename": "D-A3-E-053-0600.wav",
+          "ptr": "당신이 내가 한 말을 알아듣지 못한다면  /  한 대 후려치면서 분명한 내 뜻을 전하겠소.",
+          "tr": "당신이 내가 한 말을 알아듣지 못한다면, 한 대 후려치면서 분명한 내 뜻을 전하겠소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "E",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오5"
+    },
+    "voice": {
+      "duration": 251.2,
+      "filename": "/data2/gst-voice/splitted/D/053/D-A304-P12-E-053.wav",
+      "recorded_at": "2022-09-14 06:00:54",
+      "sample_rate": 44100
+    }
+  }
+]

@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NX02-P05-B-064",
+    "import": {
+      "author": "송길한",
+      "book_title": "송길한시나리오선집",
+      "country": "한국",
+      "id": "D0028",
+      "publish_year": 2006,
+      "times_bg": "현대",
+      "title": "만다라",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 64
+    },
+    "script": {
+      "chars_count": 1226,
+      "id": "D-NX02",
+      "normalized": [
+        "그게 비위에 거슬려서 떠나시는 건가요?",
+        "언젠가 그놈의 공양주한테 행패를 부린 일이 있거든.",
+        "아무튼, 주지 녀석이 여비까지 주면서 재가 끝날 때까지만이라도 어디로 피해 달라고 간절히 부탁하는구먼.",
+        "쫓겨날 게 아니라 남아서 또 행패를 부리는 게 지산 스님다운 것 같은데요?",
+        "휴양을 오셨나요?",
+        "중이 갈 데가 산밖에 더 있나요?",
+        "승려증 따위 그까짓 종이때기가 무슨 상관이에요.",
+        "참말로 발심해서 공부하겠다는데야 누군들 말리겠어요.",
+        "못할 건 뭐 있어요.",
+        "죽을 작정으로 한번 해보는 거죠, 이 세상에 안 태어난 셈치고.",
+        "아냐, 이대로 돌겠어, 떠돌이 잡승으로",
+        "방황도 나에겐 문제를 해결할 수 있는 하나의 방법이니까.",
+        "이렇게 스님을 방황하게 하는 본질적인 이유가 어디 있는지 알고 싶군요.",
+        "아무것도 가진 게 없다는 것은 다 버렸다는 것이고 다 버렸다는 것은 더 큰 것을 소유하고 싶다는 욕망의 역설이 아닌가요?",
+        "망상 때문이겠죠, 부질없는 망상.",
+        "몇 번이나 말해야 알겠어.",
+        "더 이상 학교에 다닐 이유를 발견하지 못했기 때문이야.",
+        "허허, 그것도 음식일세, 가리지 말고 먹어 두게.",
+        "활짝 피어야 할 한창 나이에 얼굴엔 검버섯과 마른버짐이 피고, 앉았다 일어나면 눈앞이 핑핑 돌 텐데 말야.",
+        "서울은 왜 오자고 하셨어요?",
+        "여길 어떻게 알고 찾아왔어?",
+        "내 이름은 병진이가 아니고 법운이야.",
+        "승려 이전에 한 남자로서, 더구나 피가 끓는 젊은 남자로서 난들 어찌 영주가 그립지 않겠어.",
+        "영주야말로 나에겐 가장 큰 번뇌일지도 모르지.",
+        "하지만 진실한 마음에서 출가한 승려라면 그런 번뇌쯤은 신심으로 극복해야 해.",
+        "어리석다니, 손가락 공양을 후회한단 말인가?",
+        "나는 물론 많은 사람들이 수관의 신심을 부러워하고 무서워하는데",
+        "지금 와서 그런 자학을 하면 곤란하지.",
+        "문제는 신심이야, 수관 같은 신심이면 반드시 성불하리라 믿어.",
+        "그럼 참선 해제 법문 때 주장자를 뺏은 의미는 뭐였나?",
+        "난 조실 스님의 답변도 예상하고 있었어, 백 년 전 천 년 전 그때그때 고승들이 방편으로 내뱉은 언어, 그 구전된 사어들을 인용하고 있는 거야.",
+        "그럼 앞으로 어떻게 수행을 하겠다는 거야?",
+        "음, 나를 내 속에서 찾는 게 아니라 타인 속에서 찾아보는 거야.",
+        "자기 속에서 자기도 못 찾으면서 어떻게 타인 속에서 자기를 찾아?",
+        "그때 그 섬에 이상한 전염병이 돌았어.",
+        "따지고 보면 중이랄 것도 없지, 승적도 없는 땡초였으니까.",
+        "한데 하루에도 십여 명씩 사람들이 죽어 나가는데 집집마다 찾아다니며 땡초 혼자 천도제를 올려 주고 병자들을 업고, 바닷가로 나가서 일일이 소금물에 고름을 씻어 주고, 탁발을 해서 없는 집에 쌀을 나눠 주고",
+        "모르지, 섬사람들은 절을 지어 그분에게 보답하려고 했지만 영영 찾을 길이 없었지.",
+        "진짜 불제자구먼, 그래 수관은 거기서 뭘 했나?",
+        "지산이라는 그 땡초가 그렇게 애쓰는 동안, 난 산속에서 텐트를 치고 가련한 중생을 구해 주십사 하고 염불만 하고 있었지.",
+        "왜, 잘 아는 분인가?",
+        "부처님 그림자도 못 봤습니다.",
+        "그림자는 잡히지 않지, 원래 존재하지 않으니까.",
+        "포기는 안 해, 방법은 하나 남아 있으니까.",
+        "꼭 공동묘지를 지나가는 기분이군.",
+        "중생에겐 삼계가 다 무덤이죠.",
+        "태어나지를 말아라, 죽기가 괴롭느니 죽지를 말아라, 태어나기가 괴롭느니",
+        "원효 대사는 니힐리스트였어.",
+        "그 말은 생사윤회를 벗어나자는 말일 텐데요.",
+        "마찬가지야, 깨달음을 얻어 생사를 벗어난다 해도."
+      ],
+      "origin": [
+        "그게 비위에 거슬려서 떠나시는 건가요?",
+        "언젠가 그놈의 공양주한테 행패를 부린 일이 있거든.",
+        "아무튼, 주지 녀석이 여비까지 주면서 재가 끝날 때까지만이라도 어디로 피해 달라고 간절히 부탁하는구먼.",
+        "쫓겨날 게 아니라 남아서 또 행패를 부리는 게 지산 스님다운 것 같은데요?",
+        "휴양을 오셨나요?",
+        "중이 갈 데가 산밖에 더 있나요?",
+        "승려증 따위 그까짓 종이때기가 무슨 상관이에요.",
+        "참말로 발심해서 공부하겠다는데야 누군들 말리겠어요.",
+        "못할 건 뭐 있어요.",
+        "죽을 작정으로 한번 해보는 거죠, 이 세상에 안 태어난 셈치고.",
+        "아냐, 이대로 돌겠어, 떠돌이 잡승으로…",
+        "방황도 나에겐 문제를 해결할 수 있는 하나의 방법이니까.",
+        "이렇게 스님을 방황하게 하는 본질적인 이유가 어디 있는지 알고 싶군요.",
+        "아무것도 가진 게 없다는 것은 다 버렸다는 것이고 다 버렸다는 것은 더 큰 것을 소유하고 싶다는 욕망의 역설이 아닌가요?",
+        "망상 때문이겠죠, 부질없는 망상...",
+        "몇 번이나 말해야 알겠어.",
+        "더 이상 학교에 다닐 이유를 발견하지 못했기 때문이야.",
+        "허허, 그것도 음식일세, 가리지 말고 먹어 두게.",
+        "활짝 피어야 할 한창 나이에 얼굴엔 검버섯과 마른버짐이 피고, 앉았다 일어나면 눈앞이 핑핑 돌 텐데 말야.",
+        "서울은 왜 오자고 하셨어요?",
+        "여길 어떻게 알고 찾아왔어?",
+        "내 이름은 병진이가 아니고 법운이야.",
+        "승려 이전에 한 남자로서, 더구나 피가 끓는 젊은 남자로서 난들 어찌 영주가 그립지 않겠어.",
+        "영주야말로 나에겐 가장 큰 번뇌일지도 모르지.",
+        "하지만 진실한 마음에서 출가한 승려라면 그런 번뇌쯤은 신심으로 극복해야 해.",
+        "어리석다니, 손가락 공양을 후회한단 말인가?",
+        "나는 물론 많은 사람들이 수관의 신심을 부러워하고 무서워하는데…",
+        "지금 와서 그런 자학을 하면 곤란하지.",
+        "문제는 신심이야, 수관 같은 신심이면 반드시 성불하리라 믿어.",
+        "그럼 참선 해제 법문 때 주장자를 뺏은 의미는 뭐였나?",
+        "난 조실 스님의 답변도 예상하고 있었어, 백 년 전 천 년 전 그때그때 고승들이 방편으로 내뱉은 언어, 그 구전된 사어들을 인용하고 있는 거야.",
+        "그럼 앞으로 어떻게 수행을 하겠다는 거야?",
+        "음, 나를 내 속에서 찾는 게 아니라 타인 속에서 찾아보는 거야.",
+        "자기 속에서 자기도 못 찾으면서 어떻게 타인 속에서 자기를 찾아?",
+        "그때 그 섬에 이상한 전염병이 돌았어.",
+        "따지고 보면 중이랄 것도 없지, 승적도 없는 땡초였으니까.",
+        "한데 하루에도 십여 명씩 사람들이 죽어 나가는데 집집마다 찾아다니며 땡초 혼자 천도제를 올려 주고 병자들을 업고, 바닷가로 나가서 일일이 소금물에 고름을 씻어 주고, 탁발을 해서 없는 집에 쌀을 나눠 주고…",
+        "모르지, 섬사람들은 절을 지어 그분에게 보답하려고 했지만 영영 찾을 길이 없었지.",
+        "진짜 불제자구먼, 그래 수관은 거기서 뭘 했나?",
+        "지산이라는 그 땡초가 그렇게 애쓰는 동안, 난 산속에서 텐트를 치고 가련한 중생을 구해 주십사 하고 염불만 하고 있었지.",
+        "왜, 잘 아는 분인가?",
+        "부처님 그림자도 못 봤습니다.",
+        "그림자는 잡히지 않지, 원래 존재하지 않으니까.",
+        "포기는 안 해, 방법은 하나 남아 있으니까.",
+        "꼭 공동묘지를 지나가는 기분이군.",
+        "중생에겐 삼계가 다 무덤이죠.",
+        "태어나지를 말아라, 죽기가 괴롭느니 죽지를 말아라, 태어나기가 괴롭느니…",
+        "원효 대사는 니힐리스트였어.",
+        "그 말은 생사윤회를 벗어나자는 말일 텐데요.",
+        "마찬가지야, 깨달음을 얻어 생사를 벗어난다 해도."
+      ],
+      "part_no": 5,
+      "tokens_count": 412
+    },
+    "sentences": [
+      {
+        "id": "D-NX-B-064-0201",
+        "origin_text": "그게 비위에 거슬려서 떠나시는 건가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.58001708984375,
+          "file_duration": 3.08001708984375,
+          "filename": "D-NX-B-064-0201.wav",
+          "ptr": "그게 비위에 거슬려서 떠나시는 건가요?",
+          "tr": "그게 비위에 거슬려서 떠나시는 건가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0202",
+        "origin_text": "언젠가 그놈의 공양주한테 행패를 부린 일이 있거든.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.15997314453125,
+          "file_duration": 3.65997314453125,
+          "filename": "D-NX-B-064-0202.wav",
+          "ptr": "언젠가 그놈의 공양주한테 행패를 부린 일이 있거든.",
+          "tr": "언젠가 그놈의 공양주한테 행패를 부린 일이 있거든."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0203",
+        "origin_text": "아무튼, 주지 녀석이 여비까지 주면서 재가 끝날 때까지만이라도 어디로 피해 달라고 간절히 부탁하는구먼.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.260009765625,
+          "file_duration": 7.760009765625,
+          "filename": "D-NX-B-064-0203.wav",
+          "ptr": "아무튼  /  주지 녀석이 여비까지 주면서  /  재가 끝날 때까지만이라도  /  어디로 피해 달라고 간절히 부탁하는구먼.",
+          "tr": "아무튼, 주지 녀석이 여비까지 주면서 재가 끝날 때까지만이라도 어디로 피해 달라고 간절히 부탁하는구먼."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0204",
+        "origin_text": "쫓겨날 게 아니라 남아서 또 행패를 부리는 게 지산 스님다운 것 같은데요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.339996337890625,
+          "file_duration": 4.839996337890625,
+          "filename": "D-NX-B-064-0204.wav",
+          "ptr": "쫓겨날 게 아니라  /  남아서 또 행패를 부리는 게 지산 스님다운 것 같은데요?",
+          "tr": "쫓겨날 게 아니라 남아서 또 행패를 부리는 게 지산 스님다운 것 같은데요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0205",
+        "origin_text": "휴양을 오셨나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.97998046875,
+          "file_duration": 1.47998046875,
+          "filename": "D-NX-B-064-0205.wav",
+          "ptr": "휴양을 오셨나요?",
+          "tr": "휴양을 오셨나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0206",
+        "origin_text": "중이 갈 데가 산밖에 더 있나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.94000244140625,
+          "file_duration": 2.44000244140625,
+          "filename": "D-NX-B-064-0206.wav",
+          "ptr": "중이 갈 데가 산밖에 더 있나요?",
+          "tr": "중이 갈 데가 산밖에 더 있나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0207",
+        "origin_text": "승려증 따위 그까짓 종이때기가 무슨 상관이에요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.399993896484375,
+          "file_duration": 3.899993896484375,
+          "filename": "D-NX-B-064-0207.wav",
+          "ptr": "승려증 따위 그까짓 종이때기가 무슨 상관이에요.",
+          "tr": "승려증 따위 그까짓 종이때기가 무슨 상관이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0208",
+        "origin_text": "참말로 발심해서 공부하겠다는데야 누군들 말리겠어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "D-NX-B-064-0208.wav",
+          "ptr": "참말로 발심해서 공부하겠다는데야  /  누군들 말리겠어요.",
+          "tr": "참말로 발심해서 공부하겠다는데야 누군들 말리겠어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0209",
+        "origin_text": "못할 건 뭐 있어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.239990234375,
+          "file_duration": 1.739990234375,
+          "filename": "D-NX-B-064-0209.wav",
+          "ptr": "못할 건 뭐 있어요.",
+          "tr": "못할 건 뭐 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0210",
+        "origin_text": "죽을 작정으로 한번 해보는 거죠, 이 세상에 안 태어난 셈치고.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.9000244140625,
+          "file_duration": 4.4000244140625,
+          "filename": "D-NX-B-064-0210.wav",
+          "ptr": "죽을 작정으로 한번 해보는 거죠  /  이 세상에 안 태어난 셈치고.",
+          "tr": "죽을 작정으로 한번 해보는 거죠, 이 세상에 안 태어난 셈치고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0211",
+        "origin_text": "아냐, 이대로 돌겠어, 떠돌이 잡승으로…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.519989013671875,
+          "file_duration": 4.019989013671875,
+          "filename": "D-NX-B-064-0211.wav",
+          "ptr": "아냐  /  이대로 돌겠어  /  떠돌이 잡승으로",
+          "tr": "아냐, 이대로 돌겠어, 떠돌이 잡승으로"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0212",
+        "origin_text": "방황도 나에겐 문제를 해결할 수 있는 하나의 방법이니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.800018310546875,
+          "file_duration": 4.300018310546875,
+          "filename": "D-NX-B-064-0212.wav",
+          "ptr": "방황도 나에겐  /  문제를 해결할 수 있는 하나의 방법이니까.",
+          "tr": "방황도 나에겐 문제를 해결할 수 있는 하나의 방법이니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0213",
+        "origin_text": "이렇게 스님을 방황하게 하는 본질적인 이유가 어디 있는지 알고 싶군요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.660003662109375,
+          "file_duration": 5.160003662109375,
+          "filename": "D-NX-B-064-0213.wav",
+          "ptr": "이렇게 스님을 방황하게 하는 본질적인 이유가  /  어디 있는지 알고 싶군요.",
+          "tr": "이렇게 스님을 방황하게 하는 본질적인 이유가 어디 있는지 알고 싶군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0214",
+        "origin_text": "아무것도 가진 게 없다는 것은 다 버렸다는 것이고 다 버렸다는 것은 더 큰 것을 소유하고 싶다는 욕망의 역설이 아닌가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 9.660003662109375,
+          "file_duration": 10.160003662109375,
+          "filename": "D-NX-B-064-0214.wav",
+          "ptr": "아무것도 가진 게 없다는 것은  /  다 버렸다는 것이고  /  다 버렸다는 것은  /  더 큰 것을 소유하고 싶다는  /  욕망의 역설이 아닌가요?",
+          "tr": "아무것도 가진 게 없다는 것은 다 버렸다는 것이고 다 버렸다는 것은 더 큰 것을 소유하고 싶다는 욕망의 역설이 아닌가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0215",
+        "origin_text": "망상 때문이겠죠, 부질없는 망상...",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.600006103515625,
+          "file_duration": 4.100006103515625,
+          "filename": "D-NX-B-064-0215.wav",
+          "ptr": "망상 때문이겠죠  /  부질없는 망상.",
+          "tr": "망상 때문이겠죠, 부질없는 망상."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0216",
+        "origin_text": "몇 번이나 말해야 알겠어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.55999755859375,
+          "file_duration": 2.05999755859375,
+          "filename": "D-NX-B-064-0216.wav",
+          "ptr": "몇 번이나 말해야 알겠어.",
+          "tr": "몇 번이나 말해야 알겠어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0217",
+        "origin_text": "더 이상 학교에 다닐 이유를 발견하지 못했기 때문이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.94000244140625,
+          "file_duration": 3.44000244140625,
+          "filename": "D-NX-B-064-0217.wav",
+          "ptr": "더 이상 학교에 다닐 이유를 발견하지 못했기 때문이야.",
+          "tr": "더 이상 학교에 다닐 이유를 발견하지 못했기 때문이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0218",
+        "origin_text": "허허, 그것도 음식일세, 가리지 말고 먹어 두게.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.660003662109375,
+          "file_duration": 5.160003662109375,
+          "filename": "D-NX-B-064-0218.wav",
+          "ptr": "허허  /  그것도 음식일세  /  가리지 말고 먹어 두게.",
+          "tr": "허허, 그것도 음식일세, 가리지 말고 먹어 두게."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0219",
+        "origin_text": "활짝 피어야 할 한창 나이에 얼굴엔 검버섯과 마른버짐이 피고, 앉았다 일어나면 눈앞이 핑핑 돌 텐데 말야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.8599853515625,
+          "file_duration": 9.3599853515625,
+          "filename": "D-NX-B-064-0219.wav",
+          "ptr": "활짝 피어야 할 한창 나이에  /  얼굴엔 검버섯과 마른버짐이 피고  /  앉았다 일어나면 눈앞이 핑핑 돌 텐데 말야.",
+          "tr": "활짝 피어야 할 한창 나이에 얼굴엔 검버섯과 마른버짐이 피고, 앉았다 일어나면 눈앞이 핑핑 돌 텐데 말야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0220",
+        "origin_text": "서울은 왜 오자고 하셨어요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.739990234375,
+          "file_duration": 2.239990234375,
+          "filename": "D-NX-B-064-0220.wav",
+          "ptr": "서울은 왜 오자고 하셨어요?",
+          "tr": "서울은 왜 오자고 하셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0221",
+        "origin_text": "여길 어떻게 알고 찾아왔어?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.980010986328125,
+          "file_duration": 2.480010986328125,
+          "filename": "D-NX-B-064-0221.wav",
+          "ptr": "여길 어떻게 알고 찾아왔어?",
+          "tr": "여길 어떻게 알고 찾아왔어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0222",
+        "origin_text": "내 이름은 병진이가 아니고 법운이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.32000732421875,
+          "file_duration": 2.82000732421875,
+          "filename": "D-NX-B-064-0222.wav",
+          "ptr": "내 이름은 병진이가 아니고 법운이야.",
+          "tr": "내 이름은 병진이가 아니고 법운이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0223",
+        "origin_text": "승려 이전에 한 남자로서, 더구나 피가 끓는 젊은 남자로서 난들 어찌 영주가 그립지 않겠어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.279998779296875,
+          "file_duration": 7.779998779296875,
+          "filename": "D-NX-B-064-0223.wav",
+          "ptr": "승려 이전에 한 남자로서  /  더구나 피가 끓는 젊은 남자로서  /  난들 어찌 영주가 그립지 않겠어.",
+          "tr": "승려 이전에 한 남자로서, 더구나 피가 끓는 젊은 남자로서 난들 어찌 영주가 그립지 않겠어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0224",
+        "origin_text": "영주야말로 나에겐 가장 큰 번뇌일지도 모르지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.32000732421875,
+          "file_duration": 3.82000732421875,
+          "filename": "D-NX-B-064-0224.wav",
+          "ptr": "영주야말로  /  나에겐 가장 큰 번뇌일지도 모르지.",
+          "tr": "영주야말로 나에겐 가장 큰 번뇌일지도 모르지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0225",
+        "origin_text": "하지만 진실한 마음에서 출가한 승려라면 그런 번뇌쯤은 신심으로 극복해야 해.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "D-NX-B-064-0225.wav",
+          "ptr": "하지만 진실한 마음에서 출가한 승려라면  /  그런 번뇌쯤은 신심으로 극복해야 해.",
+          "tr": "하지만 진실한 마음에서 출가한 승려라면 그런 번뇌쯤은 신심으로 극복해야 해."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0226",
+        "origin_text": "어리석다니, 손가락 공양을 후회한단 말인가?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.459991455078125,
+          "file_duration": 3.959991455078125,
+          "filename": "D-NX-B-064-0226.wav",
+          "ptr": "어리석다니  /  손가락 공양을 후회한단 말인가?",
+          "tr": "어리석다니, 손가락 공양을 후회한단 말인가?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0227",
+        "origin_text": "나는 물론 많은 사람들이 수관의 신심을 부러워하고 무서워하는데…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.41998291015625,
+          "file_duration": 4.91998291015625,
+          "filename": "D-NX-B-064-0227.wav",
+          "ptr": "나는 물론 많은 사람들이 수관의 신심을 부러워하고 무서워하는데",
+          "tr": "나는 물론 많은 사람들이 수관의 신심을 부러워하고 무서워하는데"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0228",
+        "origin_text": "지금 와서 그런 자학을 하면 곤란하지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.29998779296875,
+          "file_duration": 2.79998779296875,
+          "filename": "D-NX-B-064-0228.wav",
+          "ptr": "지금 와서 그런 자학을 하면 곤란하지.",
+          "tr": "지금 와서 그런 자학을 하면 곤란하지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0229",
+        "origin_text": "문제는 신심이야, 수관 같은 신심이면 반드시 성불하리라 믿어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.6199951171875,
+          "filename": "D-NX-B-064-0229.wav",
+          "ptr": "문제는 신심이야  /  수관 같은 신심이면  /  반드시 성불하리라 믿어.",
+          "tr": "문제는 신심이야, 수관 같은 신심이면 반드시 성불하리라 믿어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0230",
+        "origin_text": "그럼 참선 해제 법문 때 주장자를 뺏은 의미는 뭐였나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.44000244140625,
+          "file_duration": 4.94000244140625,
+          "filename": "D-NX-B-064-0230.wav",
+          "ptr": "그럼 참선 해제 법문 때  /  주장자를 뺏은 의미는 뭐였나?",
+          "tr": "그럼 참선 해제 법문 때 주장자를 뺏은 의미는 뭐였나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0231",
+        "origin_text": "난 조실 스님의 답변도 예상하고 있었어, 백 년 전 천 년 전 그때그때 고승들이 방편으로 내뱉은 언어, 그 구전된 사어들을 인용하고 있는 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 11.44000244140625,
+          "file_duration": 11.94000244140625,
+          "filename": "D-NX-B-064-0231.wav",
+          "ptr": "난 조실 스님의 답변도 예상하고 있었어  /  백 년 전 천 년 전  /  그때그때 고승들이 방편으로 내뱉은 언어  /  그 구전된 사어들을  /  인용하고 있는 거야.",
+          "tr": "난 조실 스님의 답변도 예상하고 있었어, 백 년 전 천 년 전 그때그때 고승들이 방편으로 내뱉은 언어, 그 구전된 사어들을 인용하고 있는 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0232",
+        "origin_text": "그럼 앞으로 어떻게 수행을 하겠다는 거야?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.32000732421875,
+          "file_duration": 2.82000732421875,
+          "filename": "D-NX-B-064-0232.wav",
+          "ptr": "그럼 앞으로 어떻게 수행을 하겠다는 거야?",
+          "tr": "그럼 앞으로 어떻게 수행을 하겠다는 거야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0233",
+        "origin_text": "음, 나를 내 속에서 찾는 게 아니라 타인 속에서 찾아보는 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8599853515625,
+          "file_duration": 5.3599853515625,
+          "filename": "D-NX-B-064-0233.wav",
+          "ptr": "음  /  나를 내 속에서 찾는 게 아니라  /  타인 속에서 찾아보는 거야.",
+          "tr": "음, 나를 내 속에서 찾는 게 아니라 타인 속에서 찾아보는 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0234",
+        "origin_text": "자기 속에서 자기도 못 찾으면서 어떻게 타인 속에서 자기를 찾아?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.43994140625,
+          "file_duration": 4.93994140625,
+          "filename": "D-NX-B-064-0234.wav",
+          "ptr": "자기 속에서 자기도 못 찾으면서  /  어떻게 타인 속에서 자기를 찾아?",
+          "tr": "자기 속에서 자기도 못 찾으면서 어떻게 타인 속에서 자기를 찾아?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0235",
+        "origin_text": "그때 그 섬에 이상한 전염병이 돌았어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5184671201814126,
+          "file_duration": 2.7684671201814126,
+          "filename": "D-NX-B-064-0235.wav",
+          "ptr": "그때 그 섬에 이상한 전염병이 돌았어.",
+          "tr": "그때 그 섬에 이상한 전염병이 돌았어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0236",
+        "origin_text": "따지고 보면 중이랄 것도 없지, 승적도 없는 땡초였으니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.4000244140625,
+          "file_duration": 4.9000244140625,
+          "filename": "D-NX-B-064-0236.wav",
+          "ptr": "따지고 보면 중이랄 것도 없지  /  승적도 없는 땡초였으니까.",
+          "tr": "따지고 보면 중이랄 것도 없지, 승적도 없는 땡초였으니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0237",
+        "origin_text": "한데 하루에도 십여 명씩 사람들이 죽어 나가는데 집집마다 찾아다니며 땡초 혼자 천도제를 올려 주고 병자들을 업고, 바닷가로 나가서 일일이 소금물에 고름을 씻어 주고, 탁발을 해서 없는 집에 쌀을 나눠 주고…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 15.5999755859375,
+          "file_duration": 16.0999755859375,
+          "filename": "D-NX-B-064-0237.wav",
+          "ptr": "한데 하루에도 십여 명씩 사람들이 죽어 나가는데  /  집집마다 찾아다니며  /  땡초 혼자 천도제를 올려 주고 병자들을 업고  /  바닷가로 나가서 일일이 소금물에 고름을 씻어 주고  /  탁발을 해서 없는 집에 쌀을 나눠 주고",
+          "tr": "한데 하루에도 십여 명씩 사람들이 죽어 나가는데 집집마다 찾아다니며 땡초 혼자 천도제를 올려 주고 병자들을 업고, 바닷가로 나가서 일일이 소금물에 고름을 씻어 주고, 탁발을 해서 없는 집에 쌀을 나눠 주고"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0238",
+        "origin_text": "모르지, 섬사람들은 절을 지어 그분에게 보답하려고 했지만 영영 찾을 길이 없었지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.55999755859375,
+          "file_duration": 7.05999755859375,
+          "filename": "D-NX-B-064-0238.wav",
+          "ptr": "모르지  /  섬사람들은  /  절을 지어 그분에게 보답하려고 했지만  /  영영 찾을 길이 없었지.",
+          "tr": "모르지, 섬사람들은 절을 지어 그분에게 보답하려고 했지만 영영 찾을 길이 없었지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0239",
+        "origin_text": "진짜 불제자구먼, 그래 수관은 거기서 뭘 했나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-NX-B-064-0239.wav",
+          "ptr": "진짜 불제자구먼  /  그래  /  수관은 거기서 뭘 했나?",
+          "tr": "진짜 불제자구먼, 그래 수관은 거기서 뭘 했나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0240",
+        "origin_text": "지산이라는 그 땡초가 그렇게 애쓰는 동안, 난 산속에서 텐트를 치고 가련한 중생을 구해 주십사 하고 염불만 하고 있었지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.55999755859375,
+          "file_duration": 9.05999755859375,
+          "filename": "D-NX-B-064-0240.wav",
+          "ptr": "지산이라는 그 땡초가 그렇게 애쓰는 동안  /  난 산속에서 텐트를 치고  /  가련한 중생을 구해 주십사 하고 염불만 하고 있었지.",
+          "tr": "지산이라는 그 땡초가 그렇게 애쓰는 동안, 난 산속에서 텐트를 치고 가련한 중생을 구해 주십사 하고 염불만 하고 있었지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0241",
+        "origin_text": "왜, 잘 아는 분인가?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.96002197265625,
+          "file_duration": 2.46002197265625,
+          "filename": "D-NX-B-064-0241.wav",
+          "ptr": "왜  /  잘 아는 분인가?",
+          "tr": "왜, 잘 아는 분인가?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0242",
+        "origin_text": "부처님 그림자도 못 봤습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.91998291015625,
+          "file_duration": 2.41998291015625,
+          "filename": "D-NX-B-064-0242.wav",
+          "ptr": "부처님 그림자도 못 봤습니다.",
+          "tr": "부처님 그림자도 못 봤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0243",
+        "origin_text": "그림자는 잡히지 않지, 원래 존재하지 않으니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.60003662109375,
+          "file_duration": 4.10003662109375,
+          "filename": "D-NX-B-064-0243.wav",
+          "ptr": "그림자는 잡히지 않지  /  원래 존재하지 않으니까.",
+          "tr": "그림자는 잡히지 않지, 원래 존재하지 않으니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0244",
+        "origin_text": "포기는 안 해, 방법은 하나 남아 있으니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.3399658203125,
+          "file_duration": 3.8399658203125,
+          "filename": "D-NX-B-064-0244.wav",
+          "ptr": "포기는 안 해  /  방법은 하나 남아 있으니까.",
+          "tr": "포기는 안 해, 방법은 하나 남아 있으니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0245",
+        "origin_text": "꼭 공동묘지를 지나가는 기분이군.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.239990234375,
+          "file_duration": 2.739990234375,
+          "filename": "D-NX-B-064-0245.wav",
+          "ptr": "꼭  /  공동묘지를 지나가는 기분이군.",
+          "tr": "꼭 공동묘지를 지나가는 기분이군."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0246",
+        "origin_text": "중생에겐 삼계가 다 무덤이죠.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.03997802734375,
+          "file_duration": 2.53997802734375,
+          "filename": "D-NX-B-064-0246.wav",
+          "ptr": "중생에겐 삼계가 다 무덤이죠.",
+          "tr": "중생에겐 삼계가 다 무덤이죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0247",
+        "origin_text": "태어나지를 말아라, 죽기가 괴롭느니 죽지를 말아라, 태어나기가 괴롭느니…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.08001708984375,
+          "file_duration": 7.58001708984375,
+          "filename": "D-NX-B-064-0247.wav",
+          "ptr": "태어나지를 말아라  /  죽기가 괴롭느니  /  죽지를 말아라  /  태어나기가 괴롭느니",
+          "tr": "태어나지를 말아라, 죽기가 괴롭느니 죽지를 말아라, 태어나기가 괴롭느니"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0248",
+        "origin_text": "원효 대사는 니힐리스트였어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.17999267578125,
+          "file_duration": 2.67999267578125,
+          "filename": "D-NX-B-064-0248.wav",
+          "ptr": "원효 대사는  /  니힐리스트였어.",
+          "tr": "원효 대사는 니힐리스트였어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0249",
+        "origin_text": "그 말은 생사윤회를 벗어나자는 말일 텐데요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.1199951171875,
+          "file_duration": 3.6199951171875,
+          "filename": "D-NX-B-064-0249.wav",
+          "ptr": "그 말은 생사윤회를 벗어나자는 말일 텐데요.",
+          "tr": "그 말은 생사윤회를 벗어나자는 말일 텐데요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0250",
+        "origin_text": "마찬가지야, 깨달음을 얻어 생사를 벗어난다 해도.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.86004638671875,
+          "file_duration": 4.36004638671875,
+          "filename": "D-NX-B-064-0250.wav",
+          "ptr": "마찬가지야  /  깨달음을 얻어 생사를 벗어난다 해도.",
+          "tr": "마찬가지야, 깨달음을 얻어 생사를 벗어난다 해도."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 398.340022675737,
+      "filename": "/data2/gst-voice/splitted/D/064/D-NX02-P05-B-064.wav",
+      "recorded_at": "2022-10-14 04:48:14",
+      "sample_rate": 44100
+    }
+  }
+]

@@ -77,10 +77,11 @@ def face_detect(imageData):
 
     gWait = False
 
-    if faceResult[1] < 3:
-        return "unknown"
-    else:
-        return faceResult[0]
+    # if faceResult[1] < 2:
+    #     return "unknown"
+    # else:
+    #     return faceResult[0]
+    return faceResult[0]
 
 
 

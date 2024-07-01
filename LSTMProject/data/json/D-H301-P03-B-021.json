@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-H301-P03-B-021",
+    "import": {
+      "author": "유진 오닐(Eugene G. O’Neill)",
+      "book_title": "느릅나무 밑의 욕망(Desire Under the Elms)",
+      "country": "미국",
+      "id": "D0013",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "느릅나무 밑의 욕망(Desire Under the Elms)",
+      "translator": "이형식"
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 969,
+      "id": "D-H301",
+      "normalized": [
+        "당신 약속했어!",
+        "하나님이 한 일을 어쩌면 되돌릴 수 있을 거야!",
+        "당신에게 증명할 거야!",
+        "내가 당신을 더 사랑한다는 것을, 이 세상 무엇보다!",
+        "당신을 그 무엇보다 사랑한다는 것을 증명했어.",
+        "이제 더 이상 나를 의심하지 못하도록.",
+        "그 말을 한 것으로 지옥의 모든 죄를 용서할게!",
+        "반갑군, 자 한잔하시게.",
+        "순간순간을 죽음과 대결하는 황야의 건맨!",
+        "하도 재미있어서 단숨에 읽어 버린 책이에요.",
+        "여전하시군요?",
+        "반갑구먼, 반가워, 몇 년 만인가?",
+        "별이 너무 아름다워요!",
+        "대단한 소식이란다, 전투가 벌어졌대!",
+        "슬리브니차에서 큰 전투가 벌어졌단다!",
+        "승리를 거두었어, 세르지우스가 승리의 주역이라더구나!",
+        "세르지우스는 화제의 영웅이자 연대의 우상이야.",
+        "말해 줘요, 말해 줘요, 어땠어요?",
+        "얼마나 멋진지 짐작도 못할 거야.",
+        "기병대의 공격, 생각을 해 봐!",
+        "그는 러시아 지휘관의 명령을 거부하고, 명령도 없이, 독단적으로 공격을 주도해, 앞장서서 적의 포대를 처음으로 휩쓸었단다, 눈에 선하지 않니, 라이나?",
+        "하지만 상관없어요, 너무 행복하고 너무 자랑스러워요!",
+        "우리의 모든 생각이 진짜라는 것을 입증한 셈이니까요.",
+        "그게 모두 사실이라니, 세르지우스가 겉모습만큼이나 실제로 멋지고 고상하다니!",
+        "여자들이 그 영광을 볼 수 있고 남자들이 로맨틱한 일을 실행할 수 있는 세상은 정말 멋진 세상이에요, 너무나 행복해요, 말할 수 없는 성취예요!",
+        "크림이군, 맛있다!",
+        "맞아요, 첫 번째 군인!",
+        "용감한 자 중에서 가장 용감한 자!",
+        "사랑하는 폴, 이 얼마나 깜짝 놀랄 선물이에요!",
+        "나의 영웅, 나의 왕!",
+        "나의 왕비!",
+        "세르지우스, 당신을 얼마나 부러워했는지 몰라요!",
+        "나는 자신의 여인이 지켜보는 가운데 시합에 나간 기사처럼 전쟁을 치렀어!",
+        "나의 여인 그리고 나의 성인!",
+        "나의 주인 그리고 나의",
+        "전 당신을 믿어요, 사랑해요.",
+        "전 그녀 앞이라고 아무렇지도 않은 척 말할 수는 없어요, 제 가슴은 터질 것 같아요.",
+        "봐, 이십 레프짜리야!",
+        "어머나, 누구신가 했더니, 량 나리셨군요.",
+        "좋아, 좋아, 진심이라고 믿어 주지.",
+        "어이쿠, 타오훙, 어떻게 이렇게 금방 대범해졌나?",
+        "아이 좋아, 정말요?",
+        "나리, 제가 어떻게 나리 말씀을 안 믿겠어요!",
+        "나리, 저한테 이렇게까지 관심을 가져 주시니 정말 뭐라 감사 말씀을 드려야 할지 모르겠어요.",
+        "이번 일 성사되라고 미리 축하드릴게요.",
+        "어머, 저야 좋죠, 혹시 농담하시는 건 아니죠?",
+        "그렇지, 우리 타오훙이라면 믿을 만하지!",
+        "아이고, 감사합니다, 뭘 그렇게까지!",
+        "그 아이는 량사장이 좋아하는 것 같은데, 옛말에 군자는 남이 좋아하는 것을 빼앗지 않는다 했소.",
+        "어때, 나한테 또 장난칠 거야?"
+      ],
+      "origin": [
+        "당신 약속했어!",
+        "하나님이 한 일을 어쩌면 되돌릴 수 있을 거야!",
+        "당신에게 증명할 거야!",
+        "내가 당신을 더 사랑한다는 것을, 이 세상 무엇보다!",
+        "당신을 그 무엇보다 사랑한다는 것을 증명했어.",
+        "이제 더 이상 나를 의심하지 못하도록.",
+        "그 말을 한 것으로 지옥의 모든 죄를 용서할게!",
+        "반갑군, 자 한잔하시게.",
+        "순간순간을 죽음과 대결하는 황야의 건맨!",
+        "하도 재미있어서 단숨에 읽어 버린 책이에요.",
+        "여전하시군요?",
+        "반갑구먼, 반가워, 몇 년 만인가?",
+        "별이 너무 아름다워요!",
+        "대단한 소식이란다, 전투가 벌어졌대!",
+        "슬리브니차에서 큰 전투가 벌어졌단다!",
+        "승리를 거두었어, 세르지우스가 승리의 주역이라더구나!",
+        "세르지우스는 화제의 영웅이자 연대의 우상이야.",
+        "말해 줘요, 말해 줘요, 어땠어요?",
+        "얼마나 멋진지 짐작도 못할 거야.",
+        "기병대의 공격, 생각을 해 봐!",
+        "그는 러시아 지휘관의 명령을 거부하고, 명령도 없이, 독단적으로 공격을 주도해, 앞장서서 적의 포대를 처음으로 휩쓸었단다, 눈에 선하지 않니, 라이나?",
+        "하지만 상관없어요, 너무 행복하고 너무 자랑스러워요!",
+        "우리의 모든 생각이 진짜라는 것을 입증한 셈이니까요.",
+        "그게 모두 사실이라니, 세르지우스가 겉모습만큼이나 실제로 멋지고 고상하다니!",
+        "여자들이 그 영광을 볼 수 있고 남자들이 로맨틱한 일을 실행할 수 있는 세상은 정말 멋진 세상이에요, 너무나 행복해요, 말할 수 없는 성취예요!",
+        "크림이군, 맛있다!",
+        "맞아요, 첫 번째 군인!",
+        "용감한 자 중에서 가장 용감한 자!",
+        "사랑하는 폴, 이 얼마나 깜짝 놀랄 선물이에요!",
+        "나의 영웅, 나의 왕!",
+        "나의 왕비!",
+        "세르지우스, 당신을 얼마나 부러워했는지 몰라요!",
+        "나는 자신의 여인이 지켜보는 가운데 시합에 나간 기사처럼 전쟁을 치렀어!",
+        "나의 여인 그리고 나의 성인!",
+        "나의 주인 그리고 나의…",
+        "전 당신을 믿어요, 사랑해요.",
+        "전 그녀 앞이라고 아무렇지도 않은 척 말할 수는 없어요, 제 가슴은 터질 것 같아요.",
+        "봐, 20레프짜리야!",
+        "어머나, 누구신가 했더니, 량 나리셨군요.",
+        "좋아, 좋아, 진심이라고 믿어 주지.",
+        "어이쿠, 타오훙, 어떻게 이렇게 금방 대범해졌나?",
+        "아이 좋아, 정말요?",
+        "나리, 제가 어떻게 나리 말씀을 안 믿겠어요!",
+        "나리, 저한테 이렇게까지 관심을 가져 주시니 정말 뭐라 감사 말씀을 드려야 할지 모르겠어요.",
+        "이번 일 성사되라고 미리 축하드릴게요.",
+        "어머, 저야 좋죠, 혹시 농담하시는 건 아니죠?",
+        "그렇지, 우리 타오훙이라면 믿을 만하지!",
+        "아이고, 감사합니다, 뭘 그렇게까지!",
+        "그 아이는 량사장이 좋아하는 것 같은데, 옛말에 군자는 남이 좋아하는 것을 빼앗지 않는다 했소.",
+        "어때, 나한테 또 장난칠 거야?"
+      ],
+      "part_no": 3,
+      "tokens_count": 308
+    },
+    "sentences": [
+      {
+        "id": "D-H3-B-021-0101",
+        "origin_text": "당신 약속했어!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1199951171875,
+          "file_duration": 1.6199951171875,
+          "filename": "D-H3-B-021-0101.wav",
+          "ptr": "당신 약속했어!",
+          "tr": "당신 약속했어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0102",
+        "origin_text": "하나님이 한 일을 어쩌면 되돌릴 수 있을 거야!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.760009765625,
+          "file_duration": 3.260009765625,
+          "filename": "D-H3-B-021-0102.wav",
+          "ptr": "하나님이 한 일을 어쩌면  /  되돌릴 수 있을 거야!",
+          "tr": "하나님이 한 일을 어쩌면 되돌릴 수 있을 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0103",
+        "origin_text": "당신에게 증명할 거야!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.5799560546875,
+          "file_duration": 2.0799560546875,
+          "filename": "D-H3-B-021-0103.wav",
+          "ptr": "당신에게 증명할 거야!",
+          "tr": "당신에게 증명할 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0104",
+        "origin_text": "내가 당신을 더 사랑한다는 것을, 이 세상 무엇보다!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.70001220703125,
+          "file_duration": 4.20001220703125,
+          "filename": "D-H3-B-021-0104.wav",
+          "ptr": "내가 당신을 더 사랑한다는 것을  /  이 세상 무엇보다!",
+          "tr": "내가 당신을 더 사랑한다는 것을, 이 세상 무엇보다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0105",
+        "origin_text": "당신을 그 무엇보다 사랑한다는 것을 증명했어.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.39996337890625,
+          "file_duration": 3.89996337890625,
+          "filename": "D-H3-B-021-0105.wav",
+          "ptr": "당신을  /  그 무엇보다 사랑한다는 것을 증명했어.",
+          "tr": "당신을 그 무엇보다 사랑한다는 것을 증명했어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0106",
+        "origin_text": "이제 더 이상 나를 의심하지 못하도록.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.79998779296875,
+          "file_duration": 3.29998779296875,
+          "filename": "D-H3-B-021-0106.wav",
+          "ptr": "이제 더 이상  /  나를 의심하지 못하도록.",
+          "tr": "이제 더 이상 나를 의심하지 못하도록."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0107",
+        "origin_text": "그 말을 한 것으로 지옥의 모든 죄를 용서할게!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.4000244140625,
+          "file_duration": 3.9000244140625,
+          "filename": "D-H3-B-021-0107.wav",
+          "ptr": "그 말을 한 것으로  /  지옥의 모든 죄를 용서할게!",
+          "tr": "그 말을 한 것으로 지옥의 모든 죄를 용서할게!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0108",
+        "origin_text": "반갑군, 자 한잔하시게.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.3800048828125,
+          "file_duration": 2.8800048828125,
+          "filename": "D-H3-B-021-0108.wav",
+          "ptr": "반갑군  /  자  /  한잔하시게.",
+          "tr": "반갑군, 자 한잔하시게."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0109",
+        "origin_text": "순간순간을 죽음과 대결하는 황야의 건맨!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.490000000000002,
+          "filename": "D-H3-B-021-0109.wav",
+          "ptr": "순간순간을  /  죽음과 대결하는  /  황야의 건맨!",
+          "tr": "순간순간을 죽음과 대결하는 황야의 건맨!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0110",
+        "origin_text": "하도 재미있어서 단숨에 읽어 버린 책이에요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.47998046875,
+          "file_duration": 3.999980468750003,
+          "filename": "D-H3-B-021-0110.wav",
+          "ptr": "하도 재미있어서  /  단숨에 읽어 버린 책이에요.",
+          "tr": "하도 재미있어서 단숨에 읽어 버린 책이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0111",
+        "origin_text": "여전하시군요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.02001953125,
+          "file_duration": 1.5099951171875006,
+          "filename": "D-H3-B-021-0111.wav",
+          "ptr": "여전하시군요?",
+          "tr": "여전하시군요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0112",
+        "origin_text": "반갑구먼, 반가워, 몇 년 만인가?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.13995361328125,
+          "file_duration": 3.63995361328125,
+          "filename": "D-H3-B-021-0112.wav",
+          "ptr": "반갑구먼 반가워  /  몇 년 만인가?",
+          "tr": "반갑구먼, 반가워, 몇 년 만인가?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0113",
+        "origin_text": "별이 너무 아름다워요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1199951171875,
+          "file_duration": 2.5799829101562466,
+          "filename": "D-H3-B-021-0113.wav",
+          "ptr": "별이  /  너무 아름다워요!",
+          "tr": "별이 너무 아름다워요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0114",
+        "origin_text": "대단한 소식이란다, 전투가 벌어졌대!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9000244140625,
+          "file_duration": 3.4000244140625,
+          "filename": "D-H3-B-021-0114.wav",
+          "ptr": "대단한 소식이란다  /  전투가 벌어졌대!",
+          "tr": "대단한 소식이란다, 전투가 벌어졌대!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0115",
+        "origin_text": "슬리브니차에서 큰 전투가 벌어졌단다!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.70001220703125,
+          "file_duration": 3.249992675781243,
+          "filename": "D-H3-B-021-0115.wav",
+          "ptr": "슬리브니차에서  /  큰 전투가 벌어졌단다!",
+          "tr": "슬리브니차에서 큰 전투가 벌어졌단다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0116",
+        "origin_text": "승리를 거두었어, 세르지우스가 승리의 주역이라더구나!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.94000244140625,
+          "file_duration": 4.44000244140625,
+          "filename": "D-H3-B-021-0116.wav",
+          "ptr": "승리를 거두었어  /  세르지우스가 승리의 주역이라더구나!",
+          "tr": "승리를 거두었어, 세르지우스가 승리의 주역이라더구나!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0117",
+        "origin_text": "세르지우스는 화제의 영웅이자 연대의 우상이야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.98004150390625,
+          "file_duration": 4.510021972656247,
+          "filename": "D-H3-B-021-0117.wav",
+          "ptr": "세르지우스는  /  화제의 영웅이자  /  연대의 우상이야.",
+          "tr": "세르지우스는 화제의 영웅이자 연대의 우상이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0118",
+        "origin_text": "말해 줘요, 말해 줘요, 어땠어요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.22003173828125,
+          "file_duration": 3.72003173828125,
+          "filename": "D-H3-B-021-0118.wav",
+          "ptr": "말해 줘요  /  말해 줘요  /  어땠어요?",
+          "tr": "말해 줘요, 말해 줘요, 어땠어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0119",
+        "origin_text": "얼마나 멋진지 짐작도 못할 거야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.55999755859375,
+          "filename": "D-H3-B-021-0119.wav",
+          "ptr": "얼마나 멋진지  /  짐작도 못할 거야.",
+          "tr": "얼마나 멋진지 짐작도 못할 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0120",
+        "origin_text": "기병대의 공격, 생각을 해 봐!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.239990234375,
+          "file_duration": 2.8100000000000023,
+          "filename": "D-H3-B-021-0120.wav",
+          "ptr": "기병대의 공격  /  생각을 해 봐!",
+          "tr": "기병대의 공격, 생각을 해 봐!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0121",
+        "origin_text": "그는 러시아 지휘관의 명령을 거부하고, 명령도 없이, 독단적으로 공격을 주도해, 앞장서서 적의 포대를 처음으로 휩쓸었단다, 눈에 선하지 않니, 라이나?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 12.20001220703125,
+          "file_duration": 12.70001220703125,
+          "filename": "D-H3-B-021-0121.wav",
+          "ptr": "그는  /  러시아 지휘관의 명령을 거부하고  /  명령도 없이  /  독단적으로 공격을 주도해  /  앞장서서  /  적의 포대를 처음으로 휩쓸었단다  /  눈에 선하지 않니  /  라이나?",
+          "tr": "그는 러시아 지휘관의 명령을 거부하고, 명령도 없이, 독단적으로 공격을 주도해, 앞장서서 적의 포대를 처음으로 휩쓸었단다, 눈에 선하지 않니, 라이나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0122",
+        "origin_text": "하지만 상관없어요, 너무 행복하고 너무 자랑스러워요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.47998046875,
+          "file_duration": 4.999985351562486,
+          "filename": "D-H3-B-021-0122.wav",
+          "ptr": "하지만 상관없어요  /  너무 행복하고  /  너무 자랑스러워요!",
+          "tr": "하지만 상관없어요, 너무 행복하고 너무 자랑스러워요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0123",
+        "origin_text": "우리의 모든 생각이 진짜라는 것을 입증한 셈이니까요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.5999755859375,
+          "file_duration": 4.1200000000000045,
+          "filename": "D-H3-B-021-0123.wav",
+          "ptr": "우리의 모든 생각이  /  진짜라는 것을  /  입증한 셈이니까요.",
+          "tr": "우리의 모든 생각이 진짜라는 것을 입증한 셈이니까요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0124",
+        "origin_text": "그게 모두 사실이라니, 세르지우스가 겉모습만큼이나 실제로 멋지고 고상하다니!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.280029296875,
+          "file_duration": 6.780029296875,
+          "filename": "D-H3-B-021-0124.wav",
+          "ptr": "그게 모두 사실이라니  /  세르지우스가  /  겉모습만큼이나  /  실제로 멋지고 고상하다니!",
+          "tr": "그게 모두 사실이라니, 세르지우스가 겉모습만큼이나 실제로 멋지고 고상하다니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0125",
+        "origin_text": "여자들이 그 영광을 볼 수 있고 남자들이 로맨틱한 일을 실행할 수 있는 세상은 정말 멋진 세상이에요, 너무나 행복해요, 말할 수 없는 성취예요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 11.84002685546875,
+          "file_duration": 12.419999999999987,
+          "filename": "D-H3-B-021-0125.wav",
+          "ptr": "여자들이 그 영광을 볼 수 있고  /  남자들이  /  로맨틱한 일을 실행할 수 있는 세상은  /  정말 멋진 세상이에요  /  너무나 행복해요  /  말할 수 없는 성취예요!",
+          "tr": "여자들이 그 영광을 볼 수 있고 남자들이 로맨틱한 일을 실행할 수 있는 세상은 정말 멋진 세상이에요, 너무나 행복해요, 말할 수 없는 성취예요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0126",
+        "origin_text": "크림이군, 맛있다!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.97998046875,
+          "file_duration": 2.499978027343758,
+          "filename": "D-H3-B-021-0126.wav",
+          "ptr": "크림이군  /  맛있다!",
+          "tr": "크림이군, 맛있다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0127",
+        "origin_text": "맞아요, 첫 번째 군인!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.74005126953125,
+          "file_duration": 2.24005126953125,
+          "filename": "D-H3-B-021-0127.wav",
+          "ptr": "맞아요  /  첫 번째 군인!",
+          "tr": "맞아요, 첫 번째 군인!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0128",
+        "origin_text": "용감한 자 중에서 가장 용감한 자!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.46002197265625,
+          "file_duration": 3.0000122070312614,
+          "filename": "D-H3-B-021-0128.wav",
+          "ptr": "용감한 자 중에서  /  가장 용감한 자!",
+          "tr": "용감한 자 중에서 가장 용감한 자!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0129",
+        "origin_text": "사랑하는 폴, 이 얼마나 깜짝 놀랄 선물이에요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.58001708984375,
+          "file_duration": 4.130000000000024,
+          "filename": "D-H3-B-021-0129.wav",
+          "ptr": "사랑하는 폴  /  이 얼마나 깜짝 놀랄 선물이에요!",
+          "tr": "사랑하는 폴, 이 얼마나 깜짝 놀랄 선물이에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0130",
+        "origin_text": "나의 영웅, 나의 왕!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.239990234375,
+          "file_duration": 2.7899829101562545,
+          "filename": "D-H3-B-021-0130.wav",
+          "ptr": "나의 영웅  /  나의 왕!",
+          "tr": "나의 영웅, 나의 왕!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0131",
+        "origin_text": "나의 왕비!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.239990234375,
+          "file_duration": 1.809987792968741,
+          "filename": "D-H3-B-021-0131.wav",
+          "ptr": "나의 왕비!",
+          "tr": "나의 왕비!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0132",
+        "origin_text": "세르지우스, 당신을 얼마나 부러워했는지 몰라요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.98004150390625,
+          "file_duration": 4.510034179687494,
+          "filename": "D-H3-B-021-0132.wav",
+          "ptr": "세르지우스  /  당신을  /  얼마나 부러워했는지 몰라요!",
+          "tr": "세르지우스, 당신을 얼마나 부러워했는지 몰라요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0133",
+        "origin_text": "나는 자신의 여인이 지켜보는 가운데 시합에 나간 기사처럼 전쟁을 치렀어!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.70001220703125,
+          "file_duration": 6.260024414062514,
+          "filename": "D-H3-B-021-0133.wav",
+          "ptr": "나는  /  자신의 여인이 지켜보는 가운데  /  시합에 나간 기사처럼  /  전쟁을 치렀어!",
+          "tr": "나는 자신의 여인이 지켜보는 가운데 시합에 나간 기사처럼 전쟁을 치렀어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0134",
+        "origin_text": "나의 여인 그리고 나의 성인!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.67999267578125,
+          "file_duration": 3.249970703125001,
+          "filename": "D-H3-B-021-0134.wav",
+          "ptr": "나의 여인  /  그리고  /  나의 성인!",
+          "tr": "나의 여인 그리고 나의 성인!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0135",
+        "origin_text": "나의 주인 그리고 나의…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.32000732421875,
+          "file_duration": 2.8500097656250034,
+          "filename": "D-H3-B-021-0135.wav",
+          "ptr": "나의 주인  /  그리고 나의",
+          "tr": "나의 주인 그리고 나의"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0136",
+        "origin_text": "전 당신을 믿어요, 사랑해요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1600170898437625,
+          "filename": "D-H3-B-021-0136.wav",
+          "ptr": "전  /  당신을 믿어요  /  사랑해요.",
+          "tr": "전 당신을 믿어요, 사랑해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0137",
+        "origin_text": "전 그녀 앞이라고 아무렇지도 않은 척 말할 수는 없어요, 제 가슴은 터질 것 같아요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.53997802734375,
+          "file_duration": 7.03997802734375,
+          "filename": "D-H3-B-021-0137.wav",
+          "ptr": "전  /  그녀 앞이라고 아무렇지도 않은 척 말할 수는 없어요  /  제 가슴은  /  터질 것 같아요.",
+          "tr": "전 그녀 앞이라고 아무렇지도 않은 척 말할 수는 없어요, 제 가슴은 터질 것 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0138",
+        "origin_text": "봐, 20레프짜리야!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.36004638671875,
+          "file_duration": 2.820014648437507,
+          "filename": "D-H3-B-021-0138.wav",
+          "ptr": "봐  /  이십 레프짜리야!",
+          "tr": "봐, 이십 레프짜리야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0139",
+        "origin_text": "어머나, 누구신가 했더니, 량 나리셨군요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.41998291015625,
+          "file_duration": 3.91998291015625,
+          "filename": "D-H3-B-021-0139.wav",
+          "ptr": "어머나  /  누구신가 했더니  /  량 나리셨군요.",
+          "tr": "어머나, 누구신가 했더니, 량 나리셨군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0140",
+        "origin_text": "좋아, 좋아, 진심이라고 믿어 주지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6600341796875,
+          "file_duration": 3.1600341796875,
+          "filename": "D-H3-B-021-0140.wav",
+          "ptr": "좋아 좋아  /  진심이라고 믿어 주지.",
+          "tr": "좋아, 좋아, 진심이라고 믿어 주지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0141",
+        "origin_text": "어이쿠, 타오훙, 어떻게 이렇게 금방 대범해졌나?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.20001220703125,
+          "file_duration": 5.70001220703125,
+          "filename": "D-H3-B-021-0141.wav",
+          "ptr": "어이쿠  /  타오훙  /  어떻게 이렇게  /  금방 대범해졌나?",
+          "tr": "어이쿠, 타오훙, 어떻게 이렇게 금방 대범해졌나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0142",
+        "origin_text": "아이 좋아, 정말요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.86004638671875,
+          "file_duration": 2.330007324218741,
+          "filename": "D-H3-B-021-0142.wav",
+          "ptr": "아이 좋아  /  정말요?",
+          "tr": "아이 좋아, 정말요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0143",
+        "origin_text": "나리, 제가 어떻게 나리 말씀을 안 믿겠어요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.6199951171875,
+          "file_duration": 4.2099999999999795,
+          "filename": "D-H3-B-021-0143.wav",
+          "ptr": "나리  /  제가  /  어떻게 나리 말씀을 안 믿겠어요!",
+          "tr": "나리, 제가 어떻게 나리 말씀을 안 믿겠어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0144",
+        "origin_text": "나리, 저한테 이렇게까지 관심을 가져 주시니 정말 뭐라 감사 말씀을 드려야 할지 모르겠어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.9599609375,
+          "file_duration": 7.500024414062523,
+          "filename": "D-H3-B-021-0144.wav",
+          "ptr": "나리  /  저한테 이렇게까지 관심을 가져 주시니  /  정말  /  뭐라 감사 말씀을 드려야 할지 모르겠어요.",
+          "tr": "나리, 저한테 이렇게까지 관심을 가져 주시니 정말 뭐라 감사 말씀을 드려야 할지 모르겠어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0145",
+        "origin_text": "이번 일 성사되라고 미리 축하드릴게요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.760009765625,
+          "file_duration": 3.260009765625,
+          "filename": "D-H3-B-021-0145.wav",
+          "ptr": "이번 일 성사되라고  /  미리 축하드릴게요.",
+          "tr": "이번 일 성사되라고 미리 축하드릴게요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0146",
+        "origin_text": "어머, 저야 좋죠, 혹시 농담하시는 건 아니죠?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.4599609375,
+          "file_duration": 4.9599609375,
+          "filename": "D-H3-B-021-0146.wav",
+          "ptr": "어머  /  저야 좋죠  /  혹시  /  농담하시는 건 아니죠?",
+          "tr": "어머, 저야 좋죠, 혹시 농담하시는 건 아니죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0147",
+        "origin_text": "그렇지, 우리 타오훙이라면 믿을 만하지!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.919921875,
+          "file_duration": 4.419921875,
+          "filename": "D-H3-B-021-0147.wav",
+          "ptr": "그렇지  /  우리 타오훙이라면  /  믿을 만하지!",
+          "tr": "그렇지, 우리 타오훙이라면 믿을 만하지!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0148",
+        "origin_text": "아이고, 감사합니다, 뭘 그렇게까지!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.0999755859375,
+          "file_duration": 3.5999755859375,
+          "filename": "D-H3-B-021-0148.wav",
+          "ptr": "아이고  /  감사합니다  /  뭘 그렇게까지!",
+          "tr": "아이고, 감사합니다, 뭘 그렇게까지!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0149",
+        "origin_text": "그 아이는 량사장이 좋아하는 것 같은데, 옛말에 군자는 남이 좋아하는 것을 빼앗지 않는다 했소.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.1199951171875,
+          "file_duration": 8.6199951171875,
+          "filename": "D-H3-B-021-0149.wav",
+          "ptr": "그 아이는  /  량사장이 좋아하는 것 같은데  /  옛말에  /  군자는  /  남이 좋아하는 것을 빼앗지 않는다 했소.",
+          "tr": "그 아이는 량사장이 좋아하는 것 같은데, 옛말에 군자는 남이 좋아하는 것을 빼앗지 않는다 했소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0150",
+        "origin_text": "어때, 나한테 또 장난칠 거야?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.3699951171875,
+          "file_duration": 2.8099951171874977,
+          "filename": "D-H3-B-021-0150.wav",
+          "ptr": "어때  /  나한테 또  /  장난칠 거야?",
+          "tr": "어때, 나한테 또 장난칠 거야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 317.5,
+      "filename": "/data2/gst-voice/splitted/D/021/D-H301-P03-B-021.wav",
+      "recorded_at": "2022-08-26 02:16:40",
+      "sample_rate": 44100
+    }
+  }
+]

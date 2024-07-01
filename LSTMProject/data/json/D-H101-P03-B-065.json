@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-H101-P03-B-065",
+    "import": {
+      "author": "송길한",
+      "book_title": "송길한시나리오선집",
+      "country": "한국",
+      "id": "D0028",
+      "publish_year": 2006,
+      "times_bg": "현대",
+      "title": "만다라",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 65
+    },
+    "script": {
+      "chars_count": 1485,
+      "id": "D-H101",
+      "normalized": [
+        "당국도 확실한 병인을 몰라서 속수무책으로 폐쇄만 하고 있는데 그곳에서 그 스님을 본 거야.",
+        "나야, 언제나 한 나무 밑에 사흘을 묵지 않는 객이 아닌가.",
+        "비정한 윤회 속에서 잔인한 악순환의 되풀이지, 그래, 나 같은 땡초는 뭘 하게 찾았어?",
+        "흐흐흐, 내게 주지를 준다고?",
+        "그래, 이번엔 부처님 빤스 자락이라도 붙잡았나?",
+        "뵈었으니 가겠어요, 안녕히 계세요.",
+        "아슬아슬했습니다, 하지만 어쨌든 피하긴 피했습니다.",
+        "아가씨를 봐서라도 반대편이 아니라 불가리아군에 입대할 걸 그랬어요, 저는 세르비아 태생이 아닙니다.",
+        "당신은 고귀한 분, 영웅적인 분이죠!",
+        "그가 왜 말의 고삐를 당기죠?",
+        "이건 애국자이자 영웅, 제가 약혼한 신사의 사진이에요.",
+        "당신에게 갓 뽑은 커피를 좀 갖다주었나요?",
+        "그럼, 루카가 내 시중을 들어 주고 있었소.",
+        "당신을 생각 할 때 나는 절대로 천한 행동을 하거나 수치스러운 생각을 할 수 없을 것 같아요.",
+        "그리고 나는 내 집의 주인이 될 거야, 약속하지.",
+        "당신은 나를 받아 주었죠, 당신은 나에게 입 맞추도록 손도 내밀었고, 나에게 잘 수 있는 침대와 쉴 곳을 제공해 주었지.",
+        "나의 초콜릿 크림 군인에게요.",
+        "사라노프, 내가 돌아올 때까지 결혼하지 마시오.",
+        "어, 요 몇 달 후베이에 있는 고향에 좀 다녀왔거든.",
+        "상하이에는 그저께 돌아왔네.",
+        "음, 내가 자네 보고 싶어서 딴 데 안 가고 여기 왔지, 자네 만나러.",
+        "보고 싶었던 사람이 혹시 제가 아니라 타오훙 아니시고요?",
+        "우린 친구 아닌가?",
+        "나리 오셨다는 소리를 듣고 지금쯤 기뻐서 팔짝팔짝 뛰고 있을 거예요.",
+        "잘 아시잖아요, 그 아이가 동작이 느려서 머리를 빗든 발을 씻든 늘 다른 사람보다 좀 오래 걸리는 거.",
+        "옷 갈아입고 나오느라 좀 늦었어요, 화내시면 안 돼요.",
+        "저는 나리 오셨다는 말을 듣자마자 부랴부랴 옷 갈아입고 나와서 이렇게 시중들고 있는데, 계속 나무라기만 하실 거예요?",
+        "여긴 사람도 이렇게 많은데, 누가 보는 데서 뽀뽀해도 괜찮단 말이에요?",
+        "알았어요, 누가 나리 흉봐도 난 몰라요.",
+        "이번에는 제가 뽀뽀하게 해드렸는데, 나리께서 안 하신 거예요.",
+        "오늘 내가 초대한 사람 중에 말이야, 왕씨 성에 함자는 바이량이라고 하는 분이 있는데, 전에 청나라 때 무과에서 거인에 올랐고, 통대관 벼슬까지했던 분이야, 신해혁명 후에 지금은 난징 총통부에서 금위군 군장을 하고 계시지, 아주 높은 자리라고.",
+        "내가 왜 이 일을 너한테 다 이야기해 주느냐, 그건 바로 너가 기회를 놓치지 않기를 바라서 이러는 거라고.",
+        "어떻게든 그분을 꽉 잡고 절대 놓치지 말라고, 나중에 군장 사모님이 된 다음에 이 월하노인을 잊어버리지나 말고!",
+        "아, 그 친구분도 함께 오지 그러셨습니까?",
+        "그 사람은 벌써 치판 거리에 있는 자기 숙소로 돌아갔다네.",
+        "제가 바로 초대장을 써서 그리로 보내죠.",
+        "엊그제 부탁드린 일은 어떻게 되었소?",
+        "왕 대장님, 그 일은 제가 벌써 친척하고 이야기를 했고요, 오늘 이리로 부를 테니까 두 분이 직접 이야기 나누시면 될 것 같습니다.",
+        "내 생각엔 이 일은 빨리 할수록 좋을 것 같소만.",
+        "대장님 말씀은 정말이지 제 생각과 딱딱 맞아떨어지는군요.",
+        "대장님, 대장님 보시기에 저 타오훙이라는 아이, 어떻습니까, 마음에 드신다면 그 아이를 대장님께 소개해 드릴까 합니다만.",
+        "타오훙과 제가 비록 얼마간 알고 지내기는 했지만 무슨 정분 같은 건 전혀 없습니다, 그냥 좀 알고 지낸 것뿐이죠.",
+        "제가 알기로는 옛날에도 시녀를 선물하는 아름다운 풍속이 있었다고 하던데요.",
+        "마음 불편해 하지 마십시오, 그럼 오늘 이 자리는 대장님께서 초대하신 자리로 하지요, 어떻겠습니까?",
+        "왕 대장 나리도 타오훙을 원하시고, 타오훙도 좋다면야, 아 닭이 알 안 품는다고 다리 부러트리겠소?",
+        "억지로 강요할 수야 없지요, 그렇지만 그 아이가 가고 나면 우리 가게는 유지하기 어려운데 어쩌나?",
+        "많이 달라고는 안 할게요, 만 원만 내라고 하세요.",
+        "아이고, 당했네, 아, 어쩌다가 붙잡혀서",
+        "지금 너가 장난치는 바람에 써 놓았던 글이 엉망이 돼 버렸잖아, 내일 내가 선생님한테 숙제도 못 내게 되면 어쩌려고?",
+        "난 그냥 뒤에서 너가 알아차리나 보려고 그런 거야."
+      ],
+      "origin": [
+        "당국도 확실한 병인을 몰라서 속수무책으로 폐쇄만 하고 있는데 그곳에서 그 스님을 본 거야.",
+        "나야, 언제나 한 나무 밑에 사흘을 묵지 않는 객이 아닌가.",
+        "비정한 윤회 속에서 잔인한 악순환의 되풀이지, 그래, 나 같은 땡초는 뭘 하게 찾았어?",
+        "흐흐흐, 내게 주지를 준다고?",
+        "그래, 이번엔 부처님 빤스 자락이라도 붙잡았나?",
+        "뵈었으니 가겠어요, 안녕히 계세요.",
+        "아슬아슬했습니다, 하지만 어쨌든 피하긴 피했습니다.",
+        "아가씨를 봐서라도 반대편이 아니라 불가리아군에 입대할 걸 그랬어요, 저는 세르비아 태생이 아닙니다.",
+        "당신은 고귀한 분, 영웅적인 분이죠!",
+        "그가 왜 말의 고삐를 당기죠?",
+        "이건 애국자이자 영웅, 제가 약혼한 신사의 사진이에요.",
+        "당신에게 갓 뽑은 커피를 좀 갖다주었나요?",
+        "그럼, 루카가 내 시중을 들어 주고 있었소.",
+        "당신을 생각 할 때 나는 절대로 천한 행동을 하거나 수치스러운 생각을 할 수 없을 것 같아요.",
+        "그리고 나는 내 집의 주인이 될 거야, 약속하지.",
+        "당신은 나를 받아 주었죠, 당신은 나에게 입 맞추도록 손도 내밀었고, 나에게 잘 수 있는 침대와 쉴 곳을 제공해 주었지.",
+        "나의 초콜릿 크림 군인에게요.",
+        "사라노프, 내가 돌아올 때까지 결혼하지 마시오.",
+        "어, 요 몇 달 후베이에 있는 고향에 좀 다녀왔거든.",
+        "상하이에는 그저께 돌아왔네.",
+        "음, 내가 자네 보고 싶어서 딴 데 안 가고 여기 왔지, 자네 만나러.",
+        "보고 싶었던 사람이 혹시 제가 아니라 타오훙 아니시고요?",
+        "우린 친구 아닌가?",
+        "나리 오셨다는 소리를 듣고 지금쯤 기뻐서 팔짝팔짝 뛰고 있을 거예요.",
+        "잘 아시잖아요, 그 아이가 동작이 느려서 머리를 빗든 발을 씻든 늘 다른 사람보다 좀 오래 걸리는 거.",
+        "옷 갈아입고 나오느라 좀 늦었어요, 화내시면 안 돼요.",
+        "저는 나리 오셨다는 말을 듣자마자 부랴부랴 옷 갈아입고 나와서 이렇게 시중들고 있는데, 계속 나무라기만 하실 거예요?",
+        "여긴 사람도 이렇게 많은데, 누가 보는 데서 뽀뽀해도 괜찮단 말이에요?",
+        "알았어요, 누가 나리 흉봐도 난 몰라요.",
+        "이번에는 제가 뽀뽀하게 해드렸는데, 나리께서 안 하신 거예요.",
+        "오늘 내가 초대한 사람 중에 말이야, 왕씨 성에 함자는 바이량이라고 하는 분이 있는데, 전에 청나라 때 무과에서 거인에 올랐고, 통대관 벼슬까지했던 분이야, 신해혁명 후에 지금은 난징 총통부에서 금위군 군장을 하고 계시지, 아주 높은 자리라고.",
+        "내가 왜 이 일을 너한테 다 이야기해 주느냐, 그건 바로 너가 기회를 놓치지 않기를 바라서 이러는 거라고.",
+        "어떻게든 그분을 꽉 잡고 절대 놓치지 말라고, 나중에 군장 사모님이 된 다음에 이 월하노인을 잊어버리지나 말고!",
+        "아, 그 친구분도 함께 오지 그러셨습니까?",
+        "그 사람은 벌써 치판 거리에 있는 자기 숙소로 돌아갔다네.",
+        "제가 바로 초대장을 써서 그리로 보내죠.",
+        "엊그제 부탁드린 일은 어떻게 되었소?",
+        "왕 대장님, 그 일은 제가 벌써 친척하고 이야기를 했고요, 오늘 이리로 부를 테니까 두 분이 직접 이야기 나누시면 될 것 같습니다.",
+        "내 생각엔 이 일은 빨리 할수록 좋을 것 같소만.",
+        "대장님 말씀은 정말이지 제 생각과 딱딱 맞아떨어지는군요.",
+        "대장님, 대장님 보시기에 저 타오훙이라는 아이, 어떻습니까, 마음에 드신다면 그 아이를 대장님께 소개해 드릴까 합니다만.",
+        "타오훙과 제가 비록 얼마간 알고 지내기는 했지만 무슨 정분 같은 건 전혀 없습니다, 그냥 좀 알고 지낸 것뿐이죠.",
+        "제가 알기로는 옛날에도 시녀를 선물하는 아름다운 풍속이 있었다고 하던데요.",
+        "마음 불편해 하지 마십시오, 그럼 오늘 이 자리는 대장님께서 초대하신 자리로 하지요, 어떻겠습니까?",
+        "왕 대장 나리도 타오훙을 원하시고, 타오훙도 좋다면야, 아 닭이 알 안 품는다고 다리 부러트리겠소?",
+        "억지로 강요할 수야 없지요, 그렇지만 그 아이가 가고 나면 우리 가게는 유지하기 어려운데 어쩌나?",
+        "많이 달라고는 안 할게요, 만 원만 내라고 하세요.",
+        "아이고, 당했네, 아, 어쩌다가 붙잡혀서…",
+        "지금 너가 장난치는 바람에 써 놓았던 글이 엉망이 돼 버렸잖아, 내일 내가 선생님한테 숙제도 못 내게 되면 어쩌려고?",
+        "난 그냥 뒤에서 너가 알아차리나 보려고 그런 거야."
+      ],
+      "part_no": 3,
+      "tokens_count": 513
+    },
+    "sentences": [
+      {
+        "id": "D-H1-B-065-0101",
+        "origin_text": "당국도 확실한 병인을 몰라서 속수무책으로 폐쇄만 하고 있는데 그곳에서 그 스님을 본 거야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.65997314453125,
+          "file_duration": 7.15997314453125,
+          "filename": "D-H1-B-065-0101.wav",
+          "ptr": "당국도  /  확실한 병인을 몰라서 속수무책으로 폐쇄만 하고 있는데  /  그곳에서 그 스님을 본 거야.",
+          "tr": "당국도 확실한 병인을 몰라서 속수무책으로 폐쇄만 하고 있는데 그곳에서 그 스님을 본 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0102",
+        "origin_text": "나야, 언제나 한 나무 밑에 사흘을 묵지 않는 객이 아닌가.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.6600341796875,
+          "file_duration": 5.1600341796875,
+          "filename": "D-H1-B-065-0102.wav",
+          "ptr": "나야  /  언제나 한 나무 밑에 사흘을 묵지 않는 객이 아닌가.",
+          "tr": "나야, 언제나 한 나무 밑에 사흘을 묵지 않는 객이 아닌가."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0103",
+        "origin_text": "비정한 윤회 속에서 잔인한 악순환의 되풀이지, 그래, 나 같은 땡초는 뭘 하게 찾았어?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.8399658203125,
+          "file_duration": 7.3399658203125,
+          "filename": "D-H1-B-065-0103.wav",
+          "ptr": "비정한 윤회 속에서  /  잔인한 악순환의 되풀이지  /  그래  /  나 같은 땡초는 뭘 하게 찾았어?",
+          "tr": "비정한 윤회 속에서 잔인한 악순환의 되풀이지, 그래, 나 같은 땡초는 뭘 하게 찾았어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0104",
+        "origin_text": "흐흐흐, 내게 주지를 준다고?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.29998779296875,
+          "file_duration": 2.79998779296875,
+          "filename": "D-H1-B-065-0104.wav",
+          "ptr": "흐흐흐  /  내게 주지를 준다고?",
+          "tr": "흐흐흐, 내게 주지를 준다고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0105",
+        "origin_text": "그래, 이번엔 부처님 빤스 자락이라도 붙잡았나?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.280029296875,
+          "file_duration": 3.780029296875,
+          "filename": "D-H1-B-065-0105.wav",
+          "ptr": "그래  /  이번엔 부처님 빤스 자락이라도 붙잡았나?",
+          "tr": "그래, 이번엔 부처님 빤스 자락이라도 붙잡았나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0106",
+        "origin_text": "뵈었으니 가겠어요, 안녕히 계세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.6600341796875,
+          "file_duration": 3.1600341796875,
+          "filename": "D-H1-B-065-0106.wav",
+          "ptr": "뵈었으니 가겠어요  /  안녕히 계세요.",
+          "tr": "뵈었으니 가겠어요, 안녕히 계세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0107",
+        "origin_text": "아슬아슬했습니다, 하지만 어쨌든 피하긴 피했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.74005126953125,
+          "file_duration": 4.24005126953125,
+          "filename": "D-H1-B-065-0107.wav",
+          "ptr": "아슬아슬했습니다  /  하지만 어쨌든 피하긴 피했습니다.",
+          "tr": "아슬아슬했습니다, 하지만 어쨌든 피하긴 피했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0108",
+        "origin_text": "아가씨를 봐서라도 반대편이 아니라 불가리아군에 입대할 걸 그랬어요, 저는 세르비아 태생이 아닙니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.77996826171875,
+          "file_duration": 7.27996826171875,
+          "filename": "D-H1-B-065-0108.wav",
+          "ptr": "아가씨를 봐서라도  /  반대편이 아니라 불가리아군에 입대할 걸 그랬어요  /  저는 세르비아 태생이 아닙니다.",
+          "tr": "아가씨를 봐서라도 반대편이 아니라 불가리아군에 입대할 걸 그랬어요, 저는 세르비아 태생이 아닙니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0109",
+        "origin_text": "당신은 고귀한 분, 영웅적인 분이죠!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.67999267578125,
+          "file_duration": 3.17999267578125,
+          "filename": "D-H1-B-065-0109.wav",
+          "ptr": "당신은 고귀한 분  /  영웅적인 분이죠!",
+          "tr": "당신은 고귀한 분, 영웅적인 분이죠!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0110",
+        "origin_text": "그가 왜 말의 고삐를 당기죠?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.760009765625,
+          "file_duration": 2.260009765625,
+          "filename": "D-H1-B-065-0110.wav",
+          "ptr": "그가 왜 말의 고삐를 당기죠?",
+          "tr": "그가 왜 말의 고삐를 당기죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0111",
+        "origin_text": "이건 애국자이자 영웅, 제가 약혼한 신사의 사진이에요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.58001708984375,
+          "file_duration": 5.08001708984375,
+          "filename": "D-H1-B-065-0111.wav",
+          "ptr": "이건  /  애국자이자 영웅  /  제가 약혼한 신사의 사진이에요.",
+          "tr": "이건 애국자이자 영웅, 제가 약혼한 신사의 사진이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0112",
+        "origin_text": "당신에게 갓 뽑은 커피를 좀 갖다주었나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.6400146484375,
+          "file_duration": 3.1400146484375,
+          "filename": "D-H1-B-065-0112.wav",
+          "ptr": "당신에게 갓 뽑은 커피를 좀 갖다주었나요?",
+          "tr": "당신에게 갓 뽑은 커피를 좀 갖다주었나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0113",
+        "origin_text": "그럼, 루카가 내 시중을 들어 주고 있었소.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.8599853515625,
+          "file_duration": 3.3599853515625,
+          "filename": "D-H1-B-065-0113.wav",
+          "ptr": "그럼  /  루카가 내 시중을 들어 주고 있었소.",
+          "tr": "그럼, 루카가 내 시중을 들어 주고 있었소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0114",
+        "origin_text": "당신을 생각 할 때 나는 절대로 천한 행동을 하거나 수치스러운 생각을 할 수 없을 것 같아요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.55999755859375,
+          "file_duration": 6.05999755859375,
+          "filename": "D-H1-B-065-0114.wav",
+          "ptr": "당신을 생각 할 때  /  나는 절대로 천한 행동을 하거나  /  수치스러운 생각을 할 수 없을 것 같아요.",
+          "tr": "당신을 생각 할 때 나는 절대로 천한 행동을 하거나 수치스러운 생각을 할 수 없을 것 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0115",
+        "origin_text": "그리고 나는 내 집의 주인이 될 거야, 약속하지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.6400146484375,
+          "file_duration": 4.1400146484375,
+          "filename": "D-H1-B-065-0115.wav",
+          "ptr": "그리고 나는  /  내 집의 주인이 될 거야  /  약속하지.",
+          "tr": "그리고 나는 내 집의 주인이 될 거야, 약속하지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0116",
+        "origin_text": "당신은 나를 받아 주었죠, 당신은 나에게 입 맞추도록 손도 내밀었고, 나에게 잘 수 있는 침대와 쉴 곳을 제공해 주었지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.29998779296875,
+          "file_duration": 8.79998779296875,
+          "filename": "D-H1-B-065-0116.wav",
+          "ptr": "당신은 나를 받아 주었죠  /  당신은 나에게 입 맞추도록 손도 내밀었고  /  나에게 잘 수 있는 침대와 쉴 곳을 제공해 주었지.",
+          "tr": "당신은 나를 받아 주었죠, 당신은 나에게 입 맞추도록 손도 내밀었고, 나에게 잘 수 있는 침대와 쉴 곳을 제공해 주었지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0117",
+        "origin_text": "나의 초콜릿 크림 군인에게요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.239990234375,
+          "file_duration": 2.739990234375,
+          "filename": "D-H1-B-065-0117.wav",
+          "ptr": "나의 초콜릿  /  크림 군인에게요.",
+          "tr": "나의 초콜릿 크림 군인에게요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0118",
+        "origin_text": "사라노프, 내가 돌아올 때까지 결혼하지 마시오.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.3800048828125,
+          "file_duration": 3.8800048828125,
+          "filename": "D-H1-B-065-0118.wav",
+          "ptr": "사라노프  /  내가 돌아올 때까지 결혼하지 마시오.",
+          "tr": "사라노프, 내가 돌아올 때까지 결혼하지 마시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0119",
+        "origin_text": "어, 요 몇 달 후베이에 있는 고향에 좀 다녀왔거든.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "D-H1-B-065-0119.wav",
+          "ptr": "어  /  요 몇 달 후베이에 있는 고향에 좀 다녀왔거든.",
+          "tr": "어, 요 몇 달 후베이에 있는 고향에 좀 다녀왔거든."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0120",
+        "origin_text": "상하이에는 그저께 돌아왔네.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.760009765625,
+          "file_duration": 2.260009765625,
+          "filename": "D-H1-B-065-0120.wav",
+          "ptr": "상하이에는 그저께 돌아왔네.",
+          "tr": "상하이에는 그저께 돌아왔네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0121",
+        "origin_text": "음, 내가 자네 보고 싶어서 딴 데 안 가고 여기 왔지, 자네 만나러.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "D-H1-B-065-0121.wav",
+          "ptr": "음  /  내가 자네 보고 싶어서 딴 데 안 가고 여기 왔지 자네 만나러.",
+          "tr": "음, 내가 자네 보고 싶어서 딴 데 안 가고 여기 왔지, 자네 만나러."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0122",
+        "origin_text": "보고 싶었던 사람이 혹시 제가 아니라 타오훙 아니시고요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.3800048828125,
+          "file_duration": 4.8800048828125,
+          "filename": "D-H1-B-065-0122.wav",
+          "ptr": "보고 싶었던 사람이  /  혹시 제가 아니라  /  타오훙 아니시고요?",
+          "tr": "보고 싶었던 사람이 혹시 제가 아니라 타오훙 아니시고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0123",
+        "origin_text": "우린 친구 아닌가?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.34002685546875,
+          "file_duration": 1.84002685546875,
+          "filename": "D-H1-B-065-0123.wav",
+          "ptr": "우린 친구 아닌가?",
+          "tr": "우린 친구 아닌가?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0124",
+        "origin_text": "나리 오셨다는 소리를 듣고 지금쯤 기뻐서 팔짝팔짝 뛰고 있을 거예요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.760009765625,
+          "file_duration": 5.260009765625,
+          "filename": "D-H1-B-065-0124.wav",
+          "ptr": "나리 오셨다는 소리를 듣고  /  지금쯤 기뻐서 팔짝팔짝 뛰고 있을 거예요.",
+          "tr": "나리 오셨다는 소리를 듣고 지금쯤 기뻐서 팔짝팔짝 뛰고 있을 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0125",
+        "origin_text": "잘 아시잖아요, 그 아이가 동작이 느려서 머리를 빗든 발을 씻든 늘 다른 사람보다 좀 오래 걸리는 거.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.46002197265625,
+          "file_duration": 7.96002197265625,
+          "filename": "D-H1-B-065-0125.wav",
+          "ptr": "잘 아시잖아요  /  그 아이가 동작이 느려서 머리를 빗든 발을 씻든  /  늘 다른 사람보다 좀 오래 걸리는 거.",
+          "tr": "잘 아시잖아요, 그 아이가 동작이 느려서 머리를 빗든 발을 씻든 늘 다른 사람보다 좀 오래 걸리는 거."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0126",
+        "origin_text": "옷 갈아입고 나오느라 좀 늦었어요, 화내시면 안 돼요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.27996826171875,
+          "file_duration": 3.77996826171875,
+          "filename": "D-H1-B-065-0126.wav",
+          "ptr": "옷 갈아입고 나오느라 좀 늦었어요  /  화내시면 안 돼요.",
+          "tr": "옷 갈아입고 나오느라 좀 늦었어요, 화내시면 안 돼요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0127",
+        "origin_text": "저는 나리 오셨다는 말을 듣자마자 부랴부랴 옷 갈아입고 나와서 이렇게 시중들고 있는데, 계속 나무라기만 하실 거예요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.01995849609375,
+          "file_duration": 8.51995849609375,
+          "filename": "D-H1-B-065-0127.wav",
+          "ptr": "저는  /  나리 오셨다는 말을 듣자마자  /  부랴부랴 옷 갈아입고 나와서  /  이렇게 시중들고 있는데  /  계속 나무라기만 하실 거예요?",
+          "tr": "저는 나리 오셨다는 말을 듣자마자 부랴부랴 옷 갈아입고 나와서 이렇게 시중들고 있는데, 계속 나무라기만 하실 거예요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0128",
+        "origin_text": "여긴 사람도 이렇게 많은데, 누가 보는 데서 뽀뽀해도 괜찮단 말이에요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.5799560546875,
+          "file_duration": 5.0799560546875,
+          "filename": "D-H1-B-065-0128.wav",
+          "ptr": "여긴 사람도 이렇게 많은데  /  누가 보는 데서 뽀뽀해도 괜찮단 말이에요?",
+          "tr": "여긴 사람도 이렇게 많은데, 누가 보는 데서 뽀뽀해도 괜찮단 말이에요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0129",
+        "origin_text": "알았어요, 누가 나리 흉봐도 난 몰라요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.1600341796875,
+          "file_duration": 3.6600341796875,
+          "filename": "D-H1-B-065-0129.wav",
+          "ptr": "알았어요  /  누가 나리 흉봐도 난 몰라요.",
+          "tr": "알았어요, 누가 나리 흉봐도 난 몰라요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0130",
+        "origin_text": "이번에는 제가 뽀뽀하게 해드렸는데, 나리께서 안 하신 거예요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.1199951171875,
+          "file_duration": 4.6199951171875,
+          "filename": "D-H1-B-065-0130.wav",
+          "ptr": "이번에는 제가 뽀뽀하게 해드렸는데  /  나리께서 안 하신 거예요.",
+          "tr": "이번에는 제가 뽀뽀하게 해드렸는데, 나리께서 안 하신 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0131",
+        "origin_text": "오늘 내가 초대한 사람 중에 말이야, 왕씨 성에 함자는 바이량이라고 하는 분이 있는데, 전에 청나라 때 무과에서 거인에 올랐고, 통대관 벼슬까지했던 분이야, 신해혁명 후에 지금은 난징 총동부에서 금위군 군장을 하고 계시지, 아주 높은 자리라고.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 21.239990234375,
+          "file_duration": 21.739990234375,
+          "filename": "D-H1-B-065-0131.wav",
+          "ptr": "오늘 내가 초대한 사람 중에 말이야  /  왕씨 성에  /  함자는 바이량이라고 하는 분이 있는데  /  전에 청나라 때 무과에서 거인에 올랐고  /  통대관 벼슬까지했던 분이야  /  신해혁명 후에 지금은 난징 총동부에서  /  금위군 군장을 하고 계시지  /  아주 높은 자리라고.",
+          "tr": "오늘 내가 초대한 사람 중에 말이야, 왕씨 성에 함자는 바이량이라고 하는 분이 있는데, 전에 청나라 때 무과에서 거인에 올랐고, 통대관 벼슬까지했던 분이야, 신해혁명 후에 지금은 난징 총동부에서 금위군 군장을 하고 계시지, 아주 높은 자리라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0132",
+        "origin_text": "내가 왜 이 일을 너한테 다 이야기해 주느냐, 그건 바로 너가 기회를 놓치지 않기를 바라서 이러는 거라고.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.44000244140625,
+          "file_duration": 7.94000244140625,
+          "filename": "D-H1-B-065-0132.wav",
+          "ptr": "내가 왜 이 일을 너한테 다 이야기해 주느냐  /  그건 바로  /  너가 기회를 놓치지 않기를 바라서 이러는 거라고.",
+          "tr": "내가 왜 이 일을 너한테 다 이야기해 주느냐, 그건 바로 너가 기회를 놓치지 않기를 바라서 이러는 거라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0133",
+        "origin_text": "어떻게든 그분을 꽉 잡고 절대 놓치지 말라고, 나중에 군장 사모님이 된 다음에 이 월하노인을 잊어버리지나 말고!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.55999755859375,
+          "file_duration": 9.05999755859375,
+          "filename": "D-H1-B-065-0133.wav",
+          "ptr": "어떻게든 그분을 꽉 잡고 절대 놓치지 말라고  /  나중에 군장 사모님이 된 다음에  /  이 월하노인을 잊어버리지나 말고!",
+          "tr": "어떻게든 그분을 꽉 잡고 절대 놓치지 말라고, 나중에 군장 사모님이 된 다음에 이 월하노인을 잊어버리지나 말고!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0134",
+        "origin_text": "아, 그 친구분도 함께 오지 그러셨습니까?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6400146484375,
+          "filename": "D-H1-B-065-0134.wav",
+          "ptr": "아  /  그 친구분도 함께 오지 그러셨습니까?",
+          "tr": "아, 그 친구분도 함께 오지 그러셨습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0135",
+        "origin_text": "그 사람은 벌써 치판 거리에 있는 자기 숙소로 돌아갔다네.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.51995849609375,
+          "file_duration": 4.01995849609375,
+          "filename": "D-H1-B-065-0135.wav",
+          "ptr": "그 사람은 벌써 치판 거리에 있는 자기 숙소로 돌아갔다네.",
+          "tr": "그 사람은 벌써 치판 거리에 있는 자기 숙소로 돌아갔다네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0136",
+        "origin_text": "제가 바로 초대장을 써서 그리로 보내죠.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.5999755859375,
+          "file_duration": 3.0999755859375,
+          "filename": "D-H1-B-065-0136.wav",
+          "ptr": "제가 바로 초대장을 써서 그리로 보내죠.",
+          "tr": "제가 바로 초대장을 써서 그리로 보내죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0137",
+        "origin_text": "엊그제 부탁드린 일은 어떻게 되었소?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.219970703125,
+          "file_duration": 2.719970703125,
+          "filename": "D-H1-B-065-0137.wav",
+          "ptr": "엊그제 부탁드린 일은 어떻게 되었소?",
+          "tr": "엊그제 부탁드린 일은 어떻게 되었소?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0138",
+        "origin_text": "왕 대장님, 그 일은 제가 벌써 친척하고 이야기를 했고요, 오늘 이리로 부를 테니까 두 분이 직접 이야기 나누시면 될 것 같습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 9.5999755859375,
+          "file_duration": 10.0999755859375,
+          "filename": "D-H1-B-065-0138.wav",
+          "ptr": "왕 대장님  /  그 일은 제가 벌써 친척하고 이야기를 했고요  /  오늘 이리로 부를 테니까  /  두 분이 직접 이야기 나누시면 될 것 같습니다.",
+          "tr": "왕 대장님, 그 일은 제가 벌써 친척하고 이야기를 했고요, 오늘 이리로 부를 테니까 두 분이 직접 이야기 나누시면 될 것 같습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0139",
+        "origin_text": "내 생각엔 이 일은 빨리 할수록 좋을 것 같소만.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6400146484375,
+          "filename": "D-H1-B-065-0139.wav",
+          "ptr": "내 생각엔 이 일은 빨리 할수록 좋을 것 같소만.",
+          "tr": "내 생각엔 이 일은 빨리 할수록 좋을 것 같소만."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0140",
+        "origin_text": "대장님 말씀은 정말이지 제 생각과 딱딱 맞아떨어지는군요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.1400146484375,
+          "file_duration": 4.6400146484375,
+          "filename": "D-H1-B-065-0140.wav",
+          "ptr": "대장님 말씀은 정말이지  /  제 생각과 딱딱 맞아떨어지는군요.",
+          "tr": "대장님 말씀은 정말이지 제 생각과 딱딱 맞아떨어지는군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0141",
+        "origin_text": "대장님, 대장님 보시기에 저 타오훙이라는 아이, 어떻습니까, 마음에 드신다면 그 아이를 대장님께 소개해 드릴까 합니다만.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 9.7598876953125,
+          "file_duration": 10.2598876953125,
+          "filename": "D-H1-B-065-0141.wav",
+          "ptr": "대장님  /  대장님 보시기에 저 타오훙이라는 아이  /  어떻습니까  /  마음에 드신다면 그 아이를 대장님께 소개해 드릴까 합니다만.",
+          "tr": "대장님, 대장님 보시기에 저 타오훙이라는 아이, 어떻습니까, 마음에 드신다면 그 아이를 대장님께 소개해 드릴까 합니다만."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0142",
+        "origin_text": "타오훙과 제가 비록 얼마간 알고 지내기는 했지만 무슨 정분 같은 건 전혀 없습니다, 그냥 좀 알고 지낸 것뿐이죠.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.5999755859375,
+          "file_duration": 9.0999755859375,
+          "filename": "D-H1-B-065-0142.wav",
+          "ptr": "타오훙과 제가  /  비록 얼마간 알고 지내기는 했지만  /  무슨 정분 같은 건 전혀 없습니다  /  그냥 좀 알고 지낸 것뿐이죠.",
+          "tr": "타오훙과 제가 비록 얼마간 알고 지내기는 했지만 무슨 정분 같은 건 전혀 없습니다, 그냥 좀 알고 지낸 것뿐이죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0143",
+        "origin_text": "제가 알기로는 옛날에도 시녀를 선물하는 아름다운 풍속이 있었다고 하던데요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.780029296875,
+          "file_duration": 5.280029296875,
+          "filename": "D-H1-B-065-0143.wav",
+          "ptr": "제가 알기로는 옛날에도 시녀를 선물하는 아름다운 풍속이 있었다고 하던데요.",
+          "tr": "제가 알기로는 옛날에도 시녀를 선물하는 아름다운 풍속이 있었다고 하던데요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0144",
+        "origin_text": "마음 불편해 하지 마십시오, 그럼 오늘 이 자리는 대장님께서 초대하신 자리로 하지요, 어떻겠습니까?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.02001953125,
+          "file_duration": 7.52001953125,
+          "filename": "D-H1-B-065-0144.wav",
+          "ptr": "마음 불편해 하지 마십시오  /  그럼 오늘 이 자리는 대장님께서 초대하신 자리로 하지요  /  어떻겠습니까?",
+          "tr": "마음 불편해 하지 마십시오, 그럼 오늘 이 자리는 대장님께서 초대하신 자리로 하지요, 어떻겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0145",
+        "origin_text": "왕 대장 나리도 타오훙을 원하시고, 타오훙도 좋다면야, 아 닭이 알 안 품는다고 다리 부러트리겠소?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.97998046875,
+          "file_duration": 8.47998046875,
+          "filename": "D-H1-B-065-0145.wav",
+          "ptr": "왕 대장 나리도 타오훙을 원하시고  /  타오훙도 좋다면야  /  아  /  닭이 알 안 품는다고 다리 부러트리겠소?",
+          "tr": "왕 대장 나리도 타오훙을 원하시고, 타오훙도 좋다면야, 아 닭이 알 안 품는다고 다리 부러트리겠소?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0146",
+        "origin_text": "억지로 강요할 수야 없지요, 그렇지만 그 아이가 가고 나면 우리 가게는 유지하기 어려운데 어쩌나?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.02001953125,
+          "file_duration": 7.52001953125,
+          "filename": "D-H1-B-065-0146.wav",
+          "ptr": "억지로 강요할 수야 없지요  /  그렇지만 그 아이가 가고 나면 우리 가게는 유지하기 어려운데 어쩌나?",
+          "tr": "억지로 강요할 수야 없지요, 그렇지만 그 아이가 가고 나면 우리 가게는 유지하기 어려운데 어쩌나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0147",
+        "origin_text": "많이 달라고는 안 할게요, 만 원만 내라고 하세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.280029296875,
+          "file_duration": 3.780029296875,
+          "filename": "D-H1-B-065-0147.wav",
+          "ptr": "많이 달라고는 안 할게요  /  만 원만 내라고 하세요.",
+          "tr": "많이 달라고는 안 할게요, 만 원만 내라고 하세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0148",
+        "origin_text": "아이고, 당했네, 아, 어쩌다가 붙잡혀서…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.9200439453125,
+          "file_duration": 4.4200439453125,
+          "filename": "D-H1-B-065-0148.wav",
+          "ptr": "아이고 당했네  /  아 어쩌다가 붙잡혀서",
+          "tr": "아이고, 당했네, 아, 어쩌다가 붙잡혀서"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0149",
+        "origin_text": "지금 너가 장난치는 바람에 써 놓았던 글이 엉망이 돼 버렸잖아, 내일 내가 선생님한테 숙제도 못 내게 되면 어쩌려고?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.8199462890625,
+          "file_duration": 8.3199462890625,
+          "filename": "D-H1-B-065-0149.wav",
+          "ptr": "지금 너가 장난치는 바람에 써 놓았던 글이 엉망이 돼 버렸잖아  /  내일 내가 선생님한테 숙제도 못 내게 되면 어쩌려고?",
+          "tr": "지금 너가 장난치는 바람에 써 놓았던 글이 엉망이 돼 버렸잖아, 내일 내가 선생님한테 숙제도 못 내게 되면 어쩌려고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-B-065-0150",
+        "origin_text": "난 그냥 뒤에서 너가 알아차리나 보려고 그런 거야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.2999267578125,
+          "file_duration": 3.7999267578125,
+          "filename": "D-H1-B-065-0150.wav",
+          "ptr": "난 그냥 뒤에서 너가 알아차리나 보려고 그런 거야.",
+          "tr": "난 그냥 뒤에서 너가 알아차리나 보려고 그런 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 407.6299319727891,
+      "filename": "/data2/gst-voice/splitted/D/065/D-H101-P03-B-065.wav",
+      "recorded_at": "2022-10-27 01:42:01",
+      "sample_rate": 44100
+    }
+  }
+]

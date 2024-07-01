@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "D-NX06-P16-B-064",
+    "import": {
+      "author": "유진 오닐",
+      "book_title": "상복이 어울리는 엘렉트라",
+      "country": "미국",
+      "id": "D0025",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "상복이 어울리는 엘렉트라",
+      "translator": "이형식"
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 64
+    },
+    "script": {
+      "chars_count": 566,
+      "id": "D-NX06",
+      "normalized": [
+        "헤이즐이 게이트에서 누굴 만났어!",
+        "오, 왜 이렇게 두려운 거지!",
+        "농담이 아냐, 이 집이 증오를 바탕으로 처음 지어질 때부터 집 안에는 악령이 있었어",
+        "얘가 무슨 소리를 하는지 모르겠네, 나는 너 때문에 거기 간 거야.",
+        "더 이상 이런 음울한 말도 안 되는 이야기 안 하겠다고 약속했지.",
+        "집에 와서 유령들을 직면하며 과거에 대한 죄책감을 영원히 씻어 버릴 수 있을 거라고 말했잖아.",
+        "거기 누구요, 무슨 일이오?",
+        "자, 이 모 교수의 편지를 읽어 보게.",
+        "교수에게 회답하세요, 그를 가만히 두지 말라고요.",
+        "러시아인들이 제 가족이며, 저는 그리스정교에 귀의하겠습니다.",
+        "자네 딸아이에게서는 아직도 소식이 없나?",
+        "쾨니히스베르크에서 바르샤바로 가는 역마차는 언제 떠날까요?",
+        "자네를 놓아주지 않겠네, 헛수고야.",
+        "자네 같은 사람들은 가혹하게 하지 않으면 상심한 마음이 어리석음으로 변하니까.",
+        "볼 수가 없다면서 어떻게 여기까지 오셨습니까?",
+        "무슨 말씀이신가요, 피첨 씨?",
+        "그러곤 저에게 사장님의 명함을 주었습니다.",
+        "폴리요? 위층에요!",
+        "사람들이 그냥 대장이라고만 부르던데요.",
+        "탭댄스를 추기 위해서 오징어 호텔로요.",
+        "오징어 호텔이라? 그래, 그래, 그래",
+        "아니, 무슨 일이야. 꼴이 왜 그래, 폴리?",
+        "난 그 집에 드나들어 때로는 그녀에게 입을 맞춰 주기도 해.",
+        "난 물론 그 여잘 동정해서 응분의 대우를 못해 줬어.",
+        "당신도 처음엔 그 여자가 하는 말 중에서 무언가 옳은 것이 있지 않나 하고 생각했었지. 내 말 맞지?",
+        "모자와 단장을 가져와!",
+        "우리 은행에서 돈을 찾으시겠다고요?"
+      ],
+      "origin": [
+        "헤이즐이 게이트에서 누굴 만났어!",
+        "오, 왜 이렇게 두려운 거지!",
+        "농담이 아냐, 이 집이 증오를 바탕으로 처음 지어질 때부터 집 안에는 악령이 있었어…",
+        "얘가 무슨 소리를 하는지 모르겠네, 나는 너 때문에 거기 간 거야.",
+        "더 이상 이런 음울한 말도 안 되는 이야기 안 하겠다고 약속했지.",
+        "집에 와서 유령들을 직면하며 과거에 대한 죄책감을 영원히 씻어 버릴 수 있을 거라고 말했잖아.",
+        "거기 누구요, 무슨 일이오?",
+        "자, 이 모 교수의 편지를 읽어 보게.",
+        "교수에게 회답하세요, 그를 가만히 두지 말라고요.",
+        "러시아인들이 제 가족이며, 저는 그리스정교에 귀의하겠습니다.",
+        "자네 딸아이에게서는 아직도 소식이 없나?",
+        "쾨니히스베르크에서 바르샤바로 가는 역마차는 언제 떠날까요?",
+        "자네를 놓아주지 않겠네, 헛수고야.",
+        "자네 같은 사람들은 가혹하게 하지 않으면 상심한 마음이 어리석음으로 변하니까.",
+        "볼 수가 없다면서 어떻게 여기까지 오셨습니까?",
+        "무슨 말씀이신가요, 피첨 씨?",
+        "그러곤 저에게 사장님의 명함을 주었습니다.",
+        "폴리요? 위층에요!",
+        "사람들이 그냥 ‘대장’이라고만 부르던데요.",
+        "탭댄스를 추기 위해서 오징어 호텔로요.",
+        "오징어 호텔이라? 그래, 그래, 그래….",
+        "아니, 무슨 일이야. 꼴이 왜 그래, 폴리?",
+        "난 그 집에 드나들어 때로는 그녀에게 입을 맞춰 주기도 해.",
+        "난 물론 그 여잘 동정해서 응분의 대우를 못해 줬어.",
+        "당신도 처음엔 그 여자가 하는 말 중에서 무언가 옳은 것이 있지 않나 하고 생각했었지. 내 말 맞지?",
+        "모자와 단장을 가져와!",
+        "우리 은행에서 돈을 찾으시겠다고요?"
+      ],
+      "part_no": 16,
+      "tokens_count": 187
+    },
+    "sentences": [
+      {
+        "id": "D-NX-B-064-0751",
+        "origin_text": "헤이즐이 게이트에서 누굴 만났어!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.7100000381469727,
+          "file_duration": 2.5800000381469728,
+          "filename": "D-NX-B-064-0751.wav",
+          "ptr": "헤이즐이 게이트에서 누굴 만났어!",
+          "tr": "헤이즐이 게이트에서 누굴 만났어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0752",
+        "origin_text": "오, 왜 이렇게 두려운 거지!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1800003051757812,
+          "file_duration": 2.6800003051757812,
+          "filename": "D-NX-B-064-0752.wav",
+          "ptr": "오  /  왜 이렇게 두려운 거지!",
+          "tr": "오, 왜 이렇게 두려운 거지!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0753",
+        "origin_text": "농담이 아니야, 이 집이 증오를 바탕으로 처음 지어질 때부터 집 안에는 악령이 있었어…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.420001029968262,
+          "file_duration": 6.920001029968262,
+          "filename": "D-NX-B-064-0753.wav",
+          "ptr": "농담이 아니야  /  이 집이 증오를 바탕으로 처음 지어질 때부터  /  집 안에는 악령이 있었어",
+          "tr": "농담이 아니야, 이 집이 증오를 바탕으로 처음 지어질 때부터 집 안에는 악령이 있었어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0754",
+        "origin_text": "얘가 무슨 소리를 하는지 모르겠네, 나는 너 때문에 거기 간 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.040000915527344,
+          "file_duration": 5.540000915527344,
+          "filename": "D-NX-B-064-0754.wav",
+          "ptr": "얘가 무슨 소리를 하는지 모르겠네  /  나는 너 때문에 거기 간 거야.",
+          "tr": "얘가 무슨 소리를 하는지 모르겠네, 나는 너 때문에 거기 간 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0755",
+        "origin_text": "더 이상 이런 음울한 말도 안 되는 이야기 안 하겠다고 약속했지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.560001373291016,
+          "file_duration": 5.060001373291016,
+          "filename": "D-NX-B-064-0755.wav",
+          "ptr": "더 이상 이런 음울한  /  말도 안 되는 이야기 안 하겠다고 약속했지.",
+          "tr": "더 이상 이런 음울한 말도 안 되는 이야기 안 하겠다고 약속했지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0756",
+        "origin_text": "집에 와서 유령들을 직면하며 과거에 대한 죄책감을 영원히 씻어 버릴 수 있을 거라고 말했잖아.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6,
+          "file_duration": 6.5,
+          "filename": "D-NX-B-064-0756.wav",
+          "ptr": "집에 와서 유령들을 직면하며  /  과거에 대한 죄책감을 영원히 씻어 버릴 수 있을 거라고 말했잖아.",
+          "tr": "집에 와서 유령들을 직면하며 과거에 대한 죄책감을 영원히 씻어 버릴 수 있을 거라고 말했잖아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0757",
+        "origin_text": "거기 누구요, 무슨 일이오?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.220001220703125,
+          "file_duration": 2.720001220703125,
+          "filename": "D-NX-B-064-0757.wav",
+          "ptr": "거기 누구요  /  무슨 일이오?",
+          "tr": "거기 누구요, 무슨 일이오?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0758",
+        "origin_text": "자, 이 모 교수의 편지를 읽어 보게.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6599998474121094,
+          "file_duration": 3.1599998474121094,
+          "filename": "D-NX-B-064-0758.wav",
+          "ptr": "자  /  이 모 교수의 편지를 읽어 보게.",
+          "tr": "자, 이 모 교수의 편지를 읽어 보게."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0759",
+        "origin_text": "교수에게 회답하세요, 그를 가만히 두지 말라고요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.5,
+          "file_duration": 4,
+          "filename": "D-NX-B-064-0759.wav",
+          "ptr": "교수에게 회답하세요  /  그를 가만히 두지 말라고요.",
+          "tr": "교수에게 회답하세요, 그를 가만히 두지 말라고요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0760",
+        "origin_text": "러시아인들이 제 가족이며, 저는 그리스정교에 귀의하겠습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.680000305175781,
+          "file_duration": 5.180000305175781,
+          "filename": "D-NX-B-064-0760.wav",
+          "ptr": "러시아인들이 제 가족이며  /  저는  /  그리스정교에 귀의하겠습니다.",
+          "tr": "러시아인들이 제 가족이며, 저는 그리스정교에 귀의하겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0761",
+        "origin_text": "자네 딸아이에게서는 아직도 소식이 없나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.2399978637695312,
+          "file_duration": 3.7399978637695312,
+          "filename": "D-NX-B-064-0761.wav",
+          "ptr": "자네 딸아이에게서는  /  아직도 소식이 없나?",
+          "tr": "자네 딸아이에게서는 아직도 소식이 없나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0762",
+        "origin_text": "쾨니히스베르크에서 바르샤바로 가는 역마차는 언제 떠날까요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "D-NX-B-064-0762.wav",
+          "ptr": "쾨니히스베르크에서 바르샤바로 가는 역마차는  /  언제 떠날까요?",
+          "tr": "쾨니히스베르크에서 바르샤바로 가는 역마차는 언제 떠날까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0763",
+        "origin_text": "자네를 놓아주지 않겠네, 헛수고야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9000015258789062,
+          "file_duration": 3.4000015258789062,
+          "filename": "D-NX-B-064-0763.wav",
+          "ptr": "자네를 놓아주지 않겠네  /  헛수고야.",
+          "tr": "자네를 놓아주지 않겠네, 헛수고야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0764",
+        "origin_text": "자네 같은 사람들은 가혹하게 하지 않으면 상심한 마음이 어리석음으로 변하니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.4199981689453125,
+          "file_duration": 5.9199981689453125,
+          "filename": "D-NX-B-064-0764.wav",
+          "ptr": "자네 같은 사람들은 가혹하게 하지 않으면  /  상심한 마음이 어리석음으로 변하니까.",
+          "tr": "자네 같은 사람들은 가혹하게 하지 않으면 상심한 마음이 어리석음으로 변하니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0765",
+        "origin_text": "볼 수가 없다면서 어떻게 여기까지 오셨습니까?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.44000244140625,
+          "file_duration": 3.94000244140625,
+          "filename": "D-NX-B-064-0765.wav",
+          "ptr": "볼 수가 없다면서  /  어떻게 여기까지 오셨습니까?",
+          "tr": "볼 수가 없다면서 어떻게 여기까지 오셨습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0766",
+        "origin_text": "무슨 말씀이신가요, 피첨 씨?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9799957275390625,
+          "file_duration": 2.4799957275390625,
+          "filename": "D-NX-B-064-0766.wav",
+          "ptr": "무슨 말씀이신가요 피첨 씨?",
+          "tr": "무슨 말씀이신가요, 피첨 씨?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0767",
+        "origin_text": "그러곤 저에게 사장님의 명함을 주었습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5999984741210938,
+          "file_duration": 3.0999984741210938,
+          "filename": "D-NX-B-064-0767.wav",
+          "ptr": "그러곤 저에게 사장님의 명함을 주었습니다.",
+          "tr": "그러곤 저에게 사장님의 명함을 주었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0768",
+        "origin_text": "폴리요? 위층에요!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9399948120117188,
+          "file_duration": 2.4399948120117188,
+          "filename": "D-NX-B-064-0768.wav",
+          "ptr": "폴리요  /  위층에요!",
+          "tr": "폴리요? 위층에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0769",
+        "origin_text": "사람들이 그냥 ‘대장’이라고만 부르던데요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.82000732421875,
+          "file_duration": 3.32000732421875,
+          "filename": "D-NX-B-064-0769.wav",
+          "ptr": "사람들이 그냥 대장이라고만 부르던데요.",
+          "tr": "사람들이 그냥 대장이라고만 부르던데요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0770",
+        "origin_text": "탭댄스를 추기 위해서 오징어 호텔로요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6200027465820312,
+          "file_duration": 3.1200027465820312,
+          "filename": "D-NX-B-064-0770.wav",
+          "ptr": "탭댄스를 추기 위해서 오징어 호텔로요.",
+          "tr": "탭댄스를 추기 위해서 오징어 호텔로요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0771",
+        "origin_text": "오징어 호텔이라? 그래, 그래, 그래….",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.44000244140625,
+          "file_duration": 5.94000244140625,
+          "filename": "D-NX-B-064-0771.wav",
+          "ptr": "오징어 호텔이라  /  그래  /  그래  /  그래",
+          "tr": "오징어 호텔이라? 그래, 그래, 그래"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0772",
+        "origin_text": "아니, 무슨 일이야. 꼴이 왜 그래, 폴리?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.339996337890625,
+          "file_duration": 3.839996337890625,
+          "filename": "D-NX-B-064-0772.wav",
+          "ptr": "아니  /  무슨 일이야  /  꼴이 왜 그래 폴리?",
+          "tr": "아니, 무슨 일이야. 꼴이 왜 그래, 폴리?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0773",
+        "origin_text": "난 그 집에 드나들어 때로는 그녀에게 입을 맞춰 주기도 해.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.7400054931640625,
+          "file_duration": 4.2400054931640625,
+          "filename": "D-NX-B-064-0773.wav",
+          "ptr": "난 그 집에 드나들어  /  때로는 그녀에게 입을 맞춰 주기도 해.",
+          "tr": "난 그 집에 드나들어 때로는 그녀에게 입을 맞춰 주기도 해."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0774",
+        "origin_text": "난 물론 그 여잘 동정해서 응분의 대우를 못해 줬어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.6399993896484375,
+          "file_duration": 4.1399993896484375,
+          "filename": "D-NX-B-064-0774.wav",
+          "ptr": "난 물론  /  그 여잘 동정해서 응분의 대우를 못해 줬어.",
+          "tr": "난 물론 그 여잘 동정해서 응분의 대우를 못해 줬어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0775",
+        "origin_text": "당신도 처음엔 그 여자가 하는 말 중에서 무언가 옳은 것이 있지 않나 하고 생각했었지. 내 말 맞지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.579986572265625,
+          "file_duration": 8.079986572265625,
+          "filename": "D-NX-B-064-0775.wav",
+          "ptr": "당신도  /  처음엔 그 여자가 하는 말 중에서  /  무언가 옳은 것이 있지 않나 하고 생각했었지  /  내 말 맞지?",
+          "tr": "당신도 처음엔 그 여자가 하는 말 중에서 무언가 옳은 것이 있지 않나 하고 생각했었지. 내 말 맞지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0776",
+        "origin_text": "모자와 단장을 가져와!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.339996337890625,
+          "file_duration": 1.839996337890625,
+          "filename": "D-NX-B-064-0776.wav",
+          "ptr": "모자와 단장을 가져와!",
+          "tr": "모자와 단장을 가져와!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-B-064-0777",
+        "origin_text": "우리 은행에서 돈을 찾으시겠다고요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.2400054931640625,
+          "file_duration": 2.950004310607909,
+          "filename": "D-NX-B-064-0777.wav",
+          "ptr": "우리 은행에서  /  돈을 찾으시겠다고요?",
+          "tr": "우리 은행에서 돈을 찾으시겠다고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 175.51,
+      "filename": "/data2/gst-voice/splitted/D/064/D-NX06-P16-B-064.wav",
+      "recorded_at": "2022-10-14 04:48:36",
+      "sample_rate": 44100
+    }
+  }
+]

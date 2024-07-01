@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "D-H306-P17-B-021",
+    "import": {
+      "author": "모리스 마테를링크(Maurice Maeterlinck)",
+      "book_title": "파랑새(L'Oiseau bleu)",
+      "country": "벨기에",
+      "id": "D0057",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "파랑새(L'Oiseau bleu)",
+      "translator": "이용복"
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 591,
+      "id": "D-H306",
+      "normalized": [
+        "너희들은 매일 이처럼 멋진 모습이니?",
+        "그럼, 매일 매일이 일요일이지.",
+        "모든 집에서 사람들이 눈을 뜰 때, 그리고 이자는 저녁이 되면 세상의 모든 왕들보다 더 아름다운 석양의 행복이야.",
+        "그 다음에는, 고대의 신처럼 금으로 장식하고 있는, 별들이 뜨는 것을 보는 행복이야",
+        "너희들을 이곳에서 보게 되다니, 난 기대하지 않았었는데!",
+        "난 집에서 혼자 있었단다, 그런데 너희 둘은 모든 어머니들의 영혼이 기쁨 속에서 빛나고 있는 하늘까지 올라왔구나!",
+        "우선 입맞춤, 입맞춤을 하자, 할 수 있는 만큼 많이!",
+        "당신은 엄마를 닮았어요, 하지만 당신이 훨씬 더 아름다워요",
+        "당연하지, 난 더 이상 늙지 않으니까, 또 하루하루가 나한테 힘과 젊음과 행복을 가져다주니까",
+        "너의 미소 하나하나가 나에게서 일 년이나 감해 주거든",
+        "집에서는 그런 것이 보이지 않지만 여기서는 다 보인단다, 그리고 그게 진실이야",
+        "아니, 이것은 입맞춤과 시선과 어루만짐이란다",
+        "사람들이 하는 각각의 입맞춤은 이 옷에 달빛 혹은 햇빛 하나를 더 추가해 준단다",
+        "놀라워요, 엄마, 엄마 목소리예요.",
+        "하지만 엄마는 집에서보다 훨씬 더 말을 잘하시네요",
+        "이리 와요, 이리 와요, 자매들!",
+        "이리 와요, 모두 달려와요, 빛이 마침내 우리를 찾아왔어요!",
+        "모든 게 참 예뻐요!",
+        "많기도 하다, 많기도 해!",
+        "악수를 해도 되나요?",
+        "엄마, 엄마, 엄마구나!",
+        "엄마구나, 맞아, 엄마!",
+        "오, 엄마를 다시 보니 얼마나 좋은지!",
+        "아주 오래되었어요, 아주 오래되었어요!",
+        "당장 엄마에게 뽀뽀해야만 하겠어요, 다시, 다시, 다시!",
+        "이런, 잠옷 바람이야!",
+        "내가 이런 모습으로 여행을 했단 말이야?"
+      ],
+      "origin": [
+        "너희들은 매일 이처럼 멋진 모습이니?",
+        "그럼, 매일 매일이 일요일이지.",
+        "모든 집에서 사람들이 눈을 뜰 때, 그리고 이자는 저녁이 되면 세상의 모든 왕들보다 더 아름다운 석양의 행복이야.",
+        "그 다음에는, 고대의 신처럼 금으로 장식하고 있는, 별들이 뜨는 것을 보는 행복이야…",
+        "너희들을 이곳에서 보게 되다니, 난 기대하지 않았었는데!",
+        "난 집에서 혼자 있었단다, 그런데 너희 둘은 모든 어머니들의 영혼이 기쁨 속에서 빛나고 있는 하늘까지 올라왔구나!",
+        "우선 입맞춤, 입맞춤을 하자, 할 수 있는 만큼 많이!",
+        "당신은 엄마를 닮았어요, 하지만 당신이 훨씬 더 아름다워요…",
+        "당연하지, 난 더 이상 늙지 않으니까, 또 하루하루가 나한테 힘과 젊음과 행복을 가져다주니까…",
+        "너의 미소 하나하나가 나에게서 1년이나 감해 주거든…",
+        "집에서는 그런 것이 보이지 않지만 여기서는 다 보인단다, 그리고 그게 진실이야…",
+        "아니, 이것은 입맞춤과 시선과 어루만짐이란다…",
+        "사람들이 하는 각각의 입맞춤은 이 옷에 달빛 혹은 햇빛 하나를 더 추가해 준단다…",
+        "놀라워요, 엄마, 엄마 목소리예요.",
+        "하지만 엄마는 집에서보다 훨씬 더 말을 잘하시네요…",
+        "이리 와요, 이리 와요, 자매들!",
+        "이리 와요, 모두 달려와요, 빛이 마침내 우리를 찾아왔어요!",
+        "모든 게 참 예뻐요!",
+        "많기도 하다, 많기도 해!",
+        "악수를 해도 되나요?",
+        "엄마, 엄마, 엄마구나!",
+        "엄마구나, 맞아, 엄마!",
+        "오, 엄마를 다시 보니 얼마나 좋은지!",
+        "아주 오래되었어요, 아주 오래되었어요!",
+        "당장 엄마에게 뽀뽀해야만 하겠어요, 다시, 다시, 다시!",
+        "이런, 잠옷 바람이야!",
+        "내가 이런 모습으로 여행을 했단 말이야?"
+      ],
+      "part_no": 17,
+      "tokens_count": 195
+    },
+    "sentences": [
+      {
+        "id": "D-H3-B-021-0801",
+        "origin_text": "너희들은 매일 이처럼 멋진 모습이니?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3,
+          "file_duration": 3.5,
+          "filename": "D-H3-B-021-0801.wav",
+          "ptr": "너희들은  /  매일  /  이처럼 멋진 모습이니?",
+          "tr": "너희들은 매일 이처럼 멋진 모습이니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0802",
+        "origin_text": "그럼, 매일 매일이 일욜이지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "D-H3-B-021-0802.wav",
+          "ptr": "그럼  /  매일 매일이 일욜이지.",
+          "tr": "그럼, 매일 매일이 일욜이지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0803",
+        "origin_text": "모든 집에서 사람들이 눈을 뜰 때, 그리고 이자는 저녁이 되면 세상의 모든 왕들보다 더 아름다운 석양의 행복이야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.8800048828125,
+          "file_duration": 9.3800048828125,
+          "filename": "D-H3-B-021-0803.wav",
+          "ptr": "모든 집에서 사람들이 눈을 뜰 때  /  그리고  /  이자는  /  저녁이 되면  /  세상의 모든 왕들보다  /  더 아름다운 석양의 행복이야.",
+          "tr": "모든 집에서 사람들이 눈을 뜰 때, 그리고 이자는 저녁이 되면 세상의 모든 왕들보다 더 아름다운 석양의 행복이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0804",
+        "origin_text": "그 다음에는, 고대의 신처럼 금으로 장식하고 있는, 별들이 뜨는 것을 보는 행복이야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.82000732421875,
+          "file_duration": 7.32000732421875,
+          "filename": "D-H3-B-021-0804.wav",
+          "ptr": "그 다음에는  /  고대의 신처럼 금으로 장식하고 있는  /  별들이 뜨는 것을 보는 행복이야",
+          "tr": "그 다음에는, 고대의 신처럼 금으로 장식하고 있는, 별들이 뜨는 것을 보는 행복이야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0805",
+        "origin_text": "너희들을 이곳에서 보게 되다니, 난 기대하지 않았었는데!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.97998046875,
+          "file_duration": 4.47998046875,
+          "filename": "D-H3-B-021-0805.wav",
+          "ptr": "너희들을 이곳에서 보게 되다니  /  난  /  기대하지 않았었는데!",
+          "tr": "너희들을 이곳에서 보게 되다니, 난 기대하지 않았었는데!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0806",
+        "origin_text": "난 집에서 혼자 있었단다, 그런데 너희 둘은 모든 어머니들의 영혼이 기쁨 속에서 빛나고 있는 하늘까지 올라왔구나!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 9.600006103515625,
+          "file_duration": 10.100006103515625,
+          "filename": "D-H3-B-021-0806.wav",
+          "ptr": "난 집에서 혼자 있었단다  /  그런데  /  너희 둘은  /  모든 어머니들의 영혼이 기쁨 속에서 빛나고 있는  /  하늘까지  /  올라왔구나!",
+          "tr": "난 집에서 혼자 있었단다, 그런데 너희 둘은 모든 어머니들의 영혼이 기쁨 속에서 빛나고 있는 하늘까지 올라왔구나!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0807",
+        "origin_text": "우선 입맞춤, 입맞춤을 하자, 할 수 있는 만큼 많이!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.1400146484375,
+          "file_duration": 5.6400146484375,
+          "filename": "D-H3-B-021-0807.wav",
+          "ptr": "우선  /  입맞춤  /  입맞춤을 하자  /  할 수 있는 만큼 많이!",
+          "tr": "우선 입맞춤, 입맞춤을 하자, 할 수 있는 만큼 많이!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0808",
+        "origin_text": "당신은 엄마를 닮았어요, 하지만 당신이 훨씬 더 아름다워요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.079986572265625,
+          "file_duration": 5.579986572265625,
+          "filename": "D-H3-B-021-0808.wav",
+          "ptr": "당신은 엄마를 닮았어요  /  하지만  /  당신이 훨씬 더 아름다워요",
+          "tr": "당신은 엄마를 닮았어요, 하지만 당신이 훨씬 더 아름다워요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0809",
+        "origin_text": "당연하지, 난 더 이상 늙지 않으니까, 또 하루하루가 나한테 힘과 젊음과 행복을 가져다주니까…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.779998779296875,
+          "file_duration": 9.279998779296875,
+          "filename": "D-H3-B-021-0809.wav",
+          "ptr": "당연하지  /  난 더 이상 늙지 않으니까  /  또  /  하루하루가 나한테  /  힘과 젊음과  /  행복을 가져다주니까",
+          "tr": "당연하지, 난 더 이상 늙지 않으니까, 또 하루하루가 나한테 힘과 젊음과 행복을 가져다주니까"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0810",
+        "origin_text": "너의 미소 하나하나가 나에게서 1년이나 감해 주거든…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.739990234375,
+          "file_duration": 5.239990234375,
+          "filename": "D-H3-B-021-0810.wav",
+          "ptr": "너의 미소 하나하나가  /  나에게서 일 년이나 감해 주거든",
+          "tr": "너의 미소 하나하나가 나에게서 일 년이나 감해 주거든"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0811",
+        "origin_text": "집에서는 그런 것이 보이지 않지만 여기서는 다 보인단다, 그리고 그게 진실이야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.699981689453125,
+          "file_duration": 7.199981689453125,
+          "filename": "D-H3-B-021-0811.wav",
+          "ptr": "집에서는  /  그런 것이 보이지 않지만  /  여기서는 다 보인단다  /  그리고  /  그게 진실이야",
+          "tr": "집에서는 그런 것이 보이지 않지만 여기서는 다 보인단다, 그리고 그게 진실이야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0812",
+        "origin_text": "아니, 이것은 입맞춤과 시선과 어루만짐이란다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.29998779296875,
+          "file_duration": 4.79998779296875,
+          "filename": "D-H3-B-021-0812.wav",
+          "ptr": "아니  /  이것은 입맞춤과 시선과 어루만짐이란다",
+          "tr": "아니, 이것은 입맞춤과 시선과 어루만짐이란다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0813",
+        "origin_text": "사람들이 하는 각각의 입맞춤은 이 옷에 달빛 혹은 햇빛 하나를 더 추가해 준단다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.3800048828125,
+          "file_duration": 7.8800048828125,
+          "filename": "D-H3-B-021-0813.wav",
+          "ptr": "사람들이 하는 각각의 입맞춤은  /  이 옷에 달빛  /  혹은  /  햇빛  /  하나를 더 추가해 준단다",
+          "tr": "사람들이 하는 각각의 입맞춤은 이 옷에 달빛 혹은 햇빛 하나를 더 추가해 준단다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0814",
+        "origin_text": "놀라워요, 엄마, 엄마 목소리예요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.180023193359375,
+          "file_duration": 3.680023193359375,
+          "filename": "D-H3-B-021-0814.wav",
+          "ptr": "놀라워요  /  엄마  /  엄마 목소리예요.",
+          "tr": "놀라워요, 엄마, 엄마 목소리예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0815",
+        "origin_text": "하지만 엄마는 집에서보다 훨씬 더 말을 잘하시네요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.759979248046875,
+          "file_duration": 5.259979248046875,
+          "filename": "D-H3-B-021-0815.wav",
+          "ptr": "하지만  /  엄마는 집에서보다  /  훨씬 더 말을 잘하시네요",
+          "tr": "하지만 엄마는 집에서보다 훨씬 더 말을 잘하시네요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0816",
+        "origin_text": "이리 와요, 이리 와요, 자매들!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.739990234375,
+          "file_duration": 3.239990234375,
+          "filename": "D-H3-B-021-0816.wav",
+          "ptr": "이리 와요  /  이리 와요 자매들!",
+          "tr": "이리 와요, 이리 와요, 자매들!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0817",
+        "origin_text": "이리 와요, 모두 달려와요, 빛이 마침내 우리를 찾아왔어요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.540008544921875,
+          "file_duration": 6.040008544921875,
+          "filename": "D-H3-B-021-0817.wav",
+          "ptr": "이리 와요  /  모두 달려와요  /  빛이  /  마침내 우리를 찾아왔어요!",
+          "tr": "이리 와요, 모두 달려와요, 빛이 마침내 우리를 찾아왔어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0818",
+        "origin_text": "모든 게 참 예뻐요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.040008544921875,
+          "file_duration": 2.540008544921875,
+          "filename": "D-H3-B-021-0818.wav",
+          "ptr": "모든 게 참 예뻐요!",
+          "tr": "모든 게 참 예뻐요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0819",
+        "origin_text": "많기도 하다, 많기도 해!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.220001220703125,
+          "file_duration": 2.720001220703125,
+          "filename": "D-H3-B-021-0819.wav",
+          "ptr": "많기도 하다  /  많기도 해!",
+          "tr": "많기도 하다, 많기도 해!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0820",
+        "origin_text": "악수를 해도 되나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.239990234375,
+          "file_duration": 1.739990234375,
+          "filename": "D-H3-B-021-0820.wav",
+          "ptr": "악수를 해도 되나요?",
+          "tr": "악수를 해도 되나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0821",
+        "origin_text": "엄마, 엄마, 엄마구나!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.29998779296875,
+          "file_duration": 2.79998779296875,
+          "filename": "D-H3-B-021-0821.wav",
+          "ptr": "엄마  /  엄마  /  엄마구나!",
+          "tr": "엄마, 엄마, 엄마구나!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0822",
+        "origin_text": "엄마구나, 맞아, 엄마!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.220001220703125,
+          "file_duration": 2.840006103515634,
+          "filename": "D-H3-B-021-0822.wav",
+          "ptr": "엄마구나  /  맞아 엄마!",
+          "tr": "엄마구나, 맞아, 엄마!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0823",
+        "origin_text": "오, 엄마를 다시 보니 얼마나 좋은지!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.44000244140625,
+          "file_duration": 3.94000244140625,
+          "filename": "D-H3-B-021-0823.wav",
+          "ptr": "오  /  엄마를 다시 보니  /  얼마나 좋은지!",
+          "tr": "오, 엄마를 다시 보니 얼마나 좋은지!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0824",
+        "origin_text": "아주 오래되었어요, 아주 오래되었어요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.5,
+          "file_duration": 4,
+          "filename": "D-H3-B-021-0824.wav",
+          "ptr": "아주 오래되었어요  /  아주 오래되었어요!",
+          "tr": "아주 오래되었어요, 아주 오래되었어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0825",
+        "origin_text": "당장 엄마에게 뽀뽀해야만 하겠어요, 다시, 다시, 다시!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.260009765625,
+          "file_duration": 5.760009765625,
+          "filename": "D-H3-B-021-0825.wav",
+          "ptr": "당장  /  엄마에게 뽀뽀해야만 하겠어요  /  다시  /  다시  /  다시!",
+          "tr": "당장 엄마에게 뽀뽀해야만 하겠어요, 다시, 다시, 다시!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0826",
+        "origin_text": "이런, 잠옷 바람이야!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.9599609375,
+          "file_duration": 2.4599609375,
+          "filename": "D-H3-B-021-0826.wav",
+          "ptr": "이런  /  잠옷 바람이야!",
+          "tr": "이런, 잠옷 바람이야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-B-021-0827",
+        "origin_text": "내가 이런 모습으로 여행을 했단 말이야?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.0799560546875,
+          "file_duration": 2.539979248046876,
+          "filename": "D-H3-B-021-0827.wav",
+          "ptr": "내가 이런 모습으로 여행을 했단 말이야?",
+          "tr": "내가 이런 모습으로 여행을 했단 말이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 192.81997732426305,
+      "filename": "/data2/gst-voice/splitted/D/021/D-H306-P17-B-021.wav",
+      "recorded_at": "2022-08-26 02:17:11",
+      "sample_rate": 44100
+    }
+  }
+]

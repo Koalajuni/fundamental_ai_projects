@@ -1,0 +1,969 @@
+[
+  {
+    "id": "D-A105-P14-A-071",
+    "import": {
+      "author": "베르톨트 브레히트",
+      "book_title": "주인 푼틸라와 하인 마티",
+      "country": "독일",
+      "id": "D0049",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "주인 푼틸라와 하인 마티",
+      "translator": "이재진"
+    },
+    "reciter": {
+      "age": 50,
+      "gender": "FEMALE",
+      "id": 71
+    },
+    "script": {
+      "chars_count": 600,
+      "id": "D-A105",
+      "normalized": [
+        "마티, 자네 오늘 내게 화가 되게 났구먼, 그래서 이리 공적으로 일을 하는데도 나보고 옳지 않다고 그러지.",
+        "나를 잘 보게, 내 다리가 제대로 붙어 있는지, 아니면 자네 눈에는 당나귀 주둥이로 보이나?",
+        "그 뚱땡이가 저기 또 오는군, 저런 놈이 나타나면 일꾼들 사이에 못된 피가 들끓기 마련인데.",
+        "나중에 하죠, 이제 계약금을 정하시죠!",
+        "이러다 늦겠습니다, 지금 나리는 저 사람들을 붙잡고만 계십니다.",
+        "제가 보장하죠, 이 사람들은 계약이나 끝내길 원하고 있습니다, 저기 저 사람을 추천합니다.",
+        "저 사람이면 꽤 쓸 만할 겁니다, 직접 보시면 아실 겁니다.",
+        "저 녀석은 이런 인력시장에서 뭐 하는 거야?",
+        "나리께서 신부님한테 약속하지 않았습니까, 수르칼라가 빨갱이 같으니 내쫓겠다고.",
+        "기회를 그렇게 많이 줬는데도 나를 그 정도밖에 이해 못 하고 있다니!",
+        "그렇군요, 참사관 나리와 약혼을 하시게 되는군요.",
+        "내가 왜 당신한테 이런 사사로운 묘한 문제를 털어놓는지 정말 알 수 없네.",
+        "이런, 마치뱅크스 씨, 내 타자기를 만졌군요, 안 그랬던 척해도 아무 소용이 없어요.",
+        "참 나, 이 키를 망가뜨렸잖아요.",
+        "그쪽은 이게 손풍금이라고 생각했을 것 같군요, 아무것도 안 하고 핸들만 돌리면 곧바로 아름다운 연애편지를 써 주리라 생각했단 말이죠, 그렇죠?",
+        "내가 어떻게 알아요, 왜 나한테 묻는 거죠?",
+        "아, 당신은 분명히 성직자군요, 제임스, 철저한 성직자라고요.",
+        "일어나, 일어나, 게으른 녀석들!",
+        "부끄럽지도 않니, 여덟 시가 울렸어.",
+        "태양이 벌써 숲보다 높이 떠 있는데!",
+        "빛은 당연히 여기 있지, 벌써 한참 전부터",
+        "정오만큼이나 밝아, 덧창문이 닫혀 있지만"
+      ],
+      "origin": [
+        "마티, 자네 오늘 내게 화가 되게 났구먼, 그래서 이리 공적으로 일을 하는데도 나보고 옳지 않다고 그러지.",
+        "나를 잘 보게, 내 다리가 제대로 붙어 있는지, 아니면 자네 눈에는 당나귀 주둥이로 보이나?",
+        "그 뚱땡이가 저기 또 오는군, 저런 놈이 나타나면 일꾼들 사이에 못된 피가 들끓기 마련인데.",
+        "나중에 하죠, 이제 계약금을 정하시죠!",
+        "이러다 늦겠습니다, 지금 나리는 저 사람들을 붙잡고만 계십니다.",
+        "제가 보장하죠, 이 사람들은 계약이나 끝내길 원하고 있습니다, 저기 저 사람을 추천합니다.",
+        "저 사람이면 꽤 쓸 만할 겁니다, 직접 보시면 아실 겁니다.",
+        "저 녀석은 이런 인력시장에서 뭐 하는 거야?",
+        "나리께서 신부님한테 약속하지 않았습니까, 수르칼라가 빨갱이 같으니 내쫓겠다고.",
+        "기회를 그렇게 많이 줬는데도 나를 그 정도밖에 이해 못 하고 있다니!",
+        "그렇군요, 참사관 나리와 약혼을 하시게 되는군요.",
+        "내가 왜 당신한테 이런 사사로운 묘한 문제를 털어놓는지 정말 알 수 없네.",
+        "이런, 마치뱅크스 씨, 내 타자기를 만졌군요, 안 그랬던 척해도 아무 소용이 없어요.",
+        "참 나, 이 키를 망가뜨렸잖아요.",
+        "그쪽은 이게 손풍금이라고 생각했을 것 같군요, 아무것도 안 하고 핸들만 돌리면 곧바로 아름다운 연애편지를 써 주리라 생각했단 말이죠, 그렇죠?",
+        "내가 어떻게 알아요, 왜 나한테 묻는 거죠?",
+        "아, 당신은 분명히 성직자군요, 제임스, 철저한 성직자라고요.",
+        "일어나, 일어나, 게으른 녀석들!",
+        "부끄럽지도 않니, 8시가 울렸어.",
+        "태양이 벌써 숲보다 높이 떠 있는데!",
+        "빛은 당연히 여기 있지, 벌써 한참 전부터…",
+        "정오만큼이나 밝아, 덧창문이 닫혀 있지만…"
+      ],
+      "part_no": 14,
+      "tokens_count": 200
+    },
+    "sentences": [
+      {
+        "id": "D-A1-A-071-0651",
+        "origin_text": "마티, 자네 오늘 내게 화가 되게 났구먼, 그래서 이리 공적으로 일을 하는데도 나보고 옳지 않다고 그러지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.680023193359375,
+          "file_duration": 8.180023193359375,
+          "filename": "D-A1-A-071-0651.wav",
+          "ptr": "마티  /  자네 오늘 내게 화가 되게 났구먼  /  그래서 이리 공적으로 일을 하는데도  /  나보고 옳지 않다고 그러지.",
+          "tr": "마티, 자네 오늘 내게 화가 되게 났구먼, 그래서 이리 공적으로 일을 하는데도 나보고 옳지 않다고 그러지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0652",
+        "origin_text": "나를 잘 보게, 내 다리가 제대로 붙어 있는지, 아니면 자네 눈에는 당나귀 주둥이로 보이나?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.55999755859375,
+          "file_duration": 7.05999755859375,
+          "filename": "D-A1-A-071-0652.wav",
+          "ptr": "나를 잘 보게  /  내 다리가 제대로 붙어 있는지  /  아니면  /  자네 눈에는 당나귀 주둥이로 보이나?",
+          "tr": "나를 잘 보게, 내 다리가 제대로 붙어 있는지, 아니면 자네 눈에는 당나귀 주둥이로 보이나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0653",
+        "origin_text": "그 뚱땡이가 저기 또 오는군, 저런 놈이 나타나면 일꾼들 사이에 못된 피가 들끓기 마련인데.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.58001708984375,
+          "file_duration": 7.08001708984375,
+          "filename": "D-A1-A-071-0653.wav",
+          "ptr": "그 뚱땡이가 저기 또 오는군  /  저런 놈이 나타나면  /  일꾼들 사이에 못된 피가 들끓기 마련인데.",
+          "tr": "그 뚱땡이가 저기 또 오는군, 저런 놈이 나타나면 일꾼들 사이에 못된 피가 들끓기 마련인데."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0654",
+        "origin_text": "나중에 하죠, 이제 계약금을 정하시죠!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8599853515625,
+          "file_duration": 3.3599853515625,
+          "filename": "D-A1-A-071-0654.wav",
+          "ptr": "나중에 하죠  /  이제 계약금을 정하시죠!",
+          "tr": "나중에 하죠, 이제 계약금을 정하시죠!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0655",
+        "origin_text": "이러다 늦겠습니다, 지금 나리는 저 사람들을 붙잡고만 계십니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-A1-A-071-0655.wav",
+          "ptr": "이러다 늦겠습니다  /  지금 나리는  /  저 사람들을 붙잡고만 계십니다.",
+          "tr": "이러다 늦겠습니다, 지금 나리는 저 사람들을 붙잡고만 계십니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0656",
+        "origin_text": "제가 보장하죠, 이 사람들은 계약이나 끝내길 원하고 있습니다, 저기 저 사람을 추천합니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.899993896484375,
+          "file_duration": 7.399993896484375,
+          "filename": "D-A1-A-071-0656.wav",
+          "ptr": "제가 보장하죠  /  이 사람들은  /  계약이나 끝내길 원하고 있습니다  /  저기 저 사람을 추천합니다.",
+          "tr": "제가 보장하죠, 이 사람들은 계약이나 끝내길 원하고 있습니다, 저기 저 사람을 추천합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0657",
+        "origin_text": "저 사람이면 꽤 쓸 만할 겁니다, 직접 보시면 아실 겁니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.459991455078125,
+          "file_duration": 4.959991455078125,
+          "filename": "D-A1-A-071-0657.wav",
+          "ptr": "저 사람이면 꽤 쓸 만할 겁니다  /  직접 보시면 아실 겁니다.",
+          "tr": "저 사람이면 꽤 쓸 만할 겁니다, 직접 보시면 아실 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0658",
+        "origin_text": "저 녀석은 이런 인력시장에서 뭐 하는 거야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.459991455078125,
+          "file_duration": 2.959991455078125,
+          "filename": "D-A1-A-071-0658.wav",
+          "ptr": "저 녀석은 이런 인력시장에서 뭐 하는 거야?",
+          "tr": "저 녀석은 이런 인력시장에서 뭐 하는 거야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0659",
+        "origin_text": "나리께서 신부님한테 약속하지 않았습니까, 수르칼라가 빨갱이 같으니 내쫓겠다고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.760009765625,
+          "file_duration": 6.260009765625,
+          "filename": "D-A1-A-071-0659.wav",
+          "ptr": "나리께서 신부님한테 약속하지 않았습니까  /  수르칼라가 빨갱이 같으니 내쫓겠다고.",
+          "tr": "나리께서 신부님한테 약속하지 않았습니까, 수르칼라가 빨갱이 같으니 내쫓겠다고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0660",
+        "origin_text": "기회를 그렇게 많이 줬는데도 나를 그 정도밖에 이해 못 하고 있다니!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.139984130859375,
+          "file_duration": 4.639984130859375,
+          "filename": "D-A1-A-071-0660.wav",
+          "ptr": "기회를 그렇게 많이 줬는데도  /  나를 그 정도밖에 이해 못 하고 있다니!",
+          "tr": "기회를 그렇게 많이 줬는데도 나를 그 정도밖에 이해 못 하고 있다니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0661",
+        "origin_text": "그렇군요, 참사관 나리와 약혼을 하시게 되는군요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8599853515625,
+          "file_duration": 4.3599853515625,
+          "filename": "D-A1-A-071-0661.wav",
+          "ptr": "그렇군요  /  참사관 나리와 약혼을 하시게 되는군요.",
+          "tr": "그렇군요, 참사관 나리와 약혼을 하시게 되는군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0662",
+        "origin_text": "내가 왜 당신한테 이런 사사로운 묘한 문제를 털어놓는지 정말 알 수 없네.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-A1-A-071-0662.wav",
+          "ptr": "내가 왜 당신한테  /  이런 사사로운 묘한 문제를 털어놓는지  /  정말 알 수 없네.",
+          "tr": "내가 왜 당신한테 이런 사사로운 묘한 문제를 털어놓는지 정말 알 수 없네."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0663",
+        "origin_text": "이런, 마치뱅크스 씨, 내 타자기를 만졌군요, 안 그랬던 척해도 아무 소용이 없어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.8800048828125,
+          "file_duration": 7.3800048828125,
+          "filename": "D-A1-A-071-0663.wav",
+          "ptr": "이런 마치뱅크스 씨  /  내 타자기를 만졌군요  /  안 그랬던 척해도 아무 소용이 없어요.",
+          "tr": "이런, 마치뱅크스 씨, 내 타자기를 만졌군요, 안 그랬던 척해도 아무 소용이 없어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0664",
+        "origin_text": "참 나, 이 키를 망가뜨렸잖아요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.65997314453125,
+          "file_duration": 3.15997314453125,
+          "filename": "D-A1-A-071-0664.wav",
+          "ptr": "참 나  /  이 키를 망가뜨렸잖아요.",
+          "tr": "참 나, 이 키를 망가뜨렸잖아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0665",
+        "origin_text": "그쪽은 이게 손풍금이라고 생각했을 것 같군요, 아무것도 안 하고 핸들만 돌리면 곧바로 아름다운 연애편지를 써 주리라 생각했단 말이죠, 그렇죠?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 10.65997314453125,
+          "file_duration": 11.15997314453125,
+          "filename": "D-A1-A-071-0665.wav",
+          "ptr": "그쪽은 이게 손풍금이라고 생각했을 것 같군요  /  아무것도 안 하고 핸들만 돌리면  /  곧바로 아름다운 연애편지를  /  써 주리라 생각했단 말이죠  /  그렇죠?",
+          "tr": "그쪽은 이게 손풍금이라고 생각했을 것 같군요, 아무것도 안 하고 핸들만 돌리면 곧바로 아름다운 연애편지를 써 주리라 생각했단 말이죠, 그렇죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0666",
+        "origin_text": "내가 어떻게 알아요, 왜 나한테 묻는 거죠?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.84002685546875,
+          "file_duration": 3.34002685546875,
+          "filename": "D-A1-A-071-0666.wav",
+          "ptr": "내가 어떻게 알아요  /  왜 나한테 묻는 거죠?",
+          "tr": "내가 어떻게 알아요, 왜 나한테 묻는 거죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0667",
+        "origin_text": "아, 당신은 분명히 성직자군요, 제임스, 철저한 성직자라고요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.02001953125,
+          "file_duration": 6.52001953125,
+          "filename": "D-A1-A-071-0667.wav",
+          "ptr": "아  /  당신은 분명히 성직자군요  /  제임스  /  철저한 성직자라고요.",
+          "tr": "아, 당신은 분명히 성직자군요, 제임스, 철저한 성직자라고요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0668",
+        "origin_text": "일어나, 일어나, 게으른 녀석들!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.32000732421875,
+          "file_duration": 3.82000732421875,
+          "filename": "D-A1-A-071-0668.wav",
+          "ptr": "일어나  /  일어나  /  게으른 녀석들!",
+          "tr": "일어나, 일어나, 게으른 녀석들!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0669",
+        "origin_text": "부끄럽지도 않니, 8시가 울렸어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9000244140625,
+          "file_duration": 3.4000244140625,
+          "filename": "D-A1-A-071-0669.wav",
+          "ptr": "부끄럽지도 않니  /  여덟 시가 울렸어.",
+          "tr": "부끄럽지도 않니, 여덟 시가 울렸어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0670",
+        "origin_text": "태양이 벌써 숲보다 높이 떠 있는데!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.260009765625,
+          "file_duration": 2.760009765625,
+          "filename": "D-A1-A-071-0670.wav",
+          "ptr": "태양이 벌써 숲보다 높이 떠 있는데!",
+          "tr": "태양이 벌써 숲보다 높이 떠 있는데!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0671",
+        "origin_text": "빛은 당연히 여기 있지, 벌써 한참 전부터…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.03997802734375,
+          "file_duration": 3.53997802734375,
+          "filename": "D-A1-A-071-0671.wav",
+          "ptr": "빛은 당연히 여기 있지 벌써 한참 전부터",
+          "tr": "빛은 당연히 여기 있지, 벌써 한참 전부터"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-A-071-0672",
+        "origin_text": "정오만큼이나 밝아, 덧창문이 닫혀 있지만…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.34002685546875,
+          "file_duration": 3.84002685546875,
+          "filename": "D-A1-A-071-0672.wav",
+          "ptr": "정오만큼이나 밝아  /  덧창문이 닫혀 있지만",
+          "tr": "정오만큼이나 밝아, 덧창문이 닫혀 있지만"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "A",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오1"
+    },
+    "voice": {
+      "duration": 160.66002267573697,
+      "filename": "/data2/gst-voice/splitted/D/071/D-A105-P14-A-071.wav",
+      "recorded_at": "2022-10-31 05:00:17",
+      "sample_rate": 44100
+    }
+  }
+]

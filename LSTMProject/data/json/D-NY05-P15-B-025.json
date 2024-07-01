@@ -1,0 +1,381 @@
+[
+  {
+    "id": "D-NY05-P15-B-025",
+    "import": {
+      "author": "오태영",
+      "book_title": "빵",
+      "country": "한국",
+      "id": "D0024",
+      "publish_year": 2019,
+      "times_bg": "현대",
+      "title": "빵",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 25
+    },
+    "script": {
+      "chars_count": 167,
+      "id": "D-NY05",
+      "normalized": [
+        "유감스럽게도 오늘은 술에 취하지 못하였고.",
+        "침묵을 지키실 수 있으세요, 컴퓨터, 기병 대위님?",
+        "특수성에 명예를 걸고요?",
+        "내가 터득한 퇴역 장교로서 침묵을 지키지 못한다면!",
+        "기병 대위님, 투표결과 일 위에는 대위님이 올랐어요!",
+        "예, 티코가 말인가요?",
+        "솔직히 당신은 한때 연애를 잘했던 심리학자는 아니야, 에리히.",
+        "아이가 윗옷을 흰색으로 받쳐 입으면, 그게 당신에게 무슨 해를 끼친다는 거죠?"
+      ],
+      "origin": [
+        "유감스럽게도 오늘은 술에 취하지 못하였고...",
+        "침묵을 지키실 수 있으세요, 컴퓨터, 기병 대위님?",
+        "특수성에 명예를 걸고요?",
+        "내가 터득한 퇴역 장교로서 침묵을 지키지 못한다면!",
+        "기병 대위님, 투표결과 1위에는 대위님이 올랐어요!",
+        "예, 티코가 말인가요?",
+        "솔직히 당신은 한때 연애를 잘했던 심리학자는 아니야, 에리히...",
+        "아이가 윗옷을 흰색으로 받쳐 입으면, 그게 당신에게 무슨 해를 끼친다는 거죠?"
+      ],
+      "part_no": 15,
+      "tokens_count": 51
+    },
+    "sentences": [
+      {
+        "id": "D-NY-B-025-0701",
+        "origin_text": "유감스럽게도 오늘은 수에 취하지 못하였고...",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.91998291015625,
+          "file_duration": 3.41998291015625,
+          "filename": "D-NY-B-025-0701.wav",
+          "ptr": "유감스럽게도 오늘은 수에 취하지 못하였고.",
+          "tr": "유감스럽게도 오늘은 수에 취하지 못하였고."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0702",
+        "origin_text": "침묵을 지키실 수 있으세요, 컴퓨터, 기병 대위님?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.760009765625,
+          "file_duration": 4.260009765625,
+          "filename": "D-NY-B-025-0702.wav",
+          "ptr": "침묵을 지키실 수 있으세요  /  컴퓨터  /  기병 대위님?",
+          "tr": "침묵을 지키실 수 있으세요, 컴퓨터, 기병 대위님?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0703",
+        "origin_text": "특수성에 명예를 걸고요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.03997802734375,
+          "file_duration": 2.53997802734375,
+          "filename": "D-NY-B-025-0703.wav",
+          "ptr": "특수성에  /  명예를 걸고요?",
+          "tr": "특수성에 명예를 걸고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0704",
+        "origin_text": "내가 터득한 퇴역 장교로서 침묵을 지키지 못한다면!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.91998291015625,
+          "file_duration": 4.41998291015625,
+          "filename": "D-NY-B-025-0704.wav",
+          "ptr": "내가 터득한 퇴역 장교로서  /  침묵을 지키지 못한다면!",
+          "tr": "내가 터득한 퇴역 장교로서 침묵을 지키지 못한다면!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0705",
+        "origin_text": "기병 대위님, 투표결과 1위에는 대위님이 올랐어요!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.260009765625,
+          "file_duration": 4.719992675781249,
+          "filename": "D-NY-B-025-0705.wav",
+          "ptr": "기병 대위님  /  투표결과 일 위에는  /  대위님이 올랐어요!",
+          "tr": "기병 대위님, 투표결과 일 위에는 대위님이 올랐어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0706",
+        "origin_text": "예, 티코가 말인가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.239990234375,
+          "file_duration": 2.699982910156251,
+          "filename": "D-NY-B-025-0706.wav",
+          "ptr": "예  /  티코가 말인가요?",
+          "tr": "예, 티코가 말인가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0707",
+        "origin_text": "솔직히 당신은 한때 연애를 잘했던 심리학자는 아니야, 에리히...",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.9000244140625,
+          "file_duration": 5.3100048828125,
+          "filename": "D-NY-B-025-0707.wav",
+          "ptr": "솔직히 당신은  /  한때 연애를 잘했던 심리학자는 아니야  /  에리히.",
+          "tr": "솔직히 당신은 한때 연애를 잘했던 심리학자는 아니야, 에리히."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-B-025-0708",
+        "origin_text": "아이가 윗옷을 흰색으로 받쳐 입으면, 그게 당신에게 무슨 해를 끼친다는 거죠?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.28997802734375,
+          "file_duration": 5.529997558593749,
+          "filename": "D-NY-B-025-0708.wav",
+          "ptr": "아이가 윗옷을 흰색으로 받쳐 입으면  /  그게 당신에게 무슨 해를 끼친다는 거죠?",
+          "tr": "아이가 윗옷을 흰색으로 받쳐 입으면, 그게 당신에게 무슨 해를 끼친다는 거죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 57.22997732426304,
+      "filename": "/data2/gst-voice/splitted/D/025/D-NY05-P15-B-025.wav",
+      "recorded_at": "2022-10-14 04:57:16",
+      "sample_rate": 44100
+    }
+  }
+]

@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NY03-P08-D-005",
+    "import": {
+      "author": "송길한",
+      "book_title": "송길한시나리오선집",
+      "country": "한국",
+      "id": "D0035",
+      "publish_year": 2019,
+      "times_bg": "현대",
+      "title": "티켓",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 20,
+      "gender": "MALE",
+      "id": 5
+    },
+    "script": {
+      "chars_count": 1063,
+      "id": "D-NY03",
+      "normalized": [
+        "가죽 고도리에 피 이 점 삼천 오백 원씩, 넌?",
+        "무슨 역을 맡았는데 인기가 가속화될 전망이다, 그래?",
+        "각각 육십사점육 퍼센트와 백 퍼센트의 확률로 복권이나 당첨됐으면 해요.",
+        "감리, 너 애인 있구나!",
+        "어렵지 않지, 강력한 지배권력 앞에서 일손도 부족하니까.",
+        "언제 느닷없이 출항하시죠?",
+        "건전성 수익성 생산성 윤세영이를 만나러 왔는데요.",
+        "여기선, 개의 의리와 막내로 통한다고 들었어요.",
+        "데리야키 햄버그 대학 다닌다는 김민수 학생이야?",
+        "집이 부자라던데 왜 나와서 안기부, 하지?",
+        "수영 대회를 개최하고 있는데, 바다에 나가 한번 뛰어봐.",
+        "쌍용차 전화 바꿨습니다.",
+        "저예요, 감정과 의지의 첨단적 표현, 지숙이.",
+        "이 밤중에 아나운서와 웬일이야?",
+        "제가 안철수 씨의 포항으로 갈까요?",
+        "아니면 사람이 거의 없는 쪽으로 오시겠어요?",
+        "아냐, 아냐, 양파도 그럴 거 없다고 전해줘.",
+        "마침 볼일이 있어 내일 거래소 시장을 올라가는데 거기서 만나.",
+        "슈만 선생이 몇 시, 어디서?",
+        "동궁 스카이라운지 시민편에서 오후 여섯 시경.",
+        "창신동에서 만나요, 꼭대기에 숭얼숭얼한 놀이터 있죠, 두 시예요.",
+        "언니야 시즌 오 관왕에 성공한 거죠 뭐!",
+        "이 게임 바닥에서 언니만큼 돈 번 여자가 어디 또 있어요.",
+        "어떻게 벌었든지 억대란 돈은 하늘이 검토한 돈이에요.",
+        "신비하고도 유명한 스탠호프 씨를 뵈러 오셨나요?",
+        "네, 가족들을요, 하지만 사실 가장 큰 목적은 연예인 집을 보는 거예요.",
+        "이 집은 역학 분야라고 소문나서 이제 헐릴 거예요.",
+        "워드프로세서인 이 집이 헐리기 전에 보고 싶었어요.",
+        "특히 미스 앨리슨 스탠호프가 견과류를 섞어 사용했던 방을 보고 싶어요.",
+        "그 방은 월드컵 후원 카드의 가족 외에는 아무도 들어가지 못해요.",
+        "당신은 어울려 뒹군다 라던 가족이 아닌가요?",
+        "오, 아니요, 전 확고한 스탠호프 씨의 비서랍니다.",
+        "윌레츠의 평가에 의하면, 절대 아닙니다.",
+        "시카고에는 빈 요구르트 외에는 기삿거리가 없나요?",
+        "하지만 그게 경영지표에 어떻게 쓰였는지에 대해서는 전혀 알지 못해요.",
+        "이해합니다, 레코드 헤럴드의 어떤 위축 리스트릭션을 읽었나요?",
+        "저는 대개 사모주식형 기사를 읽는 편이에요.",
+        "지난 월요일, 신문 읽었어요?",
+        "그 경우라면, 퇴계로 말고는 기억이 안 나는군요.",
+        "미시간 애비뉴의 자동화 교통? 기억나나요?",
+        "우연히 부딪친 경우 이외에는 못 본 것 같아요.",
+        "시장을 장악하고 있는 두 회사가 일은 잘하고 있지.",
+        "오, 자기중심주의 집단이기주의 자기이해관계에 집착하는 인생이라니.",
+        "자, 앤, 이 계급투쟁설 메모들을 받아 줘.",
+        "네 말이 맞다, 전문가집단들의 끝없는 복수를 도와줘라.",
+        "아니에요, 제풀에 쓰러질 듯 흐늘흐늘하는 것뿐, 아무것도 아니에요.",
+        "이렇게 주요 정보 자료를 쉽게 벗어나다니 다행인걸.",
+        "태양 주위의 회전주기가 별로 진전이 없긴 하지.",
+        "제행무상의 깨달음은 생각했던 것보다 어려워.",
+        "그건 고층 아파트가 누나를 집으로 데려오고 싶어서예요."
+      ],
+      "origin": [
+        "가죽 고도리에 피 2점 3500원씩, 넌?",
+        "무슨 역을 맡았는데 인기가 가속화될 전망이다, 그래?",
+        "각각 64.6%와 100%의 확률로 복권이나 당첨됐으면 해요.",
+        "감리, 너 애인 있구나!",
+        "어렵지 않지, 강력한 지배권력 앞에서 일손도 부족하니까.",
+        "언제 느닷없이 출항하시죠?",
+        "건전성·수익성·생산성 윤세영이를 만나러 왔는데요.",
+        "여기선, 개의 의리와 막내로 통한다고 들었어요.",
+        "데리야키 햄버그 대학 다닌다는 김민수 학생이야?",
+        "집이 부자라던데 왜 나와서 안기부, 하지?",
+        "수영 대회를 개최하고 있는데, 바다에 나가 한번 뛰어봐.",
+        "쌍용차 전화 바꿨습니다.",
+        "저예요, 감정과 의지의 첨단적(尖端的) 표현, 지숙이.",
+        "이 밤중에 아나운서와 웬일이야?",
+        "제가 안철수 씨의 포항으로 갈까요?",
+        "아니면 사람이 거의 없는 쪽으로 오시겠어요?",
+        "아냐, 아냐, 양파도 그럴 거 없다고 전해줘.",
+        "마침 볼일이 있어 내일 거래소 시장을 올라가는데 거기서 만나.",
+        "슈만 선생이 몇 시, 어디서?",
+        "동궁 스카이라운지 시민편에서 오후 여섯 시경.",
+        "창신동에서 만나요, 꼭대기에 숭얼숭얼한 놀이터 있죠, 2시예요.",
+        "언니야 시즌 5관왕에 성공한 거죠 뭐!",
+        "이 게임 바닥에서 언니만큼 돈 번 여자가 어디 또 있어요.",
+        "어떻게 벌었든지 억대란 돈은 하늘이 검토한 돈이에요.",
+        "신비하고도 유명한 스탠호프 씨를 뵈러 오셨나요?",
+        "네, 가족들을요, 하지만 사실 가장 큰 목적은 연예인 집을 보는 거예요.",
+        "이 집은 역학(力學) 분야라고 소문나서 이제 헐릴 거예요.",
+        "워드프로세서인 이 집이 헐리기 전에 보고 싶었어요.",
+        "특히 미스 앨리슨 스탠호프가 견과류를 섞어 사용했던 방을 보고 싶어요.",
+        "그 방은 월드컵 후원 카드의 가족 외에는 아무도 들어가지 못해요.",
+        "당신은 어울려 뒹군다 라던 가족이 아닌가요?",
+        "오, 아니요, 전 확고한 스탠호프 씨의 비서랍니다.",
+        "윌레츠(Peter Willetts, 2000)의 평가에 의하면, 절대 아닙니다.",
+        "시카고에는 빈 요구르트 외에는 기삿거리가 없나요?",
+        "하지만 그게 경영지표에 어떻게 쓰였는지에 대해서는 전혀 알지 못해요.",
+        "이해합니다, 레코드 헤럴드의 어떤 위축 restriction을 읽었나요?",
+        "저는 대개 사모주식형 기사를 읽는 편이에요.",
+        "지난 월요일, 신문 읽었어요?",
+        "그 경우라면, 퇴계로 말고는 기억이 안 나는군요.",
+        "미시간 애비뉴'의 자동화 교통? 기억나나요?",
+        "우연히 부딪친 경우 이외에는 못 본 것 같아요.",
+        "시장을 장악하고 있는 두 회사가 일은 잘하고 있지.",
+        "오, 자기중심주의·집단이기주의·자기이해관계에 집착하는 인생이라니.",
+        "자, 앤, 이 계급투쟁설 메모들을 받아 줘.",
+        "네 말이 맞다, 전문가집단들의 끝없는 복수를 도와줘라.",
+        "아니에요, 제풀에 쓰러질 듯 흐늘흐늘하는 것뿐, 아무것도 아니에요.",
+        "이렇게 주요 정보·자료를 쉽게 벗어나다니 다행인걸.",
+        "태양 주위의 회전주기가 별로 진전이 없긴 하지.",
+        "제행무상(諸行無常)의 깨달음은 생각했던 것보다 어려워.",
+        "그건 고층 아파트가 누나를 집으로 데려오고 싶어서예요."
+      ],
+      "part_no": 8,
+      "tokens_count": 338
+    },
+    "sentences": [
+      {
+        "id": "D-NY-D-005-0351",
+        "origin_text": "가죽 고도리에 피 2점 3500원씩, 넌?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.79998779296875,
+          "file_duration": 5.29998779296875,
+          "filename": "D-NY-D-005-0351.wav",
+          "ptr": "가죽 고도리에  /  피 이 점  /  삼천 오백 원씩  /  넌?",
+          "tr": "가죽 고도리에 피 이 점 삼천 오백 원씩, 넌?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0352",
+        "origin_text": "무슨 역을 맡았는데 인기가 가속화될 전망이다, 그래?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.6199951171875,
+          "filename": "D-NY-D-005-0352.wav",
+          "ptr": "무슨 역을 맡았는데  /  인기가  /  가속화될 전망이다  /  그래?",
+          "tr": "무슨 역을 맡았는데 인기가 가속화될 전망이다, 그래?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0353",
+        "origin_text": "각각 64.6%와 100%의 확률로 복권이나 당첨됐으면 해요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.759979248046875,
+          "file_duration": 7.259979248046875,
+          "filename": "D-NY-D-005-0353.wav",
+          "ptr": "각각  /  육십 사점육 퍼센트와  /  백 퍼센트의 확률로  /  복권이나 당첨됐으면 해요.",
+          "tr": "각각 육십 사점육 퍼센트와 백 퍼센트의 확률로 복권이나 당첨됐으면 해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0354",
+        "origin_text": "감리, 너 애인 있구나!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.300018310546875,
+          "file_duration": 2.800018310546875,
+          "filename": "D-NY-D-005-0354.wav",
+          "ptr": "감리  /  너 애인 있구나!",
+          "tr": "감리, 너 애인 있구나!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0355",
+        "origin_text": "어렵지 않지, 강력한 지배권력 앞에서 일손도 부족하니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.97998046875,
+          "file_duration": 5.47998046875,
+          "filename": "D-NY-D-005-0355.wav",
+          "ptr": "어렵지 않지  /  강력한 지배권력 앞에서  /  일손도 부족하니까.",
+          "tr": "어렵지 않지, 강력한 지배권력 앞에서 일손도 부족하니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0356",
+        "origin_text": "언제 느닷없이 출항하시죠?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.96002197265625,
+          "file_duration": 2.46002197265625,
+          "filename": "D-NY-D-005-0356.wav",
+          "ptr": "언제 느닷없이 출항하시죠?",
+          "tr": "언제 느닷없이 출항하시죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0357",
+        "origin_text": "건전성·수익성·생산성 윤세영이를 만나러 왔는데요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.100006103515625,
+          "file_duration": 5.600006103515625,
+          "filename": "D-NY-D-005-0357.wav",
+          "ptr": "건전성 수익성 생산성  /  윤세영이를  /  만나러 왔는데요.",
+          "tr": "건전성 수익성 생산성 윤세영이를 만나러 왔는데요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0358",
+        "origin_text": "여기선, 개의 의리와 막내로 통한다고 들었어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.739990234375,
+          "file_duration": 4.239990234375,
+          "filename": "D-NY-D-005-0358.wav",
+          "ptr": "여기선  /  개의 의리와 막내로 통한다고 들었어요.",
+          "tr": "여기선, 개의 의리와 막내로 통한다고 들었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0359",
+        "origin_text": "데리야키 햄버그 대학 다닌다는 김민수 학생이야?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.67999267578125,
+          "file_duration": 4.17999267578125,
+          "filename": "D-NY-D-005-0359.wav",
+          "ptr": "데리야키 햄버그 대학 다닌다는  /  김민수 학생이야?",
+          "tr": "데리야키 햄버그 대학 다닌다는 김민수 학생이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0360",
+        "origin_text": "집이 부자라던데 왜 나와서 안기부, 하지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.779998779296875,
+          "file_duration": 4.279998779296875,
+          "filename": "D-NY-D-005-0360.wav",
+          "ptr": "집이 부자라던데  /  왜 나와서 안기부  /  하지?",
+          "tr": "집이 부자라던데 왜 나와서 안기부, 하지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0361",
+        "origin_text": "수영 대회를 개최하고 있는데, 바다에 나가 한번 뛰어봐.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.319976806640625,
+          "file_duration": 4.819976806640625,
+          "filename": "D-NY-D-005-0361.wav",
+          "ptr": "수영 대회를 개최하고 있는데  /  바다에 나가  /  한번 뛰어봐.",
+          "tr": "수영 대회를 개최하고 있는데, 바다에 나가 한번 뛰어봐."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0362",
+        "origin_text": "쌍용차 전화 바꿨습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.959991455078125,
+          "file_duration": 2.5599938964843716,
+          "filename": "D-NY-D-005-0362.wav",
+          "ptr": "쌍용차  /  전화 바꿨습니다.",
+          "tr": "쌍용차 전화 바꿨습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0363",
+        "origin_text": "저예요, 감정과 의지의 첨단적(尖端的) 표현, 지숙이.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.620025634765625,
+          "file_duration": 5.120025634765625,
+          "filename": "D-NY-D-005-0363.wav",
+          "ptr": "저예요  /  감정과 의지의 첨단적 표현  /  지숙이.",
+          "tr": "저예요, 감정과 의지의 첨단적 표현, 지숙이."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0364",
+        "origin_text": "이 밤중에 아나운서와 웬일이야?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.739990234375,
+          "file_duration": 3.239990234375,
+          "filename": "D-NY-D-005-0364.wav",
+          "ptr": "이 밤중에  /  아나운서와 웬일이야?",
+          "tr": "이 밤중에 아나운서와 웬일이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0365",
+        "origin_text": "제가 안철수 씨의 포항으로 갈까요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.800018310546875,
+          "file_duration": 3.300018310546875,
+          "filename": "D-NY-D-005-0365.wav",
+          "ptr": "제가  /  안철수 씨의 포항으로 갈까요?",
+          "tr": "제가 안철수 씨의 포항으로 갈까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0366",
+        "origin_text": "아니면 사람이 거의 없는 쪽으로 오시겠어요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.439971923828125,
+          "file_duration": 3.939971923828125,
+          "filename": "D-NY-D-005-0366.wav",
+          "ptr": "아니면  /  사람이 거의 없는 쪽으로  /  오시겠어요?",
+          "tr": "아니면 사람이 거의 없는 쪽으로 오시겠어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0367",
+        "origin_text": "아냐, 아냐, 양파도 그럴 거 없다고 전해줘.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.55999755859375,
+          "file_duration": 5.05999755859375,
+          "filename": "D-NY-D-005-0367.wav",
+          "ptr": "아냐  /  아냐  /  양파도 그럴 거 없다고 전해줘.",
+          "tr": "아냐, 아냐, 양파도 그럴 거 없다고 전해줘."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0368",
+        "origin_text": "마침 볼일이 있어 내일 거래소 시장을 올라가는데 거기서 만나.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.9000244140625,
+          "file_duration": 5.4000244140625,
+          "filename": "D-NY-D-005-0368.wav",
+          "ptr": "마침 볼일이 있어  /  내일 거래소 시장을 올라가는데  /  거기서 만나.",
+          "tr": "마침 볼일이 있어 내일 거래소 시장을 올라가는데 거기서 만나."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0369",
+        "origin_text": "슈만 선생이 몇 시, 어디서?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.01995849609375,
+          "file_duration": 3.51995849609375,
+          "filename": "D-NY-D-005-0369.wav",
+          "ptr": "슈만 선생이  /  몇 시  /  어디서?",
+          "tr": "슈만 선생이 몇 시, 어디서?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0370",
+        "origin_text": "동궁 스카이라운지 시민편에서 오후 여섯 시경.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.86004638671875,
+          "file_duration": 4.36004638671875,
+          "filename": "D-NY-D-005-0370.wav",
+          "ptr": "동궁 스카이라운지 시민편에서  /  오후 여섯 시경.",
+          "tr": "동궁 스카이라운지 시민편에서 오후 여섯 시경."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0371",
+        "origin_text": "창신동에서 만나요, 꼭대기에 숭얼숭얼한 놀이터 있죠, 2시예요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.6600341796875,
+          "file_duration": 6.1600341796875,
+          "filename": "D-NY-D-005-0371.wav",
+          "ptr": "창신동에서 만나요  /  꼭대기에 숭얼숭얼한 놀이터 있죠  /  두 시예요.",
+          "tr": "창신동에서 만나요, 꼭대기에 숭얼숭얼한 놀이터 있죠, 두 시예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0372",
+        "origin_text": "언니야 시즌 5관왕에 성공한 거죠 뭐!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.260009765625,
+          "file_duration": 3.760009765625,
+          "filename": "D-NY-D-005-0372.wav",
+          "ptr": "언니야  /  시즌 오 관왕에  /  성공한 거죠 뭐!",
+          "tr": "언니야 시즌 오 관왕에 성공한 거죠 뭐!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0373",
+        "origin_text": "이 게임 바닥에서 언니만큼 돈 번 여자가 어디 또 있어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.77996826171875,
+          "file_duration": 5.27996826171875,
+          "filename": "D-NY-D-005-0373.wav",
+          "ptr": "이 게임 바닥에서  /  언니만큼  /  돈 번 여자가 어디 또 있어요.",
+          "tr": "이 게임 바닥에서 언니만큼 돈 번 여자가 어디 또 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0374",
+        "origin_text": "어떻게 벌었든지 억대란 돈은 하늘이 검토한 돈이에요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.5,
+          "file_duration": 5,
+          "filename": "D-NY-D-005-0374.wav",
+          "ptr": "어떻게 벌었든지  /  억대란 돈은  /  하늘이 검토한 돈이에요.",
+          "tr": "어떻게 벌었든지 억대란 돈은 하늘이 검토한 돈이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0375",
+        "origin_text": "신비하고도 유명한 스탠호프 씨를 뵈러 오셨나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.739990234375,
+          "file_duration": 4.239990234375,
+          "filename": "D-NY-D-005-0375.wav",
+          "ptr": "신비하고도 유명한  /  스탠호프 씨를 뵈러 오셨나요?",
+          "tr": "신비하고도 유명한 스탠호프 씨를 뵈러 오셨나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0376",
+        "origin_text": "네, 가족들을요, 하지만 사실 가장 큰 목적은 연예인 집을 보는 거예요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.4599609375,
+          "file_duration": 7.9599609375,
+          "filename": "D-NY-D-005-0376.wav",
+          "ptr": "네  /  가족들을요  /  하지만  /  사실 가장 큰 목적은  /  연예인 집을 보는 거예요.",
+          "tr": "네, 가족들을요, 하지만 사실 가장 큰 목적은 연예인 집을 보는 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0377",
+        "origin_text": "이 집은 역학(力學) 분야라고 소문나서 이제 헐릴 거예요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.17999267578125,
+          "file_duration": 4.67999267578125,
+          "filename": "D-NY-D-005-0377.wav",
+          "ptr": "이 집은  /  역학 분야라고 소문나서  /  이제 헐릴 거예요.",
+          "tr": "이 집은 역학 분야라고 소문나서 이제 헐릴 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0378",
+        "origin_text": "워드프로세서인 이 집이 헐리기 전에 보고 싶었어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.89996337890625,
+          "file_duration": 4.39996337890625,
+          "filename": "D-NY-D-005-0378.wav",
+          "ptr": "워드프로세서인 이 집이 헐리기 전에  /  보고 싶었어요.",
+          "tr": "워드프로세서인 이 집이 헐리기 전에 보고 싶었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0379",
+        "origin_text": "특히 미스 앨리슨 스탠호프가 견과류를 섞어 사용했던 방을 보고 싶어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.03997802734375,
+          "file_duration": 6.53997802734375,
+          "filename": "D-NY-D-005-0379.wav",
+          "ptr": "특히  /  미스 앨리슨 스탠호프가  /  견과류를 섞어 사용했던 방을 보고 싶어요.",
+          "tr": "특히 미스 앨리슨 스탠호프가 견과류를 섞어 사용했던 방을 보고 싶어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0380",
+        "origin_text": "그 방은 월드컵 후원 카드의 가족 외에는 아무도 들어가지 못해요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.260009765625,
+          "file_duration": 5.760009765625,
+          "filename": "D-NY-D-005-0380.wav",
+          "ptr": "그 방은  /  월드컵 후원 카드의 가족 외에는  /  아무도 들어가지 못해요.",
+          "tr": "그 방은 월드컵 후원 카드의 가족 외에는 아무도 들어가지 못해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0381",
+        "origin_text": "당신은 어울려 뒹군다 라던 가족이 아닌가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.65997314453125,
+          "file_duration": 4.15997314453125,
+          "filename": "D-NY-D-005-0381.wav",
+          "ptr": "당신은  /  어울려 뒹군다 라던  /  가족이 아닌가요?",
+          "tr": "당신은 어울려 뒹군다 라던 가족이 아닌가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0382",
+        "origin_text": "오, 아니요, 전 확고한 스탠호프 씨의 비서랍니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.9599609375,
+          "file_duration": 5.4599609375,
+          "filename": "D-NY-D-005-0382.wav",
+          "ptr": "오  /  아니요  /  전 확고한 스탠호프 씨의 비서랍니다.",
+          "tr": "오, 아니요, 전 확고한 스탠호프 씨의 비서랍니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0383",
+        "origin_text": "윌레츠(Peter Willetts, 2000)의 평가에 의하면, 절대 아닙니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.239990234375,
+          "file_duration": 3.739990234375,
+          "filename": "D-NY-D-005-0383.wav",
+          "ptr": "윌레츠의 평가에 의하면  /  절대 아닙니다.",
+          "tr": "윌레츠의 평가에 의하면, 절대 아닙니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0384",
+        "origin_text": "시카고에는 빈 요구르트 외에는 기삿거리가 없나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "D-NY-D-005-0384.wav",
+          "ptr": "시카고에는  /  빈 요구르트 외에는  /  기삿거리가 없나요?",
+          "tr": "시카고에는 빈 요구르트 외에는 기삿거리가 없나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0385",
+        "origin_text": "하지만 그게 경영지표에 어떻게 쓰였는지에 대해서는 전혀 알지 못해요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.8800048828125,
+          "file_duration": 6.3800048828125,
+          "filename": "D-NY-D-005-0385.wav",
+          "ptr": "하지만  /  그게 경영지표에 어떻게 쓰였는지에 대해서는  /  전혀 알지 못해요.",
+          "tr": "하지만 그게 경영지표에 어떻게 쓰였는지에 대해서는 전혀 알지 못해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0386",
+        "origin_text": "이해합니다, 레코드 헤럴드의 어떤 위축 restriction을 읽었나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.6400146484375,
+          "file_duration": 6.1400146484375,
+          "filename": "D-NY-D-005-0386.wav",
+          "ptr": "이해합니다  /  레코드 헤럴드의  /  어떤 위축 리스트릭션을 읽었나요?",
+          "tr": "이해합니다, 레코드 헤럴드의 어떤 위축 리스트릭션을 읽었나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0387",
+        "origin_text": "저는 대개 사모주식형 기사를 읽는 편이에요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.6400146484375,
+          "file_duration": 4.1400146484375,
+          "filename": "D-NY-D-005-0387.wav",
+          "ptr": "저는 대개  /  사모주식형 기사를 읽는 편이에요.",
+          "tr": "저는 대개 사모주식형 기사를 읽는 편이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0388",
+        "origin_text": "지난 월요일, 신문 읽었어요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.44000244140625,
+          "file_duration": 2.94000244140625,
+          "filename": "D-NY-D-005-0388.wav",
+          "ptr": "지난 월요일  /  신문 읽었어요?",
+          "tr": "지난 월요일, 신문 읽었어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0389",
+        "origin_text": "그 경우라면, 퇴계로 말고는 기억이 안 나는군요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.03997802734375,
+          "file_duration": 4.53997802734375,
+          "filename": "D-NY-D-005-0389.wav",
+          "ptr": "그 경우라면  /  퇴계로 말고는  /  기억이 안 나는군요.",
+          "tr": "그 경우라면, 퇴계로 말고는 기억이 안 나는군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0390",
+        "origin_text": "미시간 애비뉴`의 자동화 교통? 기억나나요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.02001953125,
+          "file_duration": 4.52001953125,
+          "filename": "D-NY-D-005-0390.wav",
+          "ptr": "미시간 애비뉴의  /  자동화 교통  /  기억나나요?",
+          "tr": "미시간 애비뉴의 자동화 교통? 기억나나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0391",
+        "origin_text": "우연히 부딪친 경우 이외에는 못 본 것 같아요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.41998291015625,
+          "file_duration": 3.91998291015625,
+          "filename": "D-NY-D-005-0391.wav",
+          "ptr": "우연히 부딪친 경우 이외에는  /  못 본 것 같아요.",
+          "tr": "우연히 부딪친 경우 이외에는 못 본 것 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0392",
+        "origin_text": "시장을 장악하고 있는 두 회사가 일은 잘하고 있지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "D-NY-D-005-0392.wav",
+          "ptr": "시장을 장악하고 있는 두 회사가  /  일은 잘하고 있지.",
+          "tr": "시장을 장악하고 있는 두 회사가 일은 잘하고 있지."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0393",
+        "origin_text": "오, 자기중심주의·집단이기주의·자기이해관계에 집착하는 인생이라니.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.67999267578125,
+          "file_duration": 7.17999267578125,
+          "filename": "D-NY-D-005-0393.wav",
+          "ptr": "오  /  자기중심주의  /  집단이기주의  /  자기이해관계에 집착하는 인생이라니.",
+          "tr": "오, 자기중심주의 집단이기주의 자기이해관계에 집착하는 인생이라니."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0394",
+        "origin_text": "자, 앤, 이 계급투쟁설 메모들을 받아 줘.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.84002685546875,
+          "file_duration": 5.34002685546875,
+          "filename": "D-NY-D-005-0394.wav",
+          "ptr": "자  /  앤  /  이 계급투쟁설 메모들을 받아 줘.",
+          "tr": "자, 앤, 이 계급투쟁설 메모들을 받아 줘."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0395",
+        "origin_text": "네 말이 맞다, 전문가집단들의 끝없는 복수를 도와줘라.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5,
+          "file_duration": 5.5,
+          "filename": "D-NY-D-005-0395.wav",
+          "ptr": "네 말이 맞다  /  전문가집단들의  /  끝없는 복수를  /  도와줘라.",
+          "tr": "네 말이 맞다, 전문가집단들의 끝없는 복수를 도와줘라."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0396",
+        "origin_text": "아니에요, 제풀에 쓰러질 듯 흐늘흐늘하는 것뿐, 아무것도 아니에요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.94000244140625,
+          "file_duration": 6.44000244140625,
+          "filename": "D-NY-D-005-0396.wav",
+          "ptr": "아니에요  /  제풀에 쓰러질 듯  /  흐늘흐늘하는 것뿐  /  아무것도 아니에요.",
+          "tr": "아니에요, 제풀에 쓰러질 듯 흐늘흐늘하는 것뿐, 아무것도 아니에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0397",
+        "origin_text": "이렇게 주요 정보·자료를 쉽게 벗어나다니 다행인걸.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.53997802734375,
+          "file_duration": 5.03997802734375,
+          "filename": "D-NY-D-005-0397.wav",
+          "ptr": "이렇게  /  주요 정보 자료를 쉽게 벗어나다니  /  다행인걸.",
+          "tr": "이렇게 주요 정보 자료를 쉽게 벗어나다니 다행인걸."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0398",
+        "origin_text": "태양 주위의 회전주기가 별로 진전이 없긴 하지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.72003173828125,
+          "file_duration": 4.22003173828125,
+          "filename": "D-NY-D-005-0398.wav",
+          "ptr": "태양 주위의 회전주기가  /  별로 진전이 없긴 하지.",
+          "tr": "태양 주위의 회전주기가 별로 진전이 없긴 하지."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0399",
+        "origin_text": "제행무상(諸行無常)의 깨달음은 생각했던 것보다 어려워.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.0999755859375,
+          "file_duration": 4.5999755859375,
+          "filename": "D-NY-D-005-0399.wav",
+          "ptr": "제행무상의 깨달음은  /  생각했던 것보다  /  어려워.",
+          "tr": "제행무상의 깨달음은 생각했던 것보다 어려워."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-005-0400",
+        "origin_text": "그건 고층 아파트가 누나를 집으로 데려오고 싶어서예요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.47998046875,
+          "file_duration": 4.97998046875,
+          "filename": "D-NY-D-005-0400.wav",
+          "ptr": "그건  /  고층 아파트가  /  누나를 집으로 데려오고 싶어서예요.",
+          "tr": "그건 고층 아파트가 누나를 집으로 데려오고 싶어서예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "D",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오4"
+    },
+    "voice": {
+      "duration": 393.919977324263,
+      "filename": "/data2/gst-voice/splitted/D/005/D-NY03-P08-D-005.wav",
+      "recorded_at": "2022-11-22 09:19:41",
+      "sample_rate": 44100
+    }
+  }
+]

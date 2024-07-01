@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-A101-P03-C-034",
+    "import": {
+      "author": "루치안 블라가(Lucian Blaga)",
+      "book_title": "건축 마스터 마놀레(Meșterul Manole)",
+      "country": "벨기에",
+      "id": "D0005",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "건축 마스터 마놀레(Meșterul Manole)",
+      "translator": "임재일"
+    },
+    "reciter": {
+      "age": 50,
+      "gender": "MALE",
+      "id": 34
+    },
+    "script": {
+      "chars_count": 1096,
+      "id": "D-A101",
+      "normalized": [
+        "총독님은 아주 점잖고 너그러우며 인내심 있는 분이었죠.",
+        "제가 당신을 아는데, 당신은 농담을 아주 잘하는 분이군요, 지금부터 삼 일 내에 당신이 어떻게 총독님을 골탕 먹였는지 알게 될 겁니다.",
+        "나중에 프롬프터가 의상실에 있는 화려한 침대에 그 친구가 누워 있는 걸 발견했죠.",
+        "셋째를 낳고도 못 잊어 찾아 헤매던, 그리고 끼니가 어려운데도 단돈 몇 푼만 생기면 신문 광고 내서 찾던 사람 말이에요.",
+        "그 여자가 지금까지도 수절하고 당신만을 기다렸답디까?",
+        "미친 소리 그만하오.",
+        "태어날 바엔 좋은 땅에서 태어날 일이지.",
+        "어머니, 옷을 왜 이리 길게 만드셨어요?",
+        "내 딸이 매년 봄마다 이 인치씩이나 커 가는데 난들 어쩌란 말이냐?",
+        "그 일이 내게 기쁨을 주는데 그게 내 탓이야?",
+        "좋을 대로 생각하렴.",
+        "학생은 내가 차례로 하는 상세한 질문에 대해서 하나씩 간단하고 겸손하게 예나 아니요로 대답해요.",
+        "자네는 아버님의 목소리도 알아채지 못하나?",
+        "현금 일 페니히라도 가진 사람이라면 그를 보고 웃지 않지.",
+        "익살꾼은 그대로 내버려 두시고요, 당신이 누구인지 말해 주세요.",
+        "우린 일을 해 왔지 우리의 힘을 바쳐서, 세월을 바쳐서.",
+        "아버지를 공경할지어다, 아버지가 죽었으면 좋겠어!",
+        "아버지 오셨을 때 그런 소리를 한번 해 봐라.",
+        "몇 년 동안 뭔가가 너의 눈 속에 숨어 있어.",
+        "식탁을 다 차려 놓을 때까지?",
+        "저분이 우리 새엄마란 말이죠?",
+        "일부러 거짓말하는 거라고 말할 거야.",
+        "저주 받을 그놈의 형들이 지옥의 길로 가 버렸으니 이제 이븐밖에 안 남았어.",
+        "그러니까 이븐에게 농장을 남겨 줄 거란 말이죠?",
+        "아니면 내가 죽을 때 농장을 불태우고 잿더미가 되는 걸 지켜볼 거야.",
+        "당신 머리가 좋은데, 그래, 그냥 두지, 뭐.",
+        "내 혈육이고 내 거야, 내 아들이 내 것을 가져야 돼, 그러면 그건 여전히 내 거야, 내가 땅속에 파묻혔어도.",
+        "내가 지금 말한 것 듣고 뭔가 깨달은 게 있어?",
+        "아무것도 몰라, 결코 모를 거야, 나를 살려 줄 아들을 못 낳는다면",
+        "아들을 낳을 거예요, 약속해요.",
+        "언제든지 속여 먹을 수 있어.",
+        "오늘 기분이 좋다, 이거지?",
+        "어디서 술 훔쳐 먹었니?",
+        "아뇨, 할 수 있어요, 곧 내려올게요.",
+        "오늘은 일을 못 하겠어, 마음이 안 내켜.",
+        "그런 불공 그만하고 차라리 염라대왕이나 매수하라고.",
+        "나도 부처님 대신 공양주나 모시는 이런 절엔 더 이상 머물고 싶지 않군요.",
+        "도대체 그 고뇌란 게 뭐야?",
+        "정체나 밝혀 봐.",
+        "알겠어 병진 씨, 문제를 해결하려는 것은 말리지 않겠어.",
+        "그런 소릴 하려거든 토굴 속에서 누에처럼 한평생을 지내야지, 절집에서 시줏밥이나 얻어먹지 말고.",
+        "아래층의 모든 게 안전한지 확인해야겠다.",
+        "얘야, 셔터를 단단히 잠가야 돼.",
+        "쉬, 소리치지 말아요!",
+        "안 그러면 총에 맞을 거니까, 말을 잘 들어요, 그러면 해치지 않을 거요.",
+        "잘 들어요, 소리를 질렀다간 권총이 발사될 테니.",
+        "불을 켜고 모습을 보여 줘요, 알겠어요?",
+        "아가씨, 모두 그렇다오, 모두들.",
+        "할 수만 있으면 목숨을 오래 부지하는 것이 우리의 의무요.",
+        "나를 쏠 거죠, 내가 죽는 걸 무서워하는지 어떻게 아세요?"
+      ],
+      "origin": [
+        "총독님은 아주 점잖고 너그러우며 인내심 있는 분이었죠.",
+        "제가 당신을 아는데, 당신은 농담을 아주 잘하는 분이군요, 지금부터 3일 내에 당신이 어떻게 총독님을 골탕 먹였는지 알게 될 겁니다.",
+        "나중에 프롬프터가 의상실에 있는 화려한 침대에 그 친구가 누워 있는 걸 발견했죠.",
+        "셋째를 낳고도 못 잊어 찾아 헤매던, 그리고 끼니가 어려운데도 단돈 몇 푼만 생기면 신문 광고 내서 찾던 사람 말이에요.",
+        "그 여자가 지금까지도 수절하고 당신만을 기다렸답디까?",
+        "미친 소리 그만하오.",
+        "태어날 바엔 좋은 땅에서 태어날 일이지.",
+        "어머니, 옷을 왜 이리 길게 만드셨어요?",
+        "내 딸이 매년 봄마다 2인치씩이나 커 가는데 난들 어쩌란 말이냐?",
+        "그 일이 내게 기쁨을 주는데 그게 내 탓이야?",
+        "좋을 대로 생각하렴.",
+        "학생은 내가 차례로 하는 상세한 질문에 대해서 하나씩 간단하고 겸손하게 “예”나 “아니요”로 대답해요.",
+        "자네는 아버님의 목소리도 알아채지 못하나?",
+        "현금 1페니히라도 가진 사람이라면 그를 보고 웃지 않지.",
+        "익살꾼은 그대로 내버려 두시고요, 당신이 누구인지 말해 주세요.",
+        "우린 일을 해 왔지 우리의 힘을 바쳐서, 세월을 바쳐서.",
+        "아버지를 공경할지어다, 아버지가 죽었으면 좋겠어!",
+        "아버지 오셨을 때 그런 소리를 한번 해 봐라.",
+        "몇 년 동안 뭔가가 너의 눈 속에 숨어 있어.",
+        "식탁을 다 차려 놓을 때까지?",
+        "저분이 우리 새엄마란 말이죠?",
+        "일부러 거짓말하는 거라고 말할 거야.",
+        "저주 받을 그놈의 형들이 지옥의 길로 가 버렸으니 이제 이븐밖에 안 남았어.",
+        "그러니까 이븐에게 농장을 남겨 줄 거란 말이죠?",
+        "아니면 내가 죽을 때 농장을 불태우고 잿더미가 되는 걸 지켜볼 거야.",
+        "당신 머리가 좋은데, 그래, 그냥 두지, 뭐.",
+        "내 혈육이고 내 거야, 내 아들이 내 것을 가져야 돼, 그러면 그건 여전히 내 거야, 내가 땅속에 파묻혔어도.",
+        "내가 지금 말한 것 듣고 뭔가 깨달은 게 있어?",
+        "아무것도 몰라, 결코 모를 거야, 나를 살려 줄 아들을 못 낳는다면…",
+        "아들을 낳을 거예요, 약속해요.",
+        "언제든지 속여 먹을 수 있어.",
+        "오늘 기분이 좋다, 이거지?",
+        "어디서 술 훔쳐 먹었니?",
+        "아뇨, 할 수 있어요, 곧 내려올게요.",
+        "오늘은 일을 못 하겠어, 마음이 안 내켜.",
+        "그런 불공 그만하고 차라리 염라대왕이나 매수하라고.",
+        "나도 부처님 대신 공양주나 모시는 이런 절엔 더 이상 머물고 싶지 않군요.",
+        "도대체 그 고뇌란 게 뭐야?",
+        "정체나 밝혀 봐.",
+        "알겠어 병진 씨, 문제를 해결하려는 것은 말리지 않겠어.",
+        "그런 소릴 하려거든 토굴 속에서 누에처럼 한평생을 지내야지, 절집에서 시줏밥이나 얻어먹지 말고.",
+        "아래층의 모든 게 안전한지 확인해야겠다.",
+        "얘야, 셔터를 단단히 잠가야 돼.",
+        "쉬, 소리치지 말아요!",
+        "안 그러면 총에 맞을 거니까, 말을 잘 들어요, 그러면 해치지 않을 거요.",
+        "잘 들어요, 소리를 질렀다간 권총이 발사될 테니.",
+        "불을 켜고 모습을 보여 줘요, 알겠어요?",
+        "아가씨, 모두 그렇다오, 모두들.",
+        "할 수만 있으면 목숨을 오래 부지하는 것이 우리의 의무요.",
+        "나를 쏠 거죠, 내가 죽는 걸 무서워하는지 어떻게 아세요?"
+      ],
+      "part_no": 3,
+      "tokens_count": 392
+    },
+    "sentences": [
+      {
+        "id": "D-A1-C-034-0101",
+        "origin_text": "총독님은 아주 점잖고 너그러우며 인내심 있는 분이었죠.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.219970703125,
+          "file_duration": 4.719970703125,
+          "filename": "D-A1-C-034-0101.wav",
+          "ptr": "총독님은 아주 점잖고 너그러우며  /  인내심 있는 분이었죠.",
+          "tr": "총독님은 아주 점잖고 너그러우며 인내심 있는 분이었죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0102",
+        "origin_text": "제가 당신을 아는데, 당신은 농담을 아주 잘하는 분이군요, 지금부터 3일 내에 당신이 어떻게 총독님을 골탕 먹였는지 알게 될 겁니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 11.239990234375,
+          "file_duration": 11.739990234375,
+          "filename": "D-A1-C-034-0102.wav",
+          "ptr": "제가 당신을 아는데  /  당신은 농담을 아주 잘하는 분이군요  /  지금부터 삼 일 내에  /  당신이 어떻게 총독님을 골탕 먹였는지  /  알게 될 겁니다.",
+          "tr": "제가 당신을 아는데, 당신은 농담을 아주 잘하는 분이군요, 지금부터 삼 일 내에 당신이 어떻게 총독님을 골탕 먹였는지 알게 될 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0103",
+        "origin_text": "나중에 프롬프터가 의상실에 있는 화려한 침대에 그 친구가 누워 있는 걸 발견했죠.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.3599853515625,
+          "file_duration": 6.8599853515625,
+          "filename": "D-A1-C-034-0103.wav",
+          "ptr": "나중에 프롬프터가  /  의상실에 있는 화려한 침대에  /  그 친구가 누워 있는 걸  /  발견했죠.",
+          "tr": "나중에 프롬프터가 의상실에 있는 화려한 침대에 그 친구가 누워 있는 걸 발견했죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0104",
+        "origin_text": "셋째를 낳고도 못 잊어 찾아 헤매던, 그리고 끼니가 어려운데도 단돈 몇 푼만 생기면 신문 광고 내서 찾던 사람 말이에요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.65997314453125,
+          "file_duration": 9.15997314453125,
+          "filename": "D-A1-C-034-0104.wav",
+          "ptr": "셋째를 낳고도 못 잊어 찾아 헤매던  /  그리고 끼니가 어려운데도  /  단돈 몇 푼만 생기면  /  신문 광고 내서 찾던 사람 말이에요.",
+          "tr": "셋째를 낳고도 못 잊어 찾아 헤매던, 그리고 끼니가 어려운데도 단돈 몇 푼만 생기면 신문 광고 내서 찾던 사람 말이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0105",
+        "origin_text": "그 여자가 지금까지도 수절하고 당신만을 기다렸답디까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.74005126953125,
+          "file_duration": 4.24005126953125,
+          "filename": "D-A1-C-034-0105.wav",
+          "ptr": "그 여자가 지금까지도 수절하고  /  당신만을 기다렸답디까?",
+          "tr": "그 여자가 지금까지도 수절하고 당신만을 기다렸답디까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0106",
+        "origin_text": "미친 소리 그만하오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3599853515625,
+          "file_duration": 1.8599853515625,
+          "filename": "D-A1-C-034-0106.wav",
+          "ptr": "미친 소리 그만하오.",
+          "tr": "미친 소리 그만하오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0107",
+        "origin_text": "태어날 바엔 좋은 땅에서 태어날 일이지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "D-A1-C-034-0107.wav",
+          "ptr": "태어날 바엔 좋은 땅에서 태어날 일이지.",
+          "tr": "태어날 바엔 좋은 땅에서 태어날 일이지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0108",
+        "origin_text": "어머니, 옷을 왜 이리 길게 만드셨어요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.1600341796875,
+          "file_duration": 3.6600341796875,
+          "filename": "D-A1-C-034-0108.wav",
+          "ptr": "어머니  /  옷을 왜 이리 길게 만드셨어요?",
+          "tr": "어머니, 옷을 왜 이리 길게 만드셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0109",
+        "origin_text": "내 딸이 매년 봄마다 2인치씩이나 커 가는데 난들 어쩌란 말이냐?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.219970703125,
+          "file_duration": 5.719970703125,
+          "filename": "D-A1-C-034-0109.wav",
+          "ptr": "내 딸이  /  매년 봄마다 이 인치씩이나 커 가는데  /  난들 어쩌란 말이냐?",
+          "tr": "내 딸이 매년 봄마다 이 인치씩이나 커 가는데 난들 어쩌란 말이냐?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0110",
+        "origin_text": "그 일이 내게 기쁨을 주는데 그게 내 탓이야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.10003662109375,
+          "file_duration": 3.60003662109375,
+          "filename": "D-A1-C-034-0110.wav",
+          "ptr": "그 일이 내게 기쁨을 주는데  /  그게 내 탓이야?",
+          "tr": "그 일이 내게 기쁨을 주는데 그게 내 탓이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0111",
+        "origin_text": "좋을 대로 생각하렴.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1600341796875,
+          "file_duration": 1.6600341796875,
+          "filename": "D-A1-C-034-0111.wav",
+          "ptr": "좋을 대로 생각하렴.",
+          "tr": "좋을 대로 생각하렴."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0112",
+        "origin_text": "학생은 내가 차례로 하는 상세한 질문에 대해서 하나씩 간단하고 겸손하게 “예”나 “아니요”로 대답해요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.22003173828125,
+          "file_duration": 7.72003173828125,
+          "filename": "D-A1-C-034-0112.wav",
+          "ptr": "학생은  /  내가 차례로 하는 상세한 질문에 대해서  /  하나씩  /  간단하고 겸손하게  /  예나 아니요로 대답해요.",
+          "tr": "학생은 내가 차례로 하는 상세한 질문에 대해서 하나씩 간단하고 겸손하게 예나 아니요로 대답해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0113",
+        "origin_text": "자네는 아버님의 목소리도 알아채지 못하나?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "D-A1-C-034-0113.wav",
+          "ptr": "자네는 아버님의 목소리도 알아채지 못하나?",
+          "tr": "자네는 아버님의 목소리도 알아채지 못하나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0114",
+        "origin_text": "현금 1페니히라도 가진 사람이라면 그를 보고 웃지 않지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.94000244140625,
+          "file_duration": 4.44000244140625,
+          "filename": "D-A1-C-034-0114.wav",
+          "ptr": "현금 일 페니히라도 가진 사람이라면  /  그를 보고 웃지 않지.",
+          "tr": "현금 일 페니히라도 가진 사람이라면 그를 보고 웃지 않지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0115",
+        "origin_text": "익살꾼은 그대로 내버려 두시고요, 당신이 누구인지 말해 주세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.22003173828125,
+          "file_duration": 4.72003173828125,
+          "filename": "D-A1-C-034-0115.wav",
+          "ptr": "익살꾼은 그대로 내버려 두시고요  /  당신이 누구인지 말해 주세요.",
+          "tr": "익살꾼은 그대로 내버려 두시고요, 당신이 누구인지 말해 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0116",
+        "origin_text": "우린 일을 해 왔지 우리의 힘을 바쳐서, 세월을 바쳐서.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.6400146484375,
+          "file_duration": 5.1400146484375,
+          "filename": "D-A1-C-034-0116.wav",
+          "ptr": "우린 일을 해 왔지  /  우리의 힘을 바쳐서  /  세월을 바쳐서.",
+          "tr": "우린 일을 해 왔지 우리의 힘을 바쳐서, 세월을 바쳐서."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0117",
+        "origin_text": "아버지를 공경할지어다, 아버지가 죽었으면 좋겠어!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.22003173828125,
+          "file_duration": 4.72003173828125,
+          "filename": "D-A1-C-034-0117.wav",
+          "ptr": "아버지를 공경할지어다  /  아버지가 죽었으면 좋겠어!",
+          "tr": "아버지를 공경할지어다, 아버지가 죽었으면 좋겠어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0118",
+        "origin_text": "아버지 오셨을 때 그런 소리를 한번 해 봐라.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.60003662109375,
+          "file_duration": 3.10003662109375,
+          "filename": "D-A1-C-034-0118.wav",
+          "ptr": "아버지 오셨을 때 그런 소리를 한번 해 봐라.",
+          "tr": "아버지 오셨을 때 그런 소리를 한번 해 봐라."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0119",
+        "origin_text": "몇 년 동안 뭔가가 너의 눈 속에 숨어 있어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.01995849609375,
+          "file_duration": 3.51995849609375,
+          "filename": "D-A1-C-034-0119.wav",
+          "ptr": "몇 년 동안 뭔가가 너의 눈 속에 숨어 있어.",
+          "tr": "몇 년 동안 뭔가가 너의 눈 속에 숨어 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0120",
+        "origin_text": "식탁을 다 차려 놓을 때까지?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2,
+          "file_duration": 2.5,
+          "filename": "D-A1-C-034-0120.wav",
+          "ptr": "식탁을 다 차려 놓을 때까지?",
+          "tr": "식탁을 다 차려 놓을 때까지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0121",
+        "origin_text": "저분이 우리 새엄마란 말이죠?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.01995849609375,
+          "file_duration": 2.51995849609375,
+          "filename": "D-A1-C-034-0121.wav",
+          "ptr": "저분이 우리 새엄마란 말이죠?",
+          "tr": "저분이 우리 새엄마란 말이죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0122",
+        "origin_text": "일부러 거짓말하는 거라고 말할 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.17999267578125,
+          "file_duration": 2.67999267578125,
+          "filename": "D-A1-C-034-0122.wav",
+          "ptr": "일부러 거짓말하는 거라고 말할 거야.",
+          "tr": "일부러 거짓말하는 거라고 말할 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0123",
+        "origin_text": "저주 받을 그놈의 형들이 지옥의 길로 가 버렸으니 이제 이븐밖에 안 남았어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.3599853515625,
+          "file_duration": 5.8599853515625,
+          "filename": "D-A1-C-034-0123.wav",
+          "ptr": "저주 받을 그놈의 형들이  /  지옥의 길로 가 버렸으니  /  이제 이븐밖에 안 남았어.",
+          "tr": "저주 받을 그놈의 형들이 지옥의 길로 가 버렸으니 이제 이븐밖에 안 남았어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0124",
+        "origin_text": "그러니까 이븐에게 농장을 남겨 줄 거란 말이죠?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9200439453125,
+          "file_duration": 3.4200439453125,
+          "filename": "D-A1-C-034-0124.wav",
+          "ptr": "그러니까 이븐에게 농장을 남겨 줄 거란 말이죠?",
+          "tr": "그러니까 이븐에게 농장을 남겨 줄 거란 말이죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0125",
+        "origin_text": "아니면 내가 죽을 때 농장을 불태우고 잿더미가 되는 걸 지켜볼 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.1600341796875,
+          "file_duration": 5.6600341796875,
+          "filename": "D-A1-C-034-0125.wav",
+          "ptr": "아니면  /  내가 죽을 때 농장을 불태우고  /  잿더미가 되는 걸 지켜볼 거야.",
+          "tr": "아니면 내가 죽을 때 농장을 불태우고 잿더미가 되는 걸 지켜볼 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0126",
+        "origin_text": "당신 머리가 좋은데, 그래, 그냥 두지, 뭐.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.1400146484375,
+          "file_duration": 4.6400146484375,
+          "filename": "D-A1-C-034-0126.wav",
+          "ptr": "당신 머리가 좋은데  /  그래  /  그냥 두지 뭐.",
+          "tr": "당신 머리가 좋은데, 그래, 그냥 두지, 뭐."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0127",
+        "origin_text": "내 혈육이고 내 거야, 내 아들이 내 것을 가져야 돼, 그러면 그건 여전히 내 거야, 내가 땅속에 파묻혔어도.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.0999755859375,
+          "file_duration": 8.5999755859375,
+          "filename": "D-A1-C-034-0127.wav",
+          "ptr": "내 혈육이고 내 거야  /  내 아들이 내 것을 가져야 돼  /  그러면 그건 여전히 내 거야  /  내가 땅속에 파묻혔어도.",
+          "tr": "내 혈육이고 내 거야, 내 아들이 내 것을 가져야 돼, 그러면 그건 여전히 내 거야, 내가 땅속에 파묻혔어도."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0128",
+        "origin_text": "내가 지금 말한 것 듣고 뭔가 깨달은 게 있어?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.780029296875,
+          "file_duration": 3.280029296875,
+          "filename": "D-A1-C-034-0128.wav",
+          "ptr": "내가 지금 말한 것 듣고 뭔가 깨달은 게 있어?",
+          "tr": "내가 지금 말한 것 듣고 뭔가 깨달은 게 있어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0129",
+        "origin_text": "아무것도 몰라, 결코 모를 거야, 나를 살려 줄 아들을 못 낳는다면…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.98004150390625,
+          "file_duration": 5.48004150390625,
+          "filename": "D-A1-C-034-0129.wav",
+          "ptr": "아무것도 몰라  /  결코 모를 거야  /  나를 살려 줄 아들을 못 낳는다면",
+          "tr": "아무것도 몰라, 결코 모를 거야, 나를 살려 줄 아들을 못 낳는다면"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0130",
+        "origin_text": "아들을 낳을 거예요, 약속해요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "D-A1-C-034-0130.wav",
+          "ptr": "아들을 낳을 거예요  /  약속해요.",
+          "tr": "아들을 낳을 거예요, 약속해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0131",
+        "origin_text": "언제든지 속여 먹을 수 있어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1199951171875,
+          "file_duration": 2.6199951171875,
+          "filename": "D-A1-C-034-0131.wav",
+          "ptr": "언제든지 속여 먹을 수 있어.",
+          "tr": "언제든지 속여 먹을 수 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0132",
+        "origin_text": "오늘 기분이 좋다, 이거지?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.3599853515625,
+          "file_duration": 2.8599853515625,
+          "filename": "D-A1-C-034-0132.wav",
+          "ptr": "오늘 기분이 좋다 이거지?",
+          "tr": "오늘 기분이 좋다, 이거지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0133",
+        "origin_text": "어디서 술 훔쳐 먹었니?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.41998291015625,
+          "file_duration": 1.91998291015625,
+          "filename": "D-A1-C-034-0133.wav",
+          "ptr": "어디서 술 훔쳐 먹었니?",
+          "tr": "어디서 술 훔쳐 먹었니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0134",
+        "origin_text": "아니요, 할 수 있어요, 곧 내려올게요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5799560546875,
+          "file_duration": 3.0799560546875,
+          "filename": "D-A1-C-034-0134.wav",
+          "ptr": "아니요  /  할 수 있어요  /  곧 내려올게요.",
+          "tr": "아니요, 할 수 있어요, 곧 내려올게요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0135",
+        "origin_text": "오늘은 일을 못 하겠어, 마음이 안 내켜.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.719970703125,
+          "file_duration": 3.219970703125,
+          "filename": "D-A1-C-034-0135.wav",
+          "ptr": "오늘은 일을 못 하겠어  /  마음이 안 내켜.",
+          "tr": "오늘은 일을 못 하겠어, 마음이 안 내켜."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0136",
+        "origin_text": "그런 불공 그만하고 차라리 염라대왕이나 매수하라고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.12005615234375,
+          "file_duration": 4.62005615234375,
+          "filename": "D-A1-C-034-0136.wav",
+          "ptr": "그런 불공 그만하고  /  차라리 염라대왕이나 매수하라고.",
+          "tr": "그런 불공 그만하고 차라리 염라대왕이나 매수하라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0137",
+        "origin_text": "나도 부처님 대신 공양주나 모시는 이런 절엔 더 이상 머물고 싶지 않군요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.4000244140625,
+          "file_duration": 4.9000244140625,
+          "filename": "D-A1-C-034-0137.wav",
+          "ptr": "나도 부처님 대신 공양주나 모시는 이런 절엔  /  더 이상 머물고 싶지 않군요.",
+          "tr": "나도 부처님 대신 공양주나 모시는 이런 절엔 더 이상 머물고 싶지 않군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0138",
+        "origin_text": "도대체 그 고뇌란 게 뭐야?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.87994384765625,
+          "file_duration": 2.37994384765625,
+          "filename": "D-A1-C-034-0138.wav",
+          "ptr": "도대체 그 고뇌란 게 뭐야?",
+          "tr": "도대체 그 고뇌란 게 뭐야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0139",
+        "origin_text": "정체나 밝혀 봐.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.08001708984375,
+          "file_duration": 1.58001708984375,
+          "filename": "D-A1-C-034-0139.wav",
+          "ptr": "정체나 밝혀 봐.",
+          "tr": "정체나 밝혀 봐."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0140",
+        "origin_text": "알겠어 병진 씨, 문제를 해결하려는 것은 말리지 않겠어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.02001953125,
+          "file_duration": 4.52001953125,
+          "filename": "D-A1-C-034-0140.wav",
+          "ptr": "알겠어 병진 씨  /  문제를 해결하려는 것은 말리지 않겠어.",
+          "tr": "알겠어 병진 씨, 문제를 해결하려는 것은 말리지 않겠어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0141",
+        "origin_text": "그런 소릴 하려거든 토굴 속에서 누에처럼 한평생을 지내야지, 절집에서 시줏밥이나 얻어먹지 말고.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.0799560546875,
+          "file_duration": 7.5799560546875,
+          "filename": "D-A1-C-034-0141.wav",
+          "ptr": "그런 소릴 하려거든  /  토굴 속에서 누에처럼 한평생을 지내야지  /  절집에서 시줏밥이나 얻어먹지 말고.",
+          "tr": "그런 소릴 하려거든 토굴 속에서 누에처럼 한평생을 지내야지, 절집에서 시줏밥이나 얻어먹지 말고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0142",
+        "origin_text": "아래층의 모든 게 안전한지 확인해야겠다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.53997802734375,
+          "file_duration": 3.03997802734375,
+          "filename": "D-A1-C-034-0142.wav",
+          "ptr": "아래층의 모든 게 안전한지 확인해야겠다.",
+          "tr": "아래층의 모든 게 안전한지 확인해야겠다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0143",
+        "origin_text": "얘야, 셔터를 단단히 잠가야 돼.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5999755859375,
+          "file_duration": 3.0999755859375,
+          "filename": "D-A1-C-034-0143.wav",
+          "ptr": "얘야  /  셔터를 단단히 잠가야 돼.",
+          "tr": "얘야, 셔터를 단단히 잠가야 돼."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0144",
+        "origin_text": "쉬, 소리치지 말아요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8599853515625,
+          "file_duration": 2.3599853515625,
+          "filename": "D-A1-C-034-0144.wav",
+          "ptr": "쉬  /  소리치지 말아요!",
+          "tr": "쉬, 소리치지 말아요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0145",
+        "origin_text": "안 그러면 총에 맞을 거니까, 말을 잘 들어요, 그러면 해치지 않을 거요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.5999755859375,
+          "file_duration": 6.0999755859375,
+          "filename": "D-A1-C-034-0145.wav",
+          "ptr": "안 그러면  /  총에 맞을 거니까  /  말을 잘 들어요  /  그러면 해치지 않을 거요.",
+          "tr": "안 그러면 총에 맞을 거니까, 말을 잘 들어요, 그러면 해치지 않을 거요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0146",
+        "origin_text": "잘 들어요, 소리를 질렀다간 권총이 발사될 테니.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "D-A1-C-034-0146.wav",
+          "ptr": "잘 들어요  /  소리를 질렀다간  /  권총이 발사될 테니.",
+          "tr": "잘 들어요, 소리를 질렀다간 권총이 발사될 테니."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0147",
+        "origin_text": "불을 켜고 모습을 보여 줘요, 알겠어요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.89996337890625,
+          "file_duration": 3.39996337890625,
+          "filename": "D-A1-C-034-0147.wav",
+          "ptr": "불을  /  켜고 모습을 보여 줘요  /  알겠어요?",
+          "tr": "불을 켜고 모습을 보여 줘요, 알겠어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0148",
+        "origin_text": "아가씨, 모두 그렇다오, 모두들.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.55999755859375,
+          "filename": "D-A1-C-034-0148.wav",
+          "ptr": "아가씨  /  모두 그렇다오  /  모두들.",
+          "tr": "아가씨, 모두 그렇다오, 모두들."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0149",
+        "origin_text": "할 수만 있으면 목숨을 오래 부지하는 것이 우리의 의무요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8399658203125,
+          "file_duration": 4.3399658203125,
+          "filename": "D-A1-C-034-0149.wav",
+          "ptr": "할 수만 있으면  /  목숨을 오래 부지하는 것이  /  우리의 의무요.",
+          "tr": "할 수만 있으면 목숨을 오래 부지하는 것이 우리의 의무요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A1-C-034-0150",
+        "origin_text": "나를 쏠 거죠, 내가 죽는 걸 무서워하는지 어떻게 아세요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.1400146484375,
+          "file_duration": 4.540014648437477,
+          "filename": "D-A1-C-034-0150.wav",
+          "ptr": "나를 쏠 거죠  /  내가 죽는 걸 무서워하는지 어떻게 아세요?",
+          "tr": "나를 쏠 거죠, 내가 죽는 걸 무서워하는지 어떻게 아세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "C",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오3"
+    },
+    "voice": {
+      "duration": 298.25,
+      "filename": "/data2/gst-voice/splitted/D/034/D-A101-P03-C-034.wav",
+      "recorded_at": "2022-10-11 07:18:09",
+      "sample_rate": 44100
+    }
+  }
+]

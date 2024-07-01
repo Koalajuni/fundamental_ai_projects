@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NY03-P07-D-049",
+    "import": {
+      "author": "모리스 마테를링크(Maurice Maeterlinck)",
+      "book_title": "파랑새(L'Oiseau bleu)",
+      "country": "벨기에",
+      "id": "D0057",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "파랑새(L'Oiseau bleu)",
+      "translator": "이용복"
+    },
+    "reciter": {
+      "age": 60,
+      "gender": "FEMALE",
+      "id": 49
+    },
+    "script": {
+      "chars_count": 1154,
+      "id": "D-NY03",
+      "normalized": [
+        "태아의 집에 가시면 얼마 동안 계실 작정이신가요?",
+        "봉사 지원 알선 등 여성 부인네들과 이야기하신다면.",
+        "전 자동차를 타임머신에 넣고 여기서 점심이나 먹으면서 편히 있겠습니다.",
+        "크레올 말이 맞아, 오래 있지는 않을 테니까.",
+        "말론 씨라는 재정경제원, 담당자가 저기 오는군.",
+        "미제 증기 자동차에 맨발의 로빈슨을 태우고 말야.",
+        "아마 파괴된 생태계의 신음과 함께 벌써 여기 와 있을 거야.",
+        "이 차는 통일공시기준에 의하여 한 시간에 팔십 사 마일을 간다는 소리를 들었어.",
+        "수컷들이 무슨 짓을 할지 내가 뻔히 알고 있는걸.",
+        "한국 무용의 효시였던 스트레이커 말이야.",
+        "스트레이커는 제한된 차원에서 새로운 남성이야.",
+        "나는 저 사람에게 제삼 세계문학을 배울 점이 있다고 생각하지 않네.",
+        "자네가 대한와이떠블류씨에이연합회 소속인 그 사람을 놀리는 사실이 새롭지.",
+        "그 녀석, 과학기술학교에서 특유의 공포양식을 배우기라도 했는지.",
+        "그런데 뭐, 편지를 띄운 앤이 어떻게 했다고?",
+        "자네 프러포즈로 그녀에게 감을 쥐어 주었다, 했었나?",
+        "앤이 이게 무슨 개뼈다귀냐는 말을 했다고?",
+        "남자답게 참게, 테이비, 뜻밖의 특수한 행운이 올 거야.",
+        "그런 매끄럽고 바보 같은 생각이 나더라도 말이야.",
+        "아아, 당신은 터득한 개념을 잊지 않았구려.",
+        "비율은 이를 테면 곧 없어질 겁니다, 영원한 세계에서는.",
+        "여기는 오염의 지옥이오.",
+        "왜 오히려 천 칠백 팔십 사억 원 더 줄 거라고 하죠?",
+        "오전 아홉 시에서 오후 여덟 시, 매월 일 일과 매달 셋째 주 일요일은 지옥이오, 지옥 중의 제일 상좌요.",
+        "음, 그건 우주자연 속에서의 창조노동, 이나 마찬가지입니다.",
+        "어찌 되었든 부인, 당신은 나처럼 쾌걸 지옥에 떨어졌습니다.",
+        "이왕 이렇게 된 바에야 편히 주저앉아 터키 사람처럼 살아가는 수밖에 없습니다.",
+        "접속문 앞에서 잘못이 고쳐질지, 글쎄.",
+        "설사 잘못되었다 하더라도 어느 정도 기여할지 알 수 없죠.",
+        "나 같으면 사랑의 향기 후속 악마한테 물어보겠습니다.",
+        "그놈은 이정연씨 얼굴을 잘 알고 있어요.",
+        "나 같은 것하고 신무역전략을 비교할 수는 없습니다.",
+        "김원희가 의도적으로 여기 떨어진 겁니다.",
+        "자네가 알아서 최소화, 해 먹는다면야 뭐 그리 유감스러울 것도 없지.",
+        "한 푼, 두 푼 정도 사령부의 후원을 빼돌리는 거야 눈감아 줄 수도 있지.",
+        "특히 활짝 웃는 가족이 많은 경우엔",
+        "그만하지, 기처, 목표를 세우는 일에 있어선 자네에게 좀 남은 게 있을 텐데",
+        "그런데, 교류를 슬쩍하다니요?",
+        "누구니, 사랑하여 일생을 바칠 애인?",
+        "가벼움으로 두 배로 받았을 땐 그만한 각오는 하고 왔을 거 아냐.",
+        "유에스에이투데이지는 돈을 적게 줘서 그렇지 티켓 장사 안 하는 다방도 더러 있어.",
+        "어쨌든 와이엠씨에이야구단의 활약을 코믹하게 사용했으니까 만원 입금시켜.",
+        "가끔 영국제 던힐을 해 봤어?",
+        "실례해요, 가스 터빈, 너는 몇 살이야?",
+        "감사 권영진 감독하고 나하고는 의형제 사이야.",
+        "내 말이라면 갖다 놓아라 할 정도로 껌뻑 죽지.",
+        "가소성 여배우가 서울에서 오기로 했는데 취소시키고.",
+        "대신 강우혁 후보와 미스 양을 기용하기로 감독한테 부탁했지.",
+        "물론이지, 큰 역은 아니지만 가무와 아주 딱 어울리는 역할이야.",
+        "서너 벌이면 가라앉는다 생각했겠지"
+      ],
+      "origin": [
+        "태아의 집에 가시면 얼마 동안 계실 작정이신가요?",
+        "봉사 지원 알선 등 여성 부인네들과 이야기하신다면...",
+        "전 자동차를 타임머신에 넣고 여기서 점심이나 먹으면서 편히 있겠습니다.",
+        "크레올 말이 맞아, 오래 있지는 않을 테니까.",
+        "말론 씨라는 재정경제원, 담당자가 저기 오는군.",
+        "미제 증기 자동차에 \u003c맨발의 로빈슨\u003e을 태우고 말야.",
+        "아마 파괴된 생태계의 신음과 함께 벌써 여기 와 있을 거야.",
+        "이 차는 '통일공시기준'에 의하여 한 시간에 84마일을 간다는 소리를 들었어.",
+        "수컷들이 무슨 짓을 할지 내가 뻔히 알고 있는걸.",
+        "한국 무용의 효시였던 스트레이커 말이야.",
+        "스트레이커는 제한된 차원에서 새로운 남성이야.",
+        "나는 저 사람에게 제3세계문학을 배울 점이 있다고 생각하지 않네.",
+        "자네가 대한YWCA연합회 소속인 그 사람을 놀리는 사실이 새롭지.",
+        "그 녀석, 과학기술학교에서 특유의 공포양식을 배우기라도 했는지.",
+        "그런데 뭐, 편지를 띄운 앤이 어떻게 했다고?",
+        "자네 프러포즈로 그녀에게 감을 쥐어 주었다, 했었나?",
+        "앤이 이게 무슨 개뼈다귀냐는 말을 했다고?",
+        "남자답게 참게, 테이비, 뜻밖의 특수한 행운이 올 거야.",
+        "그런 매끄럽고 바보 같은 생각이 나더라도 말이야.",
+        "아아, 당신은 터득한 개념을 잊지 않았구려.",
+        "비율은 이를 테면 곧 없어질 겁니다, 영원한 세계에서는.",
+        "여기는 오염의 지옥이오.",
+        "왜 오히려 1784억 원 더 줄 거라고 하죠?",
+        "오전 9시~오후 8시, 매월 1일과 매달 셋째 주 일요일은 지옥이오, 지옥 중의 제일 상좌요.",
+        "음, 그건 우주자연 속에서의 창조노동, 이나 마찬가지입니다.",
+        "어찌 되었든 부인, 당신은 나처럼 \u003c쾌걸 지옥\u003e에 떨어졌습니다.",
+        "이왕 이렇게 된 바에야 편히 주저앉아 터키 사람처럼 살아가는 수밖에 없습니다.",
+        "접속문 앞에서 잘못이 고쳐질지, 글쎄.",
+        "설사 잘못되었다 하더라도 어느 정도 기여할지 알 수 없죠.",
+        "나 같으면 '사랑의 향기' 후속 악마한테 물어보겠습니다.",
+        "그놈은 이정연씨 얼굴을 잘 알고 있어요.",
+        "나 같은 것하고 '신무역전략'을 비교할 수는 없습니다.",
+        "김원희가 의도적으로 여기 떨어진 겁니다.",
+        "자네가 알아서 최소화, 해 먹는다면야 뭐 그리 유감스러울 것도 없지.",
+        "한 푼, 두 푼 정도 사령부의 후원을 빼돌리는 거야 눈감아 줄 수도 있지.",
+        "특히 활짝 웃는 가족이 많은 경우엔…",
+        "그만하지, 기처, 목표를 세우는 일에 있어선 자네에게 좀 남은 게 있을 텐데…",
+        "그런데, 교류를 슬쩍하다니요?",
+        "누구니, 사랑하여 일생을 바칠 애인?",
+        "가벼움으로 두 배로 받았을 땐 그만한 각오는 하고 왔을 거 아냐.",
+        "USA투데이지는 돈을 적게 줘서 그렇지 티켓 장사 안 하는 다방도 더러 있어.",
+        "어쨌든 YMCA야구단의 활약을 코믹하게 사용했으니까 만원 입금시켜.",
+        "가끔 영국제 ‘던힐’을 해 봤어?",
+        "실례해요, 가스 터빈, 너는 몇 살이야?",
+        "감사 권영진 ◆ 감독하고 나하고는 의형제 사이야.",
+        "내 말이라면 '갖다 놓아라' 할 정도로 껌뻑 죽지.",
+        "가소성 여배우가 서울에서 오기로 했는데 취소시키고...",
+        "대신 강우혁 후보(민자)와 미스 양을 기용하기로 감독한테 부탁했지.",
+        "물론이지, 큰 역은 아니지만 가무(歌舞)와 아주 딱 어울리는 역할이야.",
+        "서너 벌이면 가라앉는다 생각했겠지…"
+      ],
+      "part_no": 7,
+      "tokens_count": 385
+    },
+    "sentences": [
+      {
+        "id": "D-NY-D-049-0301",
+        "origin_text": "태아의 집에 가시면 얼마 동안 계실 작정이신가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.430000305175781,
+          "file_duration": 4.7500003051757815,
+          "filename": "D-NY-D-049-0301.wav",
+          "ptr": "태아의 집에 가시면  /  얼마 동안 계실 작정이신가요?",
+          "tr": "태아의 집에 가시면 얼마 동안 계실 작정이신가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0302",
+        "origin_text": "봉사 지원 알선 등 여성 부인네들과 이야기하신다면...",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.959999084472656,
+          "file_duration": 5.399999389648437,
+          "filename": "D-NY-D-049-0302.wav",
+          "ptr": "봉사 지원 알선 등  /  여성 부인네들과 이야기하신다면.",
+          "tr": "봉사 지원 알선 등 여성 부인네들과 이야기하신다면."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0303",
+        "origin_text": "전 자동차를 타임머신에 넣고 여기서 점심이나 먹으면서 편히 있겠습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.979999542236328,
+          "file_duration": 7.479999542236328,
+          "filename": "D-NY-D-049-0303.wav",
+          "ptr": "전 자동차를 타임머신에 넣고  /  여기서 점심이나 먹으면서  /  편히 있겠습니다.",
+          "tr": "전 자동차를 타임머신에 넣고 여기서 점심이나 먹으면서 편히 있겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0304",
+        "origin_text": "크레올 말이 맞아, 오래 있지는 않을 테니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.100000381469727,
+          "file_duration": 4.600000381469727,
+          "filename": "D-NY-D-049-0304.wav",
+          "ptr": "크레올 말이 맞아  /  오래 있지는 않을 테니까.",
+          "tr": "크레올 말이 맞아, 오래 있지는 않을 테니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0305",
+        "origin_text": "말론 씨라는 재정경제원, 담당자가 저기 오는군.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.619998931884766,
+          "file_duration": 5.119998931884766,
+          "filename": "D-NY-D-049-0305.wav",
+          "ptr": "말론 씨라는 재정경제원 담당자가  /  저기 오는군.",
+          "tr": "말론 씨라는 재정경제원, 담당자가 저기 오는군."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0306",
+        "origin_text": "미제 증기 자동차에 \u003c맨발의 로빈슨\u003e을 태우고 말야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.659999847412109,
+          "file_duration": 5.159999847412109,
+          "filename": "D-NY-D-049-0306.wav",
+          "ptr": "미제 증기 자동차에  /  맨발의 로빈슨을 태우고 말야.",
+          "tr": "미제 증기 자동차에 맨발의 로빈슨을 태우고 말야."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0307",
+        "origin_text": "아마 파괴된 생태계의 신음과 함께 벌써 여기 와 있을 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.299999237060547,
+          "file_duration": 5.799999237060547,
+          "filename": "D-NY-D-049-0307.wav",
+          "ptr": "아마 파괴된 생태계의 신음과 함께  /  벌써 여기 와 있을 거야.",
+          "tr": "아마 파괴된 생태계의 신음과 함께 벌써 여기 와 있을 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0308",
+        "origin_text": "이 차는 `통일공시기준`에 의하여 한 시간에 84마일을 간다는 소리를 들었어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.3800048828125,
+          "file_duration": 7.8800048828125,
+          "filename": "D-NY-D-049-0308.wav",
+          "ptr": "이 차는  /  통일공시기준에 의하여  /  한 시간에 팔십 사 마일을 간다는 소리를 들었어.",
+          "tr": "이 차는 통일공시기준에 의하여 한 시간에 팔십 사 마일을 간다는 소리를 들었어."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0309",
+        "origin_text": "수컷들이 무슨 짓을 할지 내가 뻔히 알고 있는걸.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.180000305175781,
+          "file_duration": 4.680000305175781,
+          "filename": "D-NY-D-049-0309.wav",
+          "ptr": "수컷들이 무슨 짓을 할지  /  내가 뻔히 알고 있는걸.",
+          "tr": "수컷들이 무슨 짓을 할지 내가 뻔히 알고 있는걸."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0310",
+        "origin_text": "한국 무용의 효시였던 스트레이커 말이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.3400039672851562,
+          "file_duration": 3.8400039672851562,
+          "filename": "D-NY-D-049-0310.wav",
+          "ptr": "한국 무용의 효시였던  /  스트레이커 말이야.",
+          "tr": "한국 무용의 효시였던 스트레이커 말이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0311",
+        "origin_text": "스트레이커는 제한된 차원에서 새로운 남성이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.180000305175781,
+          "file_duration": 4.680000305175781,
+          "filename": "D-NY-D-049-0311.wav",
+          "ptr": "스트레이커는 제한된 차원에서  /  새로운 남성이야.",
+          "tr": "스트레이커는 제한된 차원에서 새로운 남성이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0312",
+        "origin_text": "나는 저 사람에게 제3세계문학을 배울 점이 있다고 생각하지 않네.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.9199981689453125,
+          "file_duration": 6.4199981689453125,
+          "filename": "D-NY-D-049-0312.wav",
+          "ptr": "나는 저 사람에게  /  제삼 세계문학을 배울 점이 있다고 생각하지 않네.",
+          "tr": "나는 저 사람에게 제삼 세계문학을 배울 점이 있다고 생각하지 않네."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0313",
+        "origin_text": "자네가 대한YWCA연합회 소속인 그 사람을 놀리는 사실이 새롭지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.3000030517578125,
+          "file_duration": 7.8000030517578125,
+          "filename": "D-NY-D-049-0313.wav",
+          "ptr": "자네가  /  대한와이떠블류씨에이연합회 소속인  /  그 사람을 놀리는 사실이 새롭지.",
+          "tr": "자네가 대한와이떠블류씨에이연합회 소속인 그 사람을 놀리는 사실이 새롭지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0314",
+        "origin_text": "그 녀석, 과학기술학교에서 특유의 공포양식을 배우기라도 했는지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.040000915527344,
+          "file_duration": 6.540000915527344,
+          "filename": "D-NY-D-049-0314.wav",
+          "ptr": "그 녀석  /  과학기술학교에서  /  특유의 공포양식을 배우기라도 했는지.",
+          "tr": "그 녀석, 과학기술학교에서 특유의 공포양식을 배우기라도 했는지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0315",
+        "origin_text": "그런데 뭐, 편지를 띄운 앤이 어떻게 했다고?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.540000915527344,
+          "file_duration": 5.040000915527344,
+          "filename": "D-NY-D-049-0315.wav",
+          "ptr": "그런데 뭐  /  편지를 띄운 앤이  /  어떻게 했다고?",
+          "tr": "그런데 뭐, 편지를 띄운 앤이 어떻게 했다고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0316",
+        "origin_text": "자네 프러포즈로 그녀에게 감을 쥐어 주었다, 했었나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.299995422363281,
+          "file_duration": 4.799995422363281,
+          "filename": "D-NY-D-049-0316.wav",
+          "ptr": "자네 프러포즈로  /  그녀에게 감을 쥐어 주었다 했었나?",
+          "tr": "자네 프러포즈로 그녀에게 감을 쥐어 주었다, 했었나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0317",
+        "origin_text": "앤이 이게 무슨 개뼈다귀냐는 말을 했다고?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.5,
+          "file_duration": 5,
+          "filename": "D-NY-D-049-0317.wav",
+          "ptr": "앤이  /  이게 무슨 개뼈다귀냐는 말을 했다고?",
+          "tr": "앤이 이게 무슨 개뼈다귀냐는 말을 했다고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0318",
+        "origin_text": "남자답게 참게, 테이비, 뜻밖의 특수한 행운이 올 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.600006103515625,
+          "file_duration": 6.100006103515625,
+          "filename": "D-NY-D-049-0318.wav",
+          "ptr": "남자답게 참게  /  테이비  /  뜻밖의 특수한 행운이 올 거야.",
+          "tr": "남자답게 참게, 테이비, 뜻밖의 특수한 행운이 올 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0319",
+        "origin_text": "그런 매끄럽고 바보 같은 생각이 나더라도 말이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.6800079345703125,
+          "file_duration": 4.1800079345703125,
+          "filename": "D-NY-D-049-0319.wav",
+          "ptr": "그런 매끄럽고 바보 같은 생각이 나더라도 말이야.",
+          "tr": "그런 매끄럽고 바보 같은 생각이 나더라도 말이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0320",
+        "origin_text": "아아, 당신은 터득한 개념을 잊지 않았구려.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.6199951171875,
+          "filename": "D-NY-D-049-0320.wav",
+          "ptr": "아아  /  당신은  /  터득한 개념을 잊지 않았구려.",
+          "tr": "아아, 당신은 터득한 개념을 잊지 않았구려."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0321",
+        "origin_text": "비율은 이를 테면 곧 없어질 겁니다, 영원한 세계에서는.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.9600067138671875,
+          "file_duration": 6.4600067138671875,
+          "filename": "D-NY-D-049-0321.wav",
+          "ptr": "비율은 이를 테면 곧  /  없어질 겁니다  /  영원한 세계에서는.",
+          "tr": "비율은 이를 테면 곧 없어질 겁니다, 영원한 세계에서는."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0322",
+        "origin_text": "여기는 오염의 지옥이오.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2,
+          "file_duration": 2.5,
+          "filename": "D-NY-D-049-0322.wav",
+          "ptr": "여기는 오염의 지옥이오.",
+          "tr": "여기는 오염의 지옥이오."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0323",
+        "origin_text": "왜 오히려 1784억 원 더 줄 거라고 하죠?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.100006103515625,
+          "file_duration": 5.600006103515625,
+          "filename": "D-NY-D-049-0323.wav",
+          "ptr": "왜 오히려  /  천 칠백 팔십 사억 원  /  더 줄 거라고 하죠?",
+          "tr": "왜 오히려 천 칠백 팔십 사억 원 더 줄 거라고 하죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0324",
+        "origin_text": "오전 9시~오후 8시, 매월 1일과 매달 셋째 주 일요일은 지옥이오, 지옥 중의 제일 상좌요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 11.400009155273438,
+          "file_duration": 11.900009155273438,
+          "filename": "D-NY-D-049-0324.wav",
+          "ptr": "오전 아홉 시에서 오후 여덟 시  /  매월 일 일과  /  매달  /  셋째 주 일요일은 지옥이오  /  지옥 중의 제일  /  상좌요.",
+          "tr": "오전 아홉 시에서 오후 여덟 시, 매월 일 일과 매달 셋째 주 일요일은 지옥이오, 지옥 중의 제일 상좌요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0325",
+        "origin_text": "음, 그건 우주자연 속에서의 창조노동, 이나 마찬가지입니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.9799957275390625,
+          "file_duration": 7.4799957275390625,
+          "filename": "D-NY-D-049-0325.wav",
+          "ptr": "음  /  그건  /  우주자연 속에서의 창조노동 이나  /  마찬가지입니다.",
+          "tr": "음, 그건 우주자연 속에서의 창조노동, 이나 마찬가지입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0326",
+        "origin_text": "어찌 되었든 부인, 당신은 나처럼 \u003c쾌걸 지옥\u003e에 떨어졌습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.67999267578125,
+          "file_duration": 6.17999267578125,
+          "filename": "D-NY-D-049-0326.wav",
+          "ptr": "어찌 되었든 부인  /  당신은 나처럼 쾌걸 지옥에 떨어졌습니다.",
+          "tr": "어찌 되었든 부인, 당신은 나처럼 쾌걸 지옥에 떨어졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0327",
+        "origin_text": "이왕 이렇게 된 바에야 편히 주저앉아 터키 사람처럼 살아가는 수밖에 없습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.8400115966796875,
+          "file_duration": 7.3400115966796875,
+          "filename": "D-NY-D-049-0327.wav",
+          "ptr": "이왕 이렇게 된 바에야  /  편히 주저앉아  /  터키 사람처럼 살아가는 수밖에 없습니다.",
+          "tr": "이왕 이렇게 된 바에야 편히 주저앉아 터키 사람처럼 살아가는 수밖에 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0328",
+        "origin_text": "접속문 앞에서 잘못이 고쳐질지, 글쎄.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.339996337890625,
+          "file_duration": 4.839996337890625,
+          "filename": "D-NY-D-049-0328.wav",
+          "ptr": "접속문 앞에서 잘못이 고쳐질지  /  글쎄.",
+          "tr": "접속문 앞에서 잘못이 고쳐질지, 글쎄."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0329",
+        "origin_text": "설사 잘못되었다 하더라도 어느 정도 기여할지 알 수 없죠.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.1399993896484375,
+          "file_duration": 5.6399993896484375,
+          "filename": "D-NY-D-049-0329.wav",
+          "ptr": "설사 잘못되었다 하더라도  /  어느 정도 기여할지  /  알 수 없죠.",
+          "tr": "설사 잘못되었다 하더라도 어느 정도 기여할지 알 수 없죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0330",
+        "origin_text": "나 같으면 `사랑의 향기` 후속 악마한테 물어보겠습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.040008544921875,
+          "file_duration": 5.540008544921875,
+          "filename": "D-NY-D-049-0330.wav",
+          "ptr": "나 같으면  /  사랑의 향기 후속 악마한테 물어보겠습니다.",
+          "tr": "나 같으면 사랑의 향기 후속 악마한테 물어보겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0331",
+        "origin_text": "그놈은 이정연씨 얼굴을 잘 알고 있어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.262301587301579,
+          "file_duration": 4.512301587301579,
+          "filename": "D-NY-D-049-0331.wav",
+          "ptr": "그놈은  /  이정연씨 얼굴을  /  잘 알고 있어요.",
+          "tr": "그놈은 이정연씨 얼굴을 잘 알고 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0332",
+        "origin_text": "나 같은 것하고 `신무역전략`을 비교할 수는 없습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.6199951171875,
+          "file_duration": 5.1199951171875,
+          "filename": "D-NY-D-049-0332.wav",
+          "ptr": "나 같은 것하고  /  신무역전략을 비교할 수는 없습니다.",
+          "tr": "나 같은 것하고 신무역전략을 비교할 수는 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0333",
+        "origin_text": "김원희가 의도적으로 여기 떨어진 겁니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.639984130859375,
+          "file_duration": 4.139984130859375,
+          "filename": "D-NY-D-049-0333.wav",
+          "ptr": "김원희가 의도적으로 여기 떨어진 겁니다.",
+          "tr": "김원희가 의도적으로 여기 떨어진 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0334",
+        "origin_text": "자네가 알아서 최소화, 해 먹는다면야 뭐 그리 유감스러울 것도 없지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.480010986328125,
+          "file_duration": 6.980010986328125,
+          "filename": "D-NY-D-049-0334.wav",
+          "ptr": "자네가 알아서 최소화 해 먹는다면야 뭐  /  그리  /  유감스러울 것도 없지.",
+          "tr": "자네가 알아서 최소화, 해 먹는다면야 뭐 그리 유감스러울 것도 없지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0335",
+        "origin_text": "한 푼, 두 푼 정도 사령부의 후원을 빼돌리는 거야 눈감아 줄 수도 있지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.459991455078125,
+          "file_duration": 6.959991455078125,
+          "filename": "D-NY-D-049-0335.wav",
+          "ptr": "한 푼 두 푼 정도  /  사령부의 후원을 빼돌리는 거야  /  눈감아 줄 수도 있지.",
+          "tr": "한 푼, 두 푼 정도 사령부의 후원을 빼돌리는 거야 눈감아 줄 수도 있지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0336",
+        "origin_text": "특히 활짝 웃는 가족이 많은 경우엔…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.399993896484375,
+          "file_duration": 3.899993896484375,
+          "filename": "D-NY-D-049-0336.wav",
+          "ptr": "특히  /  활짝 웃는 가족이 많은 경우엔",
+          "tr": "특히 활짝 웃는 가족이 많은 경우엔"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0337",
+        "origin_text": "그만하지, 기처, 목표를 세우는 일에 있어선 자네에게 좀 남은 게 있을 텐데…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.3800048828125,
+          "file_duration": 7.8800048828125,
+          "filename": "D-NY-D-049-0337.wav",
+          "ptr": "그만하지 기처  /  목표를 세우는 일에 있어선  /  자네에게 좀  /  남은 게 있을 텐데",
+          "tr": "그만하지, 기처, 목표를 세우는 일에 있어선 자네에게 좀 남은 게 있을 텐데"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0338",
+        "origin_text": "그런데, 교류를 슬쩍하다니요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.980010986328125,
+          "file_duration": 3.480010986328125,
+          "filename": "D-NY-D-049-0338.wav",
+          "ptr": "그런데  /  교류를 슬쩍하다니요?",
+          "tr": "그런데, 교류를 슬쩍하다니요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0339",
+        "origin_text": "누구니, 사랑하여 일생을 바칠 애인?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.519989013671875,
+          "file_duration": 4.0799914550781295,
+          "filename": "D-NY-D-049-0339.wav",
+          "ptr": "누구니  /  사랑하여 일생을 바칠 애인?",
+          "tr": "누구니, 사랑하여 일생을 바칠 애인?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0340",
+        "origin_text": "가벼움으로 두 배로 받았을 땐 그만한 각오는 하고 왔을 거 아냐.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.17999267578125,
+          "file_duration": 5.67999267578125,
+          "filename": "D-NY-D-049-0340.wav",
+          "ptr": "가벼움으로 두 배로 받았을 땐  /  그만한 각오는  /  하고 왔을 거 아냐.",
+          "tr": "가벼움으로 두 배로 받았을 땐 그만한 각오는 하고 왔을 거 아냐."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0341",
+        "origin_text": "USA투데이지는 돈을 적게 줘서 그렇지 티켓 장사 안 하는 다방도 더러 있어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.540008544921875,
+          "file_duration": 8.040008544921875,
+          "filename": "D-NY-D-049-0341.wav",
+          "ptr": "유에스에이투데이지는  /  돈을 적게 줘서 그렇지  /  티켓 장사 안 하는 다방도 더러 있어.",
+          "tr": "유에스에이투데이지는 돈을 적게 줘서 그렇지 티켓 장사 안 하는 다방도 더러 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0342",
+        "origin_text": "어쨌든 YMCA야구단의 활약을 코믹하게 사용했으니까 만원 입금시켜.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.760009765625,
+          "file_duration": 8.319999999999993,
+          "filename": "D-NY-D-049-0342.wav",
+          "ptr": "어쨌든  /  와이엠씨에이야구단의 활약을  /  코믹하게 사용했으니까  /  만 원  /  입금시켜.",
+          "tr": "어쨌든 와이엠씨에이야구단의 활약을 코믹하게 사용했으니까 만 원 입금시켜."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0343",
+        "origin_text": "가끔 영국제 ‘던힐’을 해 봤어?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.899993896484375,
+          "file_duration": 3.399993896484375,
+          "filename": "D-NY-D-049-0343.wav",
+          "ptr": "가끔 영국제 던힐을 해 봤어?",
+          "tr": "가끔 영국제 던힐을 해 봤어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0344",
+        "origin_text": "실례해요, 가스 터빈, 너는 몇 살이야?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.860015869140625,
+          "file_duration": 4.360015869140625,
+          "filename": "D-NY-D-049-0344.wav",
+          "ptr": "실례해요  /  가스 터빈  /  너는 몇 살이야?",
+          "tr": "실례해요, 가스 터빈, 너는 몇 살이야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0345",
+        "origin_text": "감사 권영진 ◆ 감독하고 나하고는 의형제 사이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.399993896484375,
+          "file_duration": 4.899993896484375,
+          "filename": "D-NY-D-049-0345.wav",
+          "ptr": "감사 권영진 감독하고 나하고는  /  의형제 사이야.",
+          "tr": "감사 권영진 감독하고 나하고는 의형제 사이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0346",
+        "origin_text": "내 말이라면 `갖다 놓아라` 할 정도로 껌뻑 죽지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.280029296875,
+          "file_duration": 4.800014648437525,
+          "filename": "D-NY-D-049-0346.wav",
+          "ptr": "내 말이라면  /  갖다 놓아라 할 정도로 껌뻑 죽지.",
+          "tr": "내 말이라면 갖다 놓아라 할 정도로 껌뻑 죽지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0347",
+        "origin_text": "가소성 여배우가 서울에서 오기로 했는데 취소시키고...",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.759979248046875,
+          "file_duration": 5.259979248046875,
+          "filename": "D-NY-D-049-0347.wav",
+          "ptr": "가소성 여배우가  /  서울에서 오기로 했는데  /  취소시키고.",
+          "tr": "가소성 여배우가 서울에서 오기로 했는데 취소시키고."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0348",
+        "origin_text": "대신 강우혁 후보(민자)와 미스 양을 기용하기로 감독한테 부탁했지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.639984130859375,
+          "file_duration": 7.139984130859375,
+          "filename": "D-NY-D-049-0348.wav",
+          "ptr": "대신  /  강우혁 후보와 미스 양을 기용하기로  /  감독한테  /  부탁했지.",
+          "tr": "대신 강우혁 후보와 미스 양을 기용하기로 감독한테 부탁했지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0349",
+        "origin_text": "물론이지, 큰 역은 아니지만 가무(歌舞)와 아주 딱 어울리는 역할이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.100006103515625,
+          "file_duration": 6.600006103515625,
+          "filename": "D-NY-D-049-0349.wav",
+          "ptr": "물론이지  /  큰 역은 아니지만  /  가무와 아주 딱 어울리는 역할이야.",
+          "tr": "물론이지, 큰 역은 아니지만 가무와 아주 딱 어울리는 역할이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NY-D-049-0350",
+        "origin_text": "서너 벌이면 가라앉는다 생각했겠지…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.3800048828125,
+          "file_duration": 3.9299951171875023,
+          "filename": "D-NY-D-049-0350.wav",
+          "ptr": "서너 벌이면 가라앉는다 생각했겠지",
+          "tr": "서너 벌이면 가라앉는다 생각했겠지"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "D",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오4"
+    },
+    "voice": {
+      "duration": 408.36997732426306,
+      "filename": "/data2/gst-voice/splitted/D/049/D-NY03-P07-D-049.wav",
+      "recorded_at": "2022-11-10 07:21:11",
+      "sample_rate": 44100
+    }
+  }
+]

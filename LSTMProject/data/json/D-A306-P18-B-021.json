@@ -1,0 +1,339 @@
+[
+  {
+    "id": "D-A306-P18-B-021",
+    "import": {
+      "author": "조지 버나드 쇼",
+      "book_title": "캔디다",
+      "country": "영국",
+      "id": "D0056",
+      "publish_year": 2020,
+      "times_bg": "근대",
+      "title": "캔디다",
+      "translator": "임성균"
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 105,
+      "id": "D-A306",
+      "normalized": [
+        "그렇군, 아니, 무슨 말인지 난 모르겠소.",
+        "용서한다고!",
+        "당신의 뭘 용서한다는 거요?",
+        "걔가 한 말이네!",
+        "당신이 어쩌면 그런 짓을 할 수가, 오, 캔디다!",
+        "그런 키스를 당할 바에는 차라리 당신이 쇠갈퀴를 내 가슴에 쑤셔 박는 게 좋겠소.",
+        "날 건드리지 마시오."
+      ],
+      "origin": [
+        "그렇군, 아니, 무슨 말인지 난 모르겠소.",
+        "용서한다고!",
+        "당신의 뭘 용서한다는 거요?",
+        "걔가 한 말이네!",
+        "당신이 어쩌면 그런 짓을 할 수가, 오, 캔디다!",
+        "그런 키스를 당할 바에는 차라리 당신이 쇠갈퀴를 내 가슴에 쑤셔 박는 게 좋겠소.",
+        "날 건드리지 마시오."
+      ],
+      "part_no": 18,
+      "tokens_count": 38
+    },
+    "sentences": [
+      {
+        "id": "D-A3-B-021-0851",
+        "origin_text": "그렇군, 아니, 무슨 말인지 난 모르겠소.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.44000244140625,
+          "file_duration": 4.94000244140625,
+          "filename": "D-A3-B-021-0851.wav",
+          "ptr": "그렇군  /  아니  /  무슨 말인지 난 모르겠소.",
+          "tr": "그렇군, 아니, 무슨 말인지 난 모르겠소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0852",
+        "origin_text": "용서한다고!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.91998291015625,
+          "file_duration": 1.5300000000000002,
+          "filename": "D-A3-B-021-0852.wav",
+          "ptr": "용서한다고!",
+          "tr": "용서한다고!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0853",
+        "origin_text": "당신의 뭘 용서한다는 거요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.10003662109375,
+          "file_duration": 2.60003662109375,
+          "filename": "D-A3-B-021-0853.wav",
+          "ptr": "당신의 뭘 용서한다는 거요?",
+          "tr": "당신의 뭘 용서한다는 거요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0854",
+        "origin_text": "걔가 한 말이네!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3399658203125,
+          "file_duration": 1.9299999999999997,
+          "filename": "D-A3-B-021-0854.wav",
+          "ptr": "걔가 한 말이네!",
+          "tr": "걔가 한 말이네!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0855",
+        "origin_text": "당신이 어쩌면 그런 짓을 할 수가, 오, 캔디다!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.05999755859375,
+          "file_duration": 5.610024414062501,
+          "filename": "D-A3-B-021-0855.wav",
+          "ptr": "당신이 어쩌면  /  그런 짓을 할 수가  /  오  /  캔디다!",
+          "tr": "당신이 어쩌면 그런 짓을 할 수가, 오, 캔디다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0856",
+        "origin_text": "그런 키스를 당할 바에는 차라리 당신이 쇠갈퀴를 내 가슴에 쑤셔 박는 게 좋겠소.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.760009765625,
+          "file_duration": 7.289999999999999,
+          "filename": "D-A3-B-021-0856.wav",
+          "ptr": "그런 키스를 당할 바에는  /  차라리  /  당신이 쇠갈퀴를 내 가슴에 쑤셔 박는 게 좋겠소.",
+          "tr": "그런 키스를 당할 바에는 차라리 당신이 쇠갈퀴를 내 가슴에 쑤셔 박는 게 좋겠소."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A3-B-021-0857",
+        "origin_text": "날 건드리지 마시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4000244140625,
+          "file_duration": 1.9300000000000068,
+          "filename": "D-A3-B-021-0857.wav",
+          "ptr": "날 건드리지 마시오.",
+          "tr": "날 건드리지 마시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 37.88002267573696,
+      "filename": "/data2/gst-voice/splitted/D/021/D-A306-P18-B-021.wav",
+      "recorded_at": "2022-09-01 08:23:31",
+      "sample_rate": 44100
+    }
+  }
+]

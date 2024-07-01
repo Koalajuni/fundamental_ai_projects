@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NX05-P15-A-022",
+    "import": {
+      "author": "오태영",
+      "book_title": "빵",
+      "country": "한국",
+      "id": "D0024",
+      "publish_year": 2019,
+      "times_bg": "현대",
+      "title": "빵",
+      "translator": 0
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 22
+    },
+    "script": {
+      "chars_count": 879,
+      "id": "D-NX05",
+      "normalized": [
+        "그래, 이번엔 어떤 제빵인의 빵을 가지고?",
+        "별 사람 있습니까.",
+        "종전에 해 오듯 그 사람의 빵이죠.",
+        "아하, 이거 참, 같은 동료로서 딱하구먼.",
+        "올해는 어떻게 좀 방법을 바꿔 보지 않고서.",
+        "방법을 바꿔요?",
+        "그 친구의 빵으로 출품했다 해마다 실패를 보지 않았소.",
+        "경연제에서 떨어졌으니 식빵 판매 허가권을 칠 년째 따내지 못한 거고.",
+        "어떻게 올해는 되겠죠.",
+        "이렇게 어리숙하긴.",
+        "안 돼요, 절대, 칠 년이 아니라 십 년이 넘어도 그 친구의 빵으로 절대 안 됩니다요.",
+        "맞아요, 무익하며 유해한 빵.",
+        "스님, 들려오거늘.",
+        "빵이 아니라 떡이라 하옵니다.",
+        "빵이 유죄라 하더냐.",
+        "네, 스님 알겠습니다.",
+        "빵이 유죄라면 떡 또한 유죄니라.",
+        "나무관세음보살, 어찌 빵에서 투쟁이 시작되어 싸움이 끊이지 않는지 알 수 없나이다, 안타깝나이다.",
+        "그대 정녕 모르는고?",
+        "정녕 모르옵니다, 안타깝나이다.",
+        "자, 그럼 똑똑히 보거라.",
+        "빵은 빵으로 남는다 설법했거늘 어찌 빵이 없어졌다 하느뇨.",
+        "진정 없어졌나이다, 보이지 않나이다.",
+        "눈을 크게 떠서 바로 보도록 하라.",
+        "아, 네, 보입니다.",
+        "빵가루가 떨어져 남아 있습니다.",
+        "바로 보았느니라, 빵은 없어졌으되 빵가루는 남는 법, 떡 또한 빵과 같아 떡고물이 남느니라.",
+        "물론 그 점은 알고 있지만.",
+        "출품된 빵이 이처럼 소홀히 다뤄지고 있다는 사실을 출품자 자신들이 알게 된다면.",
+        "하지만 이 심사는 공개된 심사가 아니지 않습니까?",
+        "왜곡이나 우롱이나 그게 그거 아닌가요?",
+        "역사를 왜곡했다는 것은 역사의 어느 한 부분을 찌그러뜨리는 것이고 역사에 대한 우롱이란 역사, 그 큰 덩어리 자체를 무시하는 겁니다.",
+        "그게 과연 가능한 걸까요?",
+        "하나의 빵이.",
+        "글쎄요, 천 구백 오십 칠 년 이태리에서 이름 없는 소녀의 죽음 하나가 이태리 정부를 붕괴시킨 예가 있었습니다.",
+        "이름 없는 소녀의 죽음이?",
+        "죽은 그 소녀의 손에 빵이 들려 있었습니다.",
+        "하지만 빵이 그 원인은 아니었습니다.",
+        "그 소녀의 죽음이 원인이었지.",
+        "퍽 다행스러운 일이군요.",
+        "무슨 원인이 됐다고요?",
+        "천 구백 오십 칠 년 이태리 정부의 붕괴요.",
+        "그 이름 없는 소녀는 왜 죽게 된 건가요?",
+        "방금 발작이 왔어.",
+        "아니야, 지금은 괜찮아, 주무시게 내버려 둬.",
+        "그렇다면 염려하실 거 없네요.",
+        "제가 여기서 자고 가려면 집에 가서 어머니께 말씀드려야 해요, 걱정하시지 않게.",
+        "응, 그래라, 오래 걸리지는 않지?",
+        "나는 겁이 나, 혼자 있는 게.",
+        "최대한 빨리 갔다 올게요."
+      ],
+      "origin": [
+        "그래, 이번엔 어떤 제빵인의 빵을 가지고?",
+        "별 사람 있습니까.",
+        "종전에 해 오듯 그 사람의 빵이죠.",
+        "아하, 이거 참, 같은 동료로서 딱하구먼.",
+        "올해는 어떻게 좀 방법을 바꿔 보지 않고서.",
+        "방법을 바꿔요?",
+        "그 친구의 빵으로 출품했다 해마다 실패를 보지 않았소.",
+        "경연제에서 떨어졌으니 식빵 판매 허가권을 7년째 따내지 못한 거고.",
+        "어떻게 올해는 되겠죠.",
+        "이렇게 어리숙하긴....",
+        "안 돼요, 절대, 7년이 아니라 10년이 넘어도 그 친구의 빵으로 절대 안 됩니다요.",
+        "맞아요, 무익하며 유해한 빵.",
+        "스님, 들려오거늘....",
+        "빵이 아니라 떡이라 하옵니다.",
+        "빵이 유죄라 하더냐.",
+        "네, 스님 알겠습니다.",
+        "빵이 유죄라면 떡 또한 유죄니라.",
+        "나무관세음보살, 어찌 빵에서 투쟁이 시작되어 싸움이 끊이지 않는지 알 수 없나이다, 안타깝나이다.",
+        "그대 정녕 모르는고?",
+        "정녕 모르옵니다, 안타깝나이다.",
+        "자, 그럼 똑똑히 보거라.",
+        "빵은 빵으로 남는다 설법했거늘 어찌 빵이 없어졌다 하느뇨.",
+        "진정 없어졌나이다, 보이지 않나이다.",
+        "눈을 크게 떠서 바로 보도록 하라.",
+        "아, 네, 보입니다.",
+        "빵가루가 떨어져 남아 있습니다.",
+        "바로 보았느니라, 빵은 없어졌으되 빵가루는 남는 법, 떡 또한 빵과 같아 떡고물이 남느니라.",
+        "물론 그 점은 알고 있지만....",
+        "출품된 빵이 이처럼 소홀히 다뤄지고 있다는 사실을 출품자 자신들이 알게 된다면....",
+        "하지만 이 심사는 공개된 심사가 아니지 않습니까?",
+        "왜곡이나 우롱이나 그게 그거 아닌가요?",
+        "역사를 왜곡했다는 것은 역사의 어느 한 부분을 찌그러뜨리는 것이고 역사에 대한 우롱이란 역사, 그 큰 덩어리 자체를 무시하는 겁니다.",
+        "그게 과연 가능한 걸까요?",
+        "하나의 빵이....",
+        "글쎄요, 1957년 이태리에서 이름 없는 소녀의 죽음 하나가 이태리 정부를 붕괴시킨 예가 있었습니다.",
+        "이름 없는 소녀의 죽음이?",
+        "죽은 그 소녀의 손에 빵이 들려 있었습니다.",
+        "하지만 빵이 그 원인은 아니었습니다.",
+        "그 소녀의 죽음이 원인이었지.",
+        "퍽 다행스러운 일이군요.",
+        "무슨 원인이 됐다고요?",
+        "1957년 이태리 정부의 붕괴요.",
+        "그 이름 없는 소녀는 왜 죽게 된 건가요?",
+        "방금 발작이 왔어.",
+        "아니야, 지금은 괜찮아, 주무시게 내버려 둬.",
+        "그렇다면 염려하실 거 없네요.",
+        "제가 여기서 자고 가려면 집에 가서 어머니께 말씀드려야 해요, 걱정하시지 않게.",
+        "응, 그래라, 오래 걸리지는 않지?",
+        "나는 겁이 나, 혼자 있는 게.",
+        "최대한 빨리 갔다 올게요."
+      ],
+      "part_no": 15,
+      "tokens_count": 300
+    },
+    "sentences": [
+      {
+        "id": "D-NX-A-022-0701",
+        "origin_text": "그래, 이번엔 어떤 제빵인의 빵을 가지고?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.91998291015625,
+          "file_duration": 3.41998291015625,
+          "filename": "D-NX-A-022-0701.wav",
+          "ptr": "그래  /  이번엔 어떤 제빵인의 빵을 가지고?",
+          "tr": "그래, 이번엔 어떤 제빵인의 빵을 가지고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0702",
+        "origin_text": "별 사람 있습니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1400146484375,
+          "file_duration": 1.6400146484375,
+          "filename": "D-NX-A-022-0702.wav",
+          "ptr": "별 사람 있습니까.",
+          "tr": "별 사람 있습니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0703",
+        "origin_text": "종전에 해 오듯 그 사람의 빵이죠.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.96002197265625,
+          "file_duration": 2.46002197265625,
+          "filename": "D-NX-A-022-0703.wav",
+          "ptr": "종전에 해 오듯 그 사람의 빵이죠.",
+          "tr": "종전에 해 오듯 그 사람의 빵이죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0704",
+        "origin_text": "아하, 이거 참, 같은 동료로서 딱하구먼.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.719970703125,
+          "file_duration": 4.219970703125,
+          "filename": "D-NX-A-022-0704.wav",
+          "ptr": "아하 이거 참  /  같은 동료로서 딱하구먼.",
+          "tr": "아하, 이거 참, 같은 동료로서 딱하구먼."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0705",
+        "origin_text": "올해는 어떻게 좀 방법을 바꿔 보지 않고서.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.72003173828125,
+          "file_duration": 3.22003173828125,
+          "filename": "D-NX-A-022-0705.wav",
+          "ptr": "올해는 어떻게 좀 방법을 바꿔 보지 않고서.",
+          "tr": "올해는 어떻게 좀 방법을 바꿔 보지 않고서."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0706",
+        "origin_text": "방법을 바꿔요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1400146484375,
+          "file_duration": 1.6400146484375,
+          "filename": "D-NX-A-022-0706.wav",
+          "ptr": "방법을 바꿔요?",
+          "tr": "방법을 바꿔요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0707",
+        "origin_text": "그 친구의 빵으로 출품했다 해마다 실패를 보지 않았소.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.41998291015625,
+          "file_duration": 3.91998291015625,
+          "filename": "D-NX-A-022-0707.wav",
+          "ptr": "그 친구의 빵으로 출품했다  /  해마다 실패를 보지 않았소.",
+          "tr": "그 친구의 빵으로 출품했다 해마다 실패를 보지 않았소."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0708",
+        "origin_text": "경연제에서 떨어졌으니 식빵 판매 허가권을 7년째 따내지 못한 거고.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.739990234375,
+          "file_duration": 5.239990234375,
+          "filename": "D-NX-A-022-0708.wav",
+          "ptr": "경연제에서 떨어졌으니  /  식빵 판매 허가권을 칠 년째 따내지 못한 거고.",
+          "tr": "경연제에서 떨어졌으니 식빵 판매 허가권을 칠 년째 따내지 못한 거고."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0709",
+        "origin_text": "어떻게 올해는 되겠죠.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.6199951171875,
+          "file_duration": 2.1199951171875,
+          "filename": "D-NX-A-022-0709.wav",
+          "ptr": "어떻게 올해는 되겠죠.",
+          "tr": "어떻게 올해는 되겠죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0710",
+        "origin_text": "이렇게 어리숙하긴....",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.44000244140625,
+          "file_duration": 1.94000244140625,
+          "filename": "D-NX-A-022-0710.wav",
+          "ptr": "이렇게 어리숙하긴.",
+          "tr": "이렇게 어리숙하긴."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0711",
+        "origin_text": "안 돼요, 절대, 7년이 아니라 10년이 넘어도 그 친구의 빵으로 절대 안 됩니다요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.8599853515625,
+          "file_duration": 7.3599853515625,
+          "filename": "D-NX-A-022-0711.wav",
+          "ptr": "안 돼요 절대  /  칠 년이 아니라  /  십 년이 넘어도  /  그 친구의 빵으로  /  절대 안 됩니다요.",
+          "tr": "안 돼요, 절대, 칠 년이 아니라 십 년이 넘어도 그 친구의 빵으로 절대 안 됩니다요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0712",
+        "origin_text": "맞아요, 무익하며 유해한 빵.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.65997314453125,
+          "file_duration": 3.15997314453125,
+          "filename": "D-NX-A-022-0712.wav",
+          "ptr": "맞아요  /  무익하며 유해한 빵.",
+          "tr": "맞아요, 무익하며 유해한 빵."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0713",
+        "origin_text": "스님, 들려오거늘....",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.60003662109375,
+          "file_duration": 2.10003662109375,
+          "filename": "D-NX-A-022-0713.wav",
+          "ptr": "스님  /  들려오거늘.",
+          "tr": "스님, 들려오거늘."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0714",
+        "origin_text": "빵이 아니라 떡이라 하옵니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.82000732421875,
+          "file_duration": 2.32000732421875,
+          "filename": "D-NX-A-022-0714.wav",
+          "ptr": "빵이 아니라 떡이라 하옵니다.",
+          "tr": "빵이 아니라 떡이라 하옵니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0715",
+        "origin_text": "빵이 유죄라 하더냐.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.44000244140625,
+          "file_duration": 1.94000244140625,
+          "filename": "D-NX-A-022-0715.wav",
+          "ptr": "빵이 유죄라 하더냐.",
+          "tr": "빵이 유죄라 하더냐."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0716",
+        "origin_text": "네, 스님 알겠습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.739990234375,
+          "file_duration": 2.239990234375,
+          "filename": "D-NX-A-022-0716.wav",
+          "ptr": "네  /  스님 알겠습니다.",
+          "tr": "네, 스님 알겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0717",
+        "origin_text": "빵이 유죄라면 떡 또한 유죄니라.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5999755859375,
+          "file_duration": 3.0999755859375,
+          "filename": "D-NX-A-022-0717.wav",
+          "ptr": "빵이 유죄라면  /  떡 또한 유죄니라.",
+          "tr": "빵이 유죄라면 떡 또한 유죄니라."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0718",
+        "origin_text": "나무관세음보살, 어찌 빵에서 투쟁이 시작되어 싸움이 끊이지 않는지 알 수 없나이다, 안타깝나이다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.94000244140625,
+          "file_duration": 8.44000244140625,
+          "filename": "D-NX-A-022-0718.wav",
+          "ptr": "나무관세음보살  /  어찌 빵에서 투쟁이 시작되어  /  싸움이 끊이지 않는지 알 수 없나이다  /  안타깝나이다.",
+          "tr": "나무관세음보살, 어찌 빵에서 투쟁이 시작되어 싸움이 끊이지 않는지 알 수 없나이다, 안타깝나이다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0719",
+        "origin_text": "그대 정녕 모르는고?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.67999267578125,
+          "file_duration": 2.17999267578125,
+          "filename": "D-NX-A-022-0719.wav",
+          "ptr": "그대 정녕 모르는고?",
+          "tr": "그대 정녕 모르는고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0720",
+        "origin_text": "정녕 모르옵니다, 안타깝나이다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.52001953125,
+          "file_duration": 3.02001953125,
+          "filename": "D-NX-A-022-0720.wav",
+          "ptr": "정녕 모르옵니다  /  안타깝나이다.",
+          "tr": "정녕 모르옵니다, 안타깝나이다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0721",
+        "origin_text": "자, 그럼 똑똑히 보거라.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8800048828125,
+          "file_duration": 2.3800048828125,
+          "filename": "D-NX-A-022-0721.wav",
+          "ptr": "자  /  그럼 똑똑히 보거라.",
+          "tr": "자, 그럼 똑똑히 보거라."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0722",
+        "origin_text": "빵은 빵으로 남는다 설법했거늘 어찌 빵이 없어졌다 하느뇨.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.9200439453125,
+          "file_duration": 5.4200439453125,
+          "filename": "D-NX-A-022-0722.wav",
+          "ptr": "빵은 빵으로 남는다 설법했거늘  /  어찌 빵이 없어졌다 하느뇨.",
+          "tr": "빵은 빵으로 남는다 설법했거늘 어찌 빵이 없어졌다 하느뇨."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0723",
+        "origin_text": "진정 없어졌나이다, 보이지 않나이다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.4599609375,
+          "file_duration": 2.9599609375,
+          "filename": "D-NX-A-022-0723.wav",
+          "ptr": "진정 없어졌나이다  /  보이지 않나이다.",
+          "tr": "진정 없어졌나이다, 보이지 않나이다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0724",
+        "origin_text": "눈을 크게 떠서 바로 보도록 하라.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.260009765625,
+          "file_duration": 2.760009765625,
+          "filename": "D-NX-A-022-0724.wav",
+          "ptr": "눈을 크게 떠서 바로 보도록 하라.",
+          "tr": "눈을 크게 떠서 바로 보도록 하라."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0725",
+        "origin_text": "아, 네, 보입니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.44000244140625,
+          "file_duration": 2.94000244140625,
+          "filename": "D-NX-A-022-0725.wav",
+          "ptr": "아  /  네  /  보입니다.",
+          "tr": "아, 네, 보입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0726",
+        "origin_text": "빵가루가 떨어져 남아 있습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.760009765625,
+          "file_duration": 2.260009765625,
+          "filename": "D-NX-A-022-0726.wav",
+          "ptr": "빵가루가 떨어져 남아 있습니다.",
+          "tr": "빵가루가 떨어져 남아 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0727",
+        "origin_text": "바로 보았느니라, 빵은 없어졌으되 빵가루는 남는 법, 떡 또한 빵과 같아 떡고물이 남느니라.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.46002197265625,
+          "file_duration": 8.96002197265625,
+          "filename": "D-NX-A-022-0727.wav",
+          "ptr": "바로 보았느니라  /  빵은 없어졌으되  /  빵가루는 남는 법  /  떡  /  또한 빵과 같아  /  떡고물이 남느니라.",
+          "tr": "바로 보았느니라, 빵은 없어졌으되 빵가루는 남는 법, 떡 또한 빵과 같아 떡고물이 남느니라."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0728",
+        "origin_text": "물론 그 점은 알고 있지만....",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8800048828125,
+          "file_duration": 2.3800048828125,
+          "filename": "D-NX-A-022-0728.wav",
+          "ptr": "물론 그 점은 알고 있지만.",
+          "tr": "물론 그 점은 알고 있지만."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0729",
+        "origin_text": "출품된 빵이 이처럼 소홀히 다뤄지고 있다는 사실을 출품자 자신들이 알게 된다면....",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.3599853515625,
+          "file_duration": 5.8599853515625,
+          "filename": "D-NX-A-022-0729.wav",
+          "ptr": "출품된 빵이  /  이처럼 소홀히 다뤄지고 있다는 사실을  /  출품자 자신들이 알게 된다면.",
+          "tr": "출품된 빵이 이처럼 소홀히 다뤄지고 있다는 사실을 출품자 자신들이 알게 된다면."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0730",
+        "origin_text": "하지만 이 심사는 공개된 심사가 아니지 않습니까?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8599853515625,
+          "file_duration": 3.3599853515625,
+          "filename": "D-NX-A-022-0730.wav",
+          "ptr": "하지만 이 심사는 공개된 심사가 아니지 않습니까?",
+          "tr": "하지만 이 심사는 공개된 심사가 아니지 않습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0731",
+        "origin_text": "왜곡이나 우롱이나 그게 그거 아닌가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.65997314453125,
+          "file_duration": 3.15997314453125,
+          "filename": "D-NX-A-022-0731.wav",
+          "ptr": "왜곡이나 우롱이나 그게 그거 아닌가요?",
+          "tr": "왜곡이나 우롱이나 그게 그거 아닌가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0732",
+        "origin_text": "역사를 왜곡했다는 것은 역사의 어느 한 부분을 찌그러뜨리는 것이고 역사에 대한 우롱이란 역사, 그 큰 덩어리 자체를 무시하는 겁니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 9.34002685546875,
+          "file_duration": 9.84002685546875,
+          "filename": "D-NX-A-022-0732.wav",
+          "ptr": "역사를 왜곡했다는 것은 역사의 어느 한 부분을 찌그러뜨리는 것이고  /  역사에 대한 우롱이란  /  역사 그 큰 덩어리 자체를 무시하는 겁니다.",
+          "tr": "역사를 왜곡했다는 것은 역사의 어느 한 부분을 찌그러뜨리는 것이고 역사에 대한 우롱이란 역사, 그 큰 덩어리 자체를 무시하는 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0733",
+        "origin_text": "그게 과연 가능한 걸까요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.6600341796875,
+          "file_duration": 2.1600341796875,
+          "filename": "D-NX-A-022-0733.wav",
+          "ptr": "그게 과연 가능한 걸까요?",
+          "tr": "그게 과연 가능한 걸까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0734",
+        "origin_text": "하나의 빵이....",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1,
+          "file_duration": 1.5,
+          "filename": "D-NX-A-022-0734.wav",
+          "ptr": "하나의 빵이.",
+          "tr": "하나의 빵이."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0735",
+        "origin_text": "글쎄요, 1957년 이태리에서 이름 없는 소녀의 죽음 하나가 이태리 정부를 붕괴시킨 예가 있었습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.260009765625,
+          "file_duration": 7.760009765625,
+          "filename": "D-NX-A-022-0735.wav",
+          "ptr": "글쎄요  /  천 구백 오십 칠 년 이태리에서 이름 없는 소녀의 죽음 하나가  /  이태리 정부를 붕괴시킨 예가 있었습니다.",
+          "tr": "글쎄요, 천 구백 오십 칠 년 이태리에서 이름 없는 소녀의 죽음 하나가 이태리 정부를 붕괴시킨 예가 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0736",
+        "origin_text": "이름 없는 소녀의 죽음이?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.74005126953125,
+          "file_duration": 2.24005126953125,
+          "filename": "D-NX-A-022-0736.wav",
+          "ptr": "이름 없는 소녀의 죽음이?",
+          "tr": "이름 없는 소녀의 죽음이?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0737",
+        "origin_text": "죽은 그 소녀의 손에 빵이 들려 있었습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5,
+          "file_duration": 3,
+          "filename": "D-NX-A-022-0737.wav",
+          "ptr": "죽은 그 소녀의 손에 빵이 들려 있었습니다.",
+          "tr": "죽은 그 소녀의 손에 빵이 들려 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0738",
+        "origin_text": "하지만 빵이 그 원인은 아니었습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1199951171875,
+          "file_duration": 2.6199951171875,
+          "filename": "D-NX-A-022-0738.wav",
+          "ptr": "하지만 빵이 그 원인은 아니었습니다.",
+          "tr": "하지만 빵이 그 원인은 아니었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0739",
+        "origin_text": "그 소녀의 죽음이 원인이었지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.03997802734375,
+          "file_duration": 2.53997802734375,
+          "filename": "D-NX-A-022-0739.wav",
+          "ptr": "그 소녀의 죽음이 원인이었지.",
+          "tr": "그 소녀의 죽음이 원인이었지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0740",
+        "origin_text": "퍽 다행스러운 일이군요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3599853515625,
+          "file_duration": 1.8599853515625,
+          "filename": "D-NX-A-022-0740.wav",
+          "ptr": "퍽 다행스러운 일이군요.",
+          "tr": "퍽 다행스러운 일이군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0741",
+        "origin_text": "무슨 원인이 됐다고요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.44000244140625,
+          "file_duration": 1.94000244140625,
+          "filename": "D-NX-A-022-0741.wav",
+          "ptr": "무슨 원인이 됐다고요?",
+          "tr": "무슨 원인이 됐다고요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0742",
+        "origin_text": "1957년 이태리 정부의 붕괴요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8800048828125,
+          "file_duration": 3.3800048828125,
+          "filename": "D-NX-A-022-0742.wav",
+          "ptr": "천 구백 오십 칠 년 이태리 정부의 붕괴요.",
+          "tr": "천 구백 오십 칠 년 이태리 정부의 붕괴요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0743",
+        "origin_text": "그 이름 없는 소녀는 왜 죽게 된 건가요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.53997802734375,
+          "file_duration": 3.03997802734375,
+          "filename": "D-NX-A-022-0743.wav",
+          "ptr": "그 이름 없는 소녀는 왜 죽게 된 건가요?",
+          "tr": "그 이름 없는 소녀는 왜 죽게 된 건가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0744",
+        "origin_text": "방금 발작이 왔어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.260009765625,
+          "file_duration": 1.760009765625,
+          "filename": "D-NX-A-022-0744.wav",
+          "ptr": "방금 발작이 왔어.",
+          "tr": "방금 발작이 왔어."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0745",
+        "origin_text": "아니야, 지금은 괜찮아, 주무시게 내버려 둬.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9599609375,
+          "file_duration": 3.4599609375,
+          "filename": "D-NX-A-022-0745.wav",
+          "ptr": "아니야  /  지금은 괜찮아  /  주무시게 내버려 둬.",
+          "tr": "아니야, 지금은 괜찮아, 주무시게 내버려 둬."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0746",
+        "origin_text": "그렇다면 염려하실 거 없네요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.67999267578125,
+          "file_duration": 2.17999267578125,
+          "filename": "D-NX-A-022-0746.wav",
+          "ptr": "그렇다면 염려하실 거 없네요.",
+          "tr": "그렇다면 염려하실 거 없네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0747",
+        "origin_text": "제가 여기서 자고 가려면 집에 가서 어머니께 말씀드려야 해요, 걱정하시지 않게.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-NX-A-022-0747.wav",
+          "ptr": "제가 여기서 자고 가려면 집에 가서 어머니께 말씀드려야 해요  /  걱정하시지 않게.",
+          "tr": "제가 여기서 자고 가려면 집에 가서 어머니께 말씀드려야 해요, 걱정하시지 않게."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0748",
+        "origin_text": "응, 그래라, 오래 걸리지는 않지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9200439453125,
+          "file_duration": 3.4200439453125,
+          "filename": "D-NX-A-022-0748.wav",
+          "ptr": "응  /  그래라  /  오래 걸리지는 않지?",
+          "tr": "응, 그래라, 오래 걸리지는 않지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0749",
+        "origin_text": "나는 겁이 나, 혼자 있는 게.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.15997314453125,
+          "file_duration": 2.65997314453125,
+          "filename": "D-NX-A-022-0749.wav",
+          "ptr": "나는 겁이 나  /  혼자 있는 게.",
+          "tr": "나는 겁이 나, 혼자 있는 게."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-022-0750",
+        "origin_text": "최대한 빨리 갔다 올게요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.7900390625,
+          "file_duration": 1.980014648437475,
+          "filename": "D-NX-A-022-0750.wav",
+          "ptr": "최대한 빨리 갔다 올게요.",
+          "tr": "최대한 빨리 갔다 올게요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "A",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오1"
+    },
+    "voice": {
+      "duration": 298.400022675737,
+      "filename": "/data2/gst-voice/splitted/D/022/D-NX05-P15-A-022.wav",
+      "recorded_at": "2022-09-14 08:07:35",
+      "sample_rate": 44100
+    }
+  }
+]

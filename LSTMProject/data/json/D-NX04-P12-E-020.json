@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NX04-P12-E-020",
+    "import": {
+      "author": "조지 코프먼, 모스 하트",
+      "book_title": "빈손으로 가는 인생",
+      "country": "미국",
+      "id": "D0023",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "빈손으로 가는 인생",
+      "translator": "이형식"
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 20
+    },
+    "script": {
+      "chars_count": 757,
+      "id": "D-NX04",
+      "normalized": [
+        "나한테 편지 보낼 사람이 없는데.",
+        "할아버지한테 왔던걸요.",
+        "할아버지 이름이 적혀 있었다고요.",
+        "어디에 있니?",
+        "네, 편지 겉봉에 써 있었어요.",
+        "미국 정부요!",
+        "그래, 미국정부?",
+        "나한테 원하는 게 뭔지 궁금하구나.",
+        "전에도 같은 곳에서 하나 왔어요.",
+        "또 오면 나에게 알려 주려무나.",
+        "밴더호프 씨, 저희 기록에 따르면 당신은 소득세를 납부하신 적이 없습니다.",
+        "왜 그러셨죠?",
+        "그리고 거기서 매년 연소득을 얻고 있죠?",
+        "대략 삼천 달러에서 사천 달러 사이네요.",
+        "몇 년 동안 수입을 올리고 있었네요.",
+        "맞아요, 정확히 말하자면 천 구백 일 년부터요.",
+        "그런데 정부는 천 구백 십 사 년 이후 소득에만 관심이 있습니다.",
+        "그해부터 소득세를 걷기 시작했거든요.",
+        "음, 그렇다면 소득세 이십 이 년분을 체납하신 거예요.",
+        "그게 뭔데요?",
+        "어찌 됐건 재미는 끝났고, 이제 현실을 직면하고 있답니다.",
+        "그래, 나라면 종교극에 저 여자를 캐스팅하지는 않겠다.",
+        "네, 그냥 기다려 봐야 할 것 같아요.",
+        "좀 덮어 줘야 할 것 같은데.",
+        "다음에 버스에서 배우를 만나면 집에 데려와서 대본을 읽히기보다는 대본을 보내는 게 낫겠다.",
+        "오늘 밤에 콜렌호프 오니?",
+        "네, 원래 내일 밤인데요, 앨리스 때문에 날짜를 바꾸게 됐어요.",
+        "오, 내일 밤에 아주 큰일이 있지?",
+        "이건 뭐예요?",
+        "드 피나를 그린 그림이야, 페니가 그렸지.",
+        "형편없는 솜씨네요.",
+        "저 사람은 어때?",
+        "배우라네, 페니의 친구.",
+        "술 취한 거예요?",
+        "요즘 어떻게 지내나, 콜렌호프?",
+        "아주 좋습니다.",
+        "마치 다람쥐처럼 생명력이 내 속에서 이리저리 뛰어다니고 있어요.",
+        "러시아에는 별일 없나?",
+        "모스크바에 있는 친구에게서 받은 편지는 없나?",
+        "할아버지를 위해 우표를 좀 가져왔어요.",
+        "고맙네, 콜렌호프.",
+        "그들이 제 친구를 시베리아로 보냈어요.",
+        "도널드, 소련 정부에 대해서 어떻게 생각하나?",
+        "질문을 바꾸도록 하지.",
+        "미국 정부에 대해 어떻게 생각하나?",
+        "아시다시피 전 생활 보호 대상자거든요.",
+        "아, 소득세!",
+        "할아버지, 발목 잡히셨네요.",
+        "음, 도널드가 구호금을 받을 수 있도록 많은 돈을 내야 한다는군.",
+        "정말요, 할아버지?"
+      ],
+      "origin": [
+        "나한테 편지 보낼 사람이 없는데.",
+        "할아버지한테 왔던걸요.",
+        "할아버지 이름이 적혀 있었다고요.",
+        "어디에 있니?",
+        "네, 편지 겉봉에 써 있었어요.",
+        "미국 정부요!",
+        "그래, 미국정부?",
+        "나한테 원하는 게 뭔지 궁금하구나.",
+        "전에도 같은 곳에서 하나 왔어요.",
+        "또 오면 나에게 알려 주려무나.",
+        "밴더호프 씨, 저희 기록에 따르면 당신은 소득세를 납부하신 적이 없습니다.",
+        "왜 그러셨죠?",
+        "그리고 거기서 매년 연소득을 얻고 있죠?",
+        "대략 3000달러에서 4000달러 사이네요.",
+        "몇 년 동안 수입을 올리고 있었네요.",
+        "맞아요, 정확히 말하자면 1901년부터요.",
+        "그런데 정부는 1914년 이후 소득에만 관심이 있습니다.",
+        "그해부터 소득세를 걷기 시작했거든요.",
+        "음, 그렇다면 소득세 22년분을 체납하신 거예요.",
+        "그게 뭔데요?",
+        "어찌 됐건 재미는 끝났고, 이제 현실을 직면하고 있답니다.",
+        "그래, 나라면 종교극에 저 여자를 캐스팅하지는 않겠다.",
+        "네, 그냥 기다려 봐야 할 것 같아요.",
+        "좀 덮어 줘야 할 것 같은데.",
+        "다음에 버스에서 배우를 만나면 집에 데려와서 대본을 읽히기보다는 대본을 보내는 게 낫겠다.",
+        "오늘 밤에 콜렌호프 오니?",
+        "네, 원래 내일 밤인데요, 앨리스 때문에 날짜를 바꾸게 됐어요.",
+        "오, 내일 밤에 아주 큰일이 있지?",
+        "이건 뭐예요?",
+        "드 피나를 그린 그림이야, 페니가 그렸지.",
+        "형편없는 솜씨네요.",
+        "저 사람은 어때?",
+        "배우라네, 페니의 친구.",
+        "술 취한 거예요?",
+        "요즘 어떻게 지내나, 콜렌호프?",
+        "아주 좋습니다.",
+        "마치 다람쥐처럼 생명력이 내 속에서 이리저리 뛰어다니고 있어요.",
+        "러시아에는 별일 없나?",
+        "모스크바에 있는 친구에게서 받은 편지는 없나?",
+        "할아버지를 위해 우표를 좀 가져왔어요.",
+        "고맙네, 콜렌호프.",
+        "그들이 제 친구를 시베리아로 보냈어요.",
+        "도널드, 소련 정부에 대해서 어떻게 생각하나?",
+        "질문을 바꾸도록 하지.",
+        "미국 정부에 대해 어떻게 생각하나?",
+        "아시다시피 전 생활 보호 대상자거든요.",
+        "아, 소득세!",
+        "할아버지, 발목 잡히셨네요.",
+        "음, 도널드가 구호금을 받을 수 있도록 많은 돈을 내야 한다는군.",
+        "정말요, 할아버지?"
+      ],
+      "part_no": 12,
+      "tokens_count": 248
+    },
+    "sentences": [
+      {
+        "id": "D-NX-E-020-0551",
+        "origin_text": "나한테 편지 보낼 사람이 없는데.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.20001220703125,
+          "file_duration": 2.70001220703125,
+          "filename": "D-NX-E-020-0551.wav",
+          "ptr": "나한테 편지 보낼 사람이 없는데.",
+          "tr": "나한테 편지 보낼 사람이 없는데."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0552",
+        "origin_text": "할아버지한테 왔던걸요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.399993896484375,
+          "file_duration": 1.899993896484375,
+          "filename": "D-NX-E-020-0552.wav",
+          "ptr": "할아버지한테 왔던걸요.",
+          "tr": "할아버지한테 왔던걸요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0553",
+        "origin_text": "할아버지 이름이 적혀 있었다고요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.02001953125,
+          "file_duration": 2.52001953125,
+          "filename": "D-NX-E-020-0553.wav",
+          "ptr": "할아버지 이름이 적혀 있었다고요.",
+          "tr": "할아버지 이름이 적혀 있었다고요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0554",
+        "origin_text": "어디에 있니?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.84002685546875,
+          "file_duration": 1.34002685546875,
+          "filename": "D-NX-E-020-0554.wav",
+          "ptr": "어디에 있니?",
+          "tr": "어디에 있니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0555",
+        "origin_text": "네, 편지 겉봉에 써 있었어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.39996337890625,
+          "file_duration": 2.89996337890625,
+          "filename": "D-NX-E-020-0555.wav",
+          "ptr": "네  /  편지 겉봉에 써 있었어요.",
+          "tr": "네, 편지 겉봉에 써 있었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0556",
+        "origin_text": "미국 정부요!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.97998046875,
+          "file_duration": 1.47998046875,
+          "filename": "D-NX-E-020-0556.wav",
+          "ptr": "미국 정부요!",
+          "tr": "미국 정부요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0557",
+        "origin_text": "그래, 미국정부?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.39996337890625,
+          "file_duration": 1.89996337890625,
+          "filename": "D-NX-E-020-0557.wav",
+          "ptr": "그래  /  미국정부?",
+          "tr": "그래, 미국정부?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0558",
+        "origin_text": "나한테 원하는 게 뭔지 궁금하구나.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.0999755859375,
+          "file_duration": 2.5999755859375,
+          "filename": "D-NX-E-020-0558.wav",
+          "ptr": "나한테 원하는 게 뭔지 궁금하구나.",
+          "tr": "나한테 원하는 게 뭔지 궁금하구나."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0559",
+        "origin_text": "전에도 같은 곳에서 하나 왔어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.32000732421875,
+          "file_duration": 2.82000732421875,
+          "filename": "D-NX-E-020-0559.wav",
+          "ptr": "전에도  /  같은 곳에서 하나 왔어요.",
+          "tr": "전에도 같은 곳에서 하나 왔어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0560",
+        "origin_text": "또 오면 나에게 알려 주려무나.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.03997802734375,
+          "file_duration": 2.53997802734375,
+          "filename": "D-NX-E-020-0560.wav",
+          "ptr": "또 오면  /  나에게 알려 주려무나.",
+          "tr": "또 오면 나에게 알려 주려무나."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0561",
+        "origin_text": "밴더호프 씨, 저희 기록에 따르면 당신은 소득세를 납부하신 적이 없습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.55999755859375,
+          "file_duration": 6.05999755859375,
+          "filename": "D-NX-E-020-0561.wav",
+          "ptr": "밴더호프 씨  /  저희 기록에 따르면  /  당신은 소득세를 납부하신 적이 없습니다.",
+          "tr": "밴더호프 씨, 저희 기록에 따르면 당신은 소득세를 납부하신 적이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0562",
+        "origin_text": "왜 그러셨죠?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.8800048828125,
+          "file_duration": 1.3800048828125,
+          "filename": "D-NX-E-020-0562.wav",
+          "ptr": "왜 그러셨죠?",
+          "tr": "왜 그러셨죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0563",
+        "origin_text": "그리고 거기서 매년 연소득을 얻고 있죠?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.739990234375,
+          "file_duration": 3.239990234375,
+          "filename": "D-NX-E-020-0563.wav",
+          "ptr": "그리고 거기서 매년 연소득을 얻고 있죠?",
+          "tr": "그리고 거기서 매년 연소득을 얻고 있죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0564",
+        "origin_text": "대략 3000달러에서 4000달러 사이네요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.94000244140625,
+          "file_duration": 3.44000244140625,
+          "filename": "D-NX-E-020-0564.wav",
+          "ptr": "대략 삼천 달러에서 사천 달러 사이네요.",
+          "tr": "대략 삼천 달러에서 사천 달러 사이네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0565",
+        "origin_text": "몇 년 동안 수입을 올리고 있었네요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.17999267578125,
+          "file_duration": 2.67999267578125,
+          "filename": "D-NX-E-020-0565.wav",
+          "ptr": "몇 년 동안 수입을 올리고 있었네요.",
+          "tr": "몇 년 동안 수입을 올리고 있었네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0566",
+        "origin_text": "맞아요, 정확히 말하자면 1901년부터요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.760009765625,
+          "file_duration": 4.260009765625,
+          "filename": "D-NX-E-020-0566.wav",
+          "ptr": "맞아요  /  정확히 말하자면  /  천 구백 일 년부터요.",
+          "tr": "맞아요, 정확히 말하자면 천 구백 일 년부터요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0567",
+        "origin_text": "그런데 정부는 1914년 이후 소득에만 관심이 있습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.3199462890625,
+          "file_duration": 4.8199462890625,
+          "filename": "D-NX-E-020-0567.wav",
+          "ptr": "그런데 정부는  /  천 구백 십 사 년 이후 소득에만 관심이 있습니다.",
+          "tr": "그런데 정부는 천 구백 십 사 년 이후 소득에만 관심이 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0568",
+        "origin_text": "그해부터 소득세를 걷기 시작했거든요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.4000244140625,
+          "file_duration": 2.9000244140625,
+          "filename": "D-NX-E-020-0568.wav",
+          "ptr": "그해부터 소득세를 걷기 시작했거든요.",
+          "tr": "그해부터 소득세를 걷기 시작했거든요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0569",
+        "origin_text": "음, 그렇다면 소득세 22년분을 체납하신 거예요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.3800048828125,
+          "file_duration": 4.8800048828125,
+          "filename": "D-NX-E-020-0569.wav",
+          "ptr": "음  /  그렇다면  /  소득세 이십 이 년분을 체납하신 거예요.",
+          "tr": "음, 그렇다면 소득세 이십 이 년분을 체납하신 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0570",
+        "origin_text": "그게 뭔데요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.8599853515625,
+          "file_duration": 1.3599853515625,
+          "filename": "D-NX-E-020-0570.wav",
+          "ptr": "그게 뭔데요?",
+          "tr": "그게 뭔데요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0571",
+        "origin_text": "어찌 됐건 재미는 끝났고, 이제 현실을 직면하고 있답니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.03997802734375,
+          "file_duration": 4.53997802734375,
+          "filename": "D-NX-E-020-0571.wav",
+          "ptr": "어찌 됐건 재미는 끝났고  /  이제 현실을 직면하고 있답니다.",
+          "tr": "어찌 됐건 재미는 끝났고, 이제 현실을 직면하고 있답니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0572",
+        "origin_text": "그래, 나라면 종교극에 저 여자를 캐스팅하지는 않겠다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.97998046875,
+          "file_duration": 4.47998046875,
+          "filename": "D-NX-E-020-0572.wav",
+          "ptr": "그래  /  나라면 종교극에  /  저 여자를 캐스팅하지는 않겠다.",
+          "tr": "그래, 나라면 종교극에 저 여자를 캐스팅하지는 않겠다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0573",
+        "origin_text": "네, 그냥 기다려 봐야 할 것 같아요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.260009765625,
+          "file_duration": 2.760009765625,
+          "filename": "D-NX-E-020-0573.wav",
+          "ptr": "네  /  그냥 기다려 봐야 할 것 같아요.",
+          "tr": "네, 그냥 기다려 봐야 할 것 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0574",
+        "origin_text": "좀 덮어 줘야 할 것 같은데.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.70001220703125,
+          "file_duration": 2.20001220703125,
+          "filename": "D-NX-E-020-0574.wav",
+          "ptr": "좀 덮어 줘야 할 것 같은데.",
+          "tr": "좀 덮어 줘야 할 것 같은데."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0575",
+        "origin_text": "다음에 버스에서 배우를 만나면 집에 데려와서 대본을 읽히기보다는 대본을 보는 게 낫겠다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.51995849609375,
+          "file_duration": 7.01995849609375,
+          "filename": "D-NX-E-020-0575.wav",
+          "ptr": "다음에 버스에서 배우를 만나면  /  집에 데려와서  /  대본을 읽히기보다는  /  대본을 보는 게 낫겠다.",
+          "tr": "다음에 버스에서 배우를 만나면 집에 데려와서 대본을 읽히기보다는 대본을 보는 게 낫겠다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0576",
+        "origin_text": "오늘 밤에 콜렌호프 오니?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.760009765625,
+          "file_duration": 2.260009765625,
+          "filename": "D-NX-E-020-0576.wav",
+          "ptr": "오늘 밤에 콜렌호프 오니?",
+          "tr": "오늘 밤에 콜렌호프 오니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0577",
+        "origin_text": "네, 원래 내일 밤인데요, 앨리스 때문에 날짜를 바꾸게 됐어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.39996337890625,
+          "file_duration": 4.89996337890625,
+          "filename": "D-NX-E-020-0577.wav",
+          "ptr": "네  /  원래 내일 밤인데요  /  앨리스 때문에 날짜를 바꾸게 됐어요.",
+          "tr": "네, 원래 내일 밤인데요, 앨리스 때문에 날짜를 바꾸게 됐어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0578",
+        "origin_text": "오, 내일 밤에 아주 큰일이 있지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.27996826171875,
+          "file_duration": 2.77996826171875,
+          "filename": "D-NX-E-020-0578.wav",
+          "ptr": "오  /  내일 밤에 아주 큰일이 있지?",
+          "tr": "오, 내일 밤에 아주 큰일이 있지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0579",
+        "origin_text": "이건 뭐예요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.8399658203125,
+          "file_duration": 1.3399658203125,
+          "filename": "D-NX-E-020-0579.wav",
+          "ptr": "이건 뭐예요?",
+          "tr": "이건 뭐예요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0580",
+        "origin_text": "드 피나를 그린 그림이야, 페니가 그렸지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "D-NX-E-020-0580.wav",
+          "ptr": "드 피나를 그린 그림이야  /  페니가 그렸지.",
+          "tr": "드 피나를 그린 그림이야, 페니가 그렸지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0581",
+        "origin_text": "형편없는 솜씨네요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.34002685546875,
+          "file_duration": 1.84002685546875,
+          "filename": "D-NX-E-020-0581.wav",
+          "ptr": "형편없는 솜씨네요.",
+          "tr": "형편없는 솜씨네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0582",
+        "origin_text": "저 사람은 어때?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.91998291015625,
+          "file_duration": 1.41998291015625,
+          "filename": "D-NX-E-020-0582.wav",
+          "ptr": "저 사람은 어때?",
+          "tr": "저 사람은 어때?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0583",
+        "origin_text": "배우라네, 페니의 친구.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.87994384765625,
+          "file_duration": 2.37994384765625,
+          "filename": "D-NX-E-020-0583.wav",
+          "ptr": "배우라네  /  페니의 친구.",
+          "tr": "배우라네, 페니의 친구."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0584",
+        "origin_text": "술 취한 거예요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.93994140625,
+          "file_duration": 1.43994140625,
+          "filename": "D-NX-E-020-0584.wav",
+          "ptr": "술 취한 거예요?",
+          "tr": "술 취한 거예요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0585",
+        "origin_text": "요즘 어떻게 지내나, 콜렌호프?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2,
+          "file_duration": 2.5,
+          "filename": "D-NX-E-020-0585.wav",
+          "ptr": "요즘 어떻게 지내나 콜렌호프?",
+          "tr": "요즘 어떻게 지내나, 콜렌호프?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0586",
+        "origin_text": "아주 좋습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.98004150390625,
+          "file_duration": 1.48004150390625,
+          "filename": "D-NX-E-020-0586.wav",
+          "ptr": "아주 좋습니다.",
+          "tr": "아주 좋습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0587",
+        "origin_text": "마치 다람쥐처럼 생명력이 내 속에서 이리저리 뛰어다니고 있어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.47998046875,
+          "file_duration": 4.97998046875,
+          "filename": "D-NX-E-020-0587.wav",
+          "ptr": "마치 다람쥐처럼 생명력이  /  내 속에서 이리저리 뛰어다니고 있어요.",
+          "tr": "마치 다람쥐처럼 생명력이 내 속에서 이리저리 뛰어다니고 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0588",
+        "origin_text": "러시아에는 별일 없나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.44000244140625,
+          "file_duration": 1.94000244140625,
+          "filename": "D-NX-E-020-0588.wav",
+          "ptr": "러시아에는 별일 없나?",
+          "tr": "러시아에는 별일 없나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0589",
+        "origin_text": "모스크바에 있는 친구에게서 받은 편지는 없나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.67999267578125,
+          "file_duration": 3.17999267578125,
+          "filename": "D-NX-E-020-0589.wav",
+          "ptr": "모스크바에 있는 친구에게서 받은 편지는 없나?",
+          "tr": "모스크바에 있는 친구에게서 받은 편지는 없나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0590",
+        "origin_text": "할아버지를 위해 우표를 좀 가져왔어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.55999755859375,
+          "file_duration": 3.05999755859375,
+          "filename": "D-NX-E-020-0590.wav",
+          "ptr": "할아버지를 위해  /  우표를 좀 가져왔어요.",
+          "tr": "할아버지를 위해 우표를 좀 가져왔어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0591",
+        "origin_text": "고맙네, 콜렌호프.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.32000732421875,
+          "file_duration": 1.82000732421875,
+          "filename": "D-NX-E-020-0591.wav",
+          "ptr": "고맙네 콜렌호프.",
+          "tr": "고맙네, 콜렌호프."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0592",
+        "origin_text": "그들이 제 친구를 시베리아로 보냈어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.4599609375,
+          "file_duration": 2.9599609375,
+          "filename": "D-NX-E-020-0592.wav",
+          "ptr": "그들이 제 친구를  /  시베리아로 보냈어요.",
+          "tr": "그들이 제 친구를 시베리아로 보냈어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0593",
+        "origin_text": "도널드, 소련 정부에 대해서 어떻게 생각하나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.15997314453125,
+          "file_duration": 3.65997314453125,
+          "filename": "D-NX-E-020-0593.wav",
+          "ptr": "도널드  /  소련 정부에 대해서 어떻게 생각하나?",
+          "tr": "도널드, 소련 정부에 대해서 어떻게 생각하나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0594",
+        "origin_text": "질문을 바꾸도록 하지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4000244140625,
+          "file_duration": 1.9000244140625,
+          "filename": "D-NX-E-020-0594.wav",
+          "ptr": "질문을 바꾸도록 하지.",
+          "tr": "질문을 바꾸도록 하지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0595",
+        "origin_text": "미국 정부에 대해 어떻게 생각하나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.03997802734375,
+          "file_duration": 2.53997802734375,
+          "filename": "D-NX-E-020-0595.wav",
+          "ptr": "미국 정부에 대해 어떻게 생각하나?",
+          "tr": "미국 정부에 대해 어떻게 생각하나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0596",
+        "origin_text": "아시다시피 전 생활 보호 대상자거든요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.780029296875,
+          "file_duration": 3.280029296875,
+          "filename": "D-NX-E-020-0596.wav",
+          "ptr": "아시다시피  /  전 생활 보호 대상자거든요.",
+          "tr": "아시다시피 전 생활 보호 대상자거든요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0597",
+        "origin_text": "아, 소득세!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.22003173828125,
+          "file_duration": 1.72003173828125,
+          "filename": "D-NX-E-020-0597.wav",
+          "ptr": "아 소득세!",
+          "tr": "아, 소득세!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0598",
+        "origin_text": "할아버지, 발목 잡히셨네요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1600341796875,
+          "file_duration": 2.6600341796875,
+          "filename": "D-NX-E-020-0598.wav",
+          "ptr": "할아버지  /  발목 잡히셨네요.",
+          "tr": "할아버지, 발목 잡히셨네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0599",
+        "origin_text": "음, 도널드가 구호금을 받을 수 있도록 많은 돈을 내야 한다는군.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.91998291015625,
+          "file_duration": 5.41998291015625,
+          "filename": "D-NX-E-020-0599.wav",
+          "ptr": "음  /  도널드가 구호금을 받을 수 있도록  /  많은 돈을 내야 한다는군.",
+          "tr": "음, 도널드가 구호금을 받을 수 있도록 많은 돈을 내야 한다는군."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-E-020-0600",
+        "origin_text": "정말요, 할아버지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8499755859375,
+          "file_duration": 1.6999938964843864,
+          "filename": "D-NX-E-020-0600.wav",
+          "ptr": "정말요 할아버지?",
+          "tr": "정말요, 할아버지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "E",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오5"
+    },
+    "voice": {
+      "duration": 248.19997732426305,
+      "filename": "/data2/gst-voice/splitted/D/020/D-NX04-P12-E-020.wav",
+      "recorded_at": "2022-09-06 07:38:08",
+      "sample_rate": 44100
+    }
+  }
+]

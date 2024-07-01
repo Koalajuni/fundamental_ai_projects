@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "D-H105-P13-G-032",
+    "import": {
+      "author": "모리스 마테를링크(Maurice Maeterlinck)",
+      "book_title": "파랑새(L'Oiseau bleu)",
+      "country": "벨기에",
+      "id": "D0057",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "파랑새(L'Oiseau bleu)",
+      "translator": "이용복"
+    },
+    "reciter": {
+      "age": 50,
+      "gender": "MALE",
+      "id": 32
+    },
+    "script": {
+      "chars_count": 643,
+      "id": "D-H105",
+      "normalized": [
+        "아빠가 열쇠를 갖고 있는 장롱 속인가요?",
+        "그리고 그게 엄마의 눈이에요, 하지만 훨씬 아름다워요",
+        "그리고 엄마의 손 역시, 작은 반지가 있군요, 이 손은 집에 있는 손처럼 일하지는 않나요?",
+        "집에서는 너무 할 일이 많아서 시간이 없단다",
+        "이제 네가 날 보았으니까 내일 초가집으로 돌아갔을 때 넌 찢어진 옷을 입고 있는 날 알아보겠니?",
+        "하지만 우리가 서로 안아 주는 곳이면 어디나 다 천국인 거야, 두 명의 어머니도 없고 넌 또 다른 어머니를 갖고 있지도 않지",
+        "그런데 넌 어떻게 여기 오게 되어서 사람들이 이 땅에 살기 시작한 이래로 찾았던 그 길을 발견하게 된 거지?",
+        "아니요, 보여 줘요, 하지만 행복들이 너무 분명하게 보면 무서워할까 봐 두려운 거예요",
+        "설탕과 고양이 그리고 착한 빵은 어디 있지?",
+        "그들은 이곳에 들어올 수 없단다, 그들은 미래를 알게 될 것이고 그러면 더 이상 순종하지 않을 거야",
+        "우린 미래의 왕국에 있어, 아직 태어나지 않은 아이들 가운데.",
+        "다이아몬드가 사람들이 알아보지 못하는 이곳에서 우리로 하여금 분명히 보도록 해 주기 때문에 우린 아마도 여기서 파랑새를 발견하게 될 거야",
+        "달려오는 아이들 좀 봐",
+        "왜 우리를 살아 있는 아이들이라고 부르지요?",
+        "그들이 태어날 시간을요?",
+        "그렇지, 우리의 지구에서 태어나는 아이들은 모두 여기로부터 온단다.",
+        "아빠와 엄마들이 아이를 원할 때에는 저기 오른쪽에 보이는 커다란 문을 열어, 그러면 아이들이 내려간단다",
+        "이 키가 큰 파란 사람들은 누구인가요?",
+        "그렇게 어색한 표정을 짓지 마라!",
+        "난 너희들을 혼자 내버려 둘 거야, 너희들끼리 있으면 더 편할 테니까",
+        "그래, 나야, 지난밤에 내 얼굴이 바뀌지는 않았지",
+        "내 코가 거꾸로 되었니?",
+        "무슨 일이야, 너 잠에서 덜 깼니?",
+        "당연하지, 바지를 입고 재킷을 걸쳐라",
+        "의자 위에 있단다"
+      ],
+      "origin": [
+        "아빠가 열쇠를 갖고 있는 장롱 속인가요?",
+        "그리고 그게 엄마의 눈이에요, 하지만 훨씬 아름다워요…",
+        "그리고 엄마의 손 역시, 작은 반지가 있군요, 이 손은 집에 있는 손처럼 일하지는 않나요?",
+        "집에서는 너무 할 일이 많아서 시간이 없단다…",
+        "이제 네가 날 보았으니까 내일 초가집으로 돌아갔을 때 넌 찢어진 옷을 입고 있는 날 알아보겠니?",
+        "하지만 우리가 서로 안아 주는 곳이면 어디나 다 천국인 거야, 두 명의 어머니도 없고 넌 또 다른 어머니를 갖고 있지도 않지…",
+        "그런데 넌 어떻게 여기 오게 되어서 사람들이 이 땅에 살기 시작한 이래로 찾았던 그 길을 발견하게 된 거지?",
+        "아니요, 보여 줘요, 하지만 행복들이 너무 분명하게 보면 무서워할까 봐 두려운 거예요…",
+        "설탕과 고양이 그리고 착한 빵은 어디 있지?",
+        "그들은 이곳에 들어올 수 없단다, 그들은 미래를 알게 될 것이고 그러면 더 이상 순종하지 않을 거야…",
+        "우린 미래의 왕국에 있어, 아직 태어나지 않은 아이들 가운데.",
+        "다이아몬드가 사람들이 알아보지 못하는 이곳에서 우리로 하여금 분명히 보도록 해 주기 때문에 우린 아마도 여기서 파랑새를 발견하게 될 거야…",
+        "달려오는 아이들 좀 봐…",
+        "왜 우리를 “살아 있는 아이들”이라고 부르지요?",
+        "그들이 태어날 시간을요?",
+        "그렇지, 우리의 지구에서 태어나는 아이들은 모두 여기로부터 온단다.",
+        "아빠와 엄마들이 아이를 원할 때에는 저기 오른쪽에 보이는 커다란 문을 열어, 그러면 아이들이 내려간단다…",
+        "이 키가 큰 파란 사람들은 누구인가요?",
+        "그렇게 어색한 표정을 짓지 마라!",
+        "난 너희들을 혼자 내버려 둘 거야, 너희들끼리 있으면 더 편할 테니까…",
+        "그래, 나야, 지난밤에 내 얼굴이 바뀌지는 않았지…",
+        "내 코가 거꾸로 되었니?",
+        "무슨 일이야, 너 잠에서 덜 깼니?",
+        "당연하지, 바지를 입고 재킷을 걸쳐라…",
+        "의자 위에 있단다…"
+      ],
+      "part_no": 13,
+      "tokens_count": 233
+    },
+    "sentences": [
+      {
+        "id": "D-H1-G-032-0601",
+        "origin_text": "아빠가 열쇠를 갖고 있는 장롱 속인가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.179999768733978,
+          "file_duration": 3.1599997687339783,
+          "filename": "D-H1-G-032-0601.wav",
+          "ptr": "아빠가 열쇠를 갖고 있는  /  장롱 속인가요?",
+          "tr": "아빠가 열쇠를 갖고 있는 장롱 속인가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0602",
+        "origin_text": "그리고 그게 엄마의 눈이에요, 하지만 훨씬 아름다워요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.640000343322754,
+          "file_duration": 5.140000343322754,
+          "filename": "D-H1-G-032-0602.wav",
+          "ptr": "그리고 그게 엄마의 눈이에요  /  하지만  /  훨씬 아름다워요",
+          "tr": "그리고 그게 엄마의 눈이에요, 하지만 훨씬 아름다워요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0603",
+        "origin_text": "그리고 엄마의 손 역시, 작은 반지가 있군요, 이 손은 집에 있는 손처럼 일하지는 않나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.619998931884766,
+          "file_duration": 8.119998931884766,
+          "filename": "D-H1-G-032-0603.wav",
+          "ptr": "그리고 엄마의 손 역시  /  작은 반지가 있군요  /  이 손은  /  집에 있는 손처럼  /  일하지는 않나요?",
+          "tr": "그리고 엄마의 손 역시, 작은 반지가 있군요, 이 손은 집에 있는 손처럼 일하지는 않나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0604",
+        "origin_text": "집에서는 너무 할 일이 많아서 시간이 없단다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8600006103515625,
+          "file_duration": 3.3600006103515625,
+          "filename": "D-H1-G-032-0604.wav",
+          "ptr": "집에서는 너무 할 일이 많아서 시간이 없단다",
+          "tr": "집에서는 너무 할 일이 많아서 시간이 없단다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0605",
+        "origin_text": "이제 네가 날 보았으니까 내일 초가집으로 돌아갔을 때 넌 찢어진 옷을 입고 있는 날 알아보겠니?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.260002136230469,
+          "file_duration": 8.760002136230469,
+          "filename": "D-H1-G-032-0605.wav",
+          "ptr": "이제 네가 날 보았으니까  /  내일 초가집으로 돌아갔을 때  /  넌 찢어진 옷을 입고 있는 날  /  알아보겠니?",
+          "tr": "이제 네가 날 보았으니까 내일 초가집으로 돌아갔을 때 넌 찢어진 옷을 입고 있는 날 알아보겠니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0606",
+        "origin_text": "하지만 우리가 서로 안아 주는 곳이면 어디나 다 천국인 거야, 두 명의 어머니도 없고 넌 또 다른 어머니를 갖고 있지도 않지…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 10.799999237060547,
+          "file_duration": 11.299999237060547,
+          "filename": "D-H1-G-032-0606.wav",
+          "ptr": "하지만  /  우리가 서로 안아 주는 곳이면  /  어디나 다 천국인 거야  /  두 명의 어머니도 없고  /  넌  /  또 다른 어머니를 갖고 있지도 않지",
+          "tr": "하지만 우리가 서로 안아 주는 곳이면 어디나 다 천국인 거야, 두 명의 어머니도 없고 넌 또 다른 어머니를 갖고 있지도 않지"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0607",
+        "origin_text": "그런데 넌 어떻게 여기 오게 되어서 사람들이 이 땅에 살기 시작한 이래로 찾았던 그 길을 발견하게 된 거지?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.259998321533203,
+          "file_duration": 8.759998321533203,
+          "filename": "D-H1-G-032-0607.wav",
+          "ptr": "그런데  /  넌 어떻게 여기 오게 되어서  /  사람들이 이 땅에 살기 시작한 이래로  /  찾았던 그 길을  /  발견하게 된 거지?",
+          "tr": "그런데 넌 어떻게 여기 오게 되어서 사람들이 이 땅에 살기 시작한 이래로 찾았던 그 길을 발견하게 된 거지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0608",
+        "origin_text": "아니요, 보여 줘요, 하지만 행복들이 너무 분명하게 보면 무서워할까 봐 두려운 거예요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.8000030517578125,
+          "file_duration": 8.300003051757812,
+          "filename": "D-H1-G-032-0608.wav",
+          "ptr": "아니요  /  보여 줘요  /  하지만 행복들이 너무 분명하게 보면  /  무서워할까 봐  /  두려운 거예요",
+          "tr": "아니요, 보여 줘요, 하지만 행복들이 너무 분명하게 보면 무서워할까 봐 두려운 거예요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0609",
+        "origin_text": "설탕과 고양이 그리고 착한 빵은 어디 있지?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "D-H1-G-032-0609.wav",
+          "ptr": "설탕과 고양이  /  그리고  /  착한 빵은  /  어디 있지?",
+          "tr": "설탕과 고양이 그리고 착한 빵은 어디 있지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0610",
+        "origin_text": "그들은 이곳에 들어올 수 없단다, 그들은 미래를 알게 될 것이고 그러면 더 이상 순종하지 않을 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.839996337890625,
+          "file_duration": 8.339996337890625,
+          "filename": "D-H1-G-032-0610.wav",
+          "ptr": "그들은 이곳에 들어올 수 없단다  /  그들은  /  미래를 알게 될 것이고  /  그러면  /  더 이상 순종하지 않을 거야",
+          "tr": "그들은 이곳에 들어올 수 없단다, 그들은 미래를 알게 될 것이고 그러면 더 이상 순종하지 않을 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0611",
+        "origin_text": "우린 미래의 왕국에 있어, 아직 태어나지 않은 아이들 가운데.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.560005187988281,
+          "file_duration": 5.060005187988281,
+          "filename": "D-H1-G-032-0611.wav",
+          "ptr": "우린 미래의 왕국에 있어  /  아직 태어나지 않은 아이들 가운데.",
+          "tr": "우린 미래의 왕국에 있어, 아직 태어나지 않은 아이들 가운데."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0612",
+        "origin_text": "다이아몬드가 사람들이 알아보지 못하는 이곳에서 우리로 하여금 분명히 보도록 해 주기 때문에 우린 아마도 여기서 파랑새를 발견하게 될 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 10.879997253417969,
+          "file_duration": 11.379997253417969,
+          "filename": "D-H1-G-032-0612.wav",
+          "ptr": "다이아몬드가  /  사람들이 알아보지 못하는 이곳에서  /  우리로 하여금  /  분명히 보도록 해 주기 때문에  /  우린 아마도  /  여기서 파랑새를 발견하게 될 거야",
+          "tr": "다이아몬드가 사람들이 알아보지 못하는 이곳에서 우리로 하여금 분명히 보도록 해 주기 때문에 우린 아마도 여기서 파랑새를 발견하게 될 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0613",
+        "origin_text": "달려오는 아이들 좀 봐…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4000015258789062,
+          "file_duration": 1.9000015258789062,
+          "filename": "D-H1-G-032-0613.wav",
+          "ptr": "달려오는 아이들 좀 봐",
+          "tr": "달려오는 아이들 좀 봐"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0614",
+        "origin_text": "왜 우리를 “살아 있는 아이들”이라고 부르지요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.7600021362304688,
+          "file_duration": 3.2600021362304688,
+          "filename": "D-H1-G-032-0614.wav",
+          "ptr": "왜 우리를  /  살아 있는 아이들이라고 부르지요?",
+          "tr": "왜 우리를 살아 있는 아이들이라고 부르지요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0615",
+        "origin_text": "그들이 태어날 시간을요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4199981689453125,
+          "file_duration": 1.8400030732154846,
+          "filename": "D-H1-G-032-0615.wav",
+          "ptr": "그들이 태어날 시간을요?",
+          "tr": "그들이 태어날 시간을요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0616",
+        "origin_text": "그렇지, 우리의 지구에서 태어나는 아이들은 모두 여기로부터 온단다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.600006103515625,
+          "file_duration": 6.100006103515625,
+          "filename": "D-H1-G-032-0616.wav",
+          "ptr": "그렇지  /  우리의 지구에서 태어나는 아이들은  /  모두  /  여기로부터 온단다.",
+          "tr": "그렇지, 우리의 지구에서 태어나는 아이들은 모두 여기로부터 온단다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0617",
+        "origin_text": "아빠와 엄마들이 아이를 원할 때에는 저기 오른쪽에 보이는 커다란 문을 열어, 그러면 아이들이 내려간단다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.17999267578125,
+          "file_duration": 8.67999267578125,
+          "filename": "D-H1-G-032-0617.wav",
+          "ptr": "아빠와 엄마들이 아이를 원할 때에는  /  저기 오른쪽에 보이는 커다란 문을 열어  /  그러면  /  아이들이 내려간단다",
+          "tr": "아빠와 엄마들이 아이를 원할 때에는 저기 오른쪽에 보이는 커다란 문을 열어, 그러면 아이들이 내려간단다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0618",
+        "origin_text": "이 키가 큰 파란 사람들은 누구인가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5,
+          "file_duration": 3,
+          "filename": "D-H1-G-032-0618.wav",
+          "ptr": "이 키가 큰 파란 사람들은 누구인가요?",
+          "tr": "이 키가 큰 파란 사람들은 누구인가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0619",
+        "origin_text": "그렇게 어색한 표정을 짓지 마라!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.2599945068359375,
+          "file_duration": 2.7599945068359375,
+          "filename": "D-H1-G-032-0619.wav",
+          "ptr": "그렇게 어색한 표정을 짓지 마라!",
+          "tr": "그렇게 어색한 표정을 짓지 마라!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0620",
+        "origin_text": "난 너희들을 혼자 내버려 둘 거야, 너희들끼리 있으면 더 편할 테니까…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.3800048828125,
+          "file_duration": 5.8800048828125,
+          "filename": "D-H1-G-032-0620.wav",
+          "ptr": "난 너희들을  /  혼자 내버려 둘 거야  /  너희들끼리 있으면 더 편할 테니까",
+          "tr": "난 너희들을 혼자 내버려 둘 거야, 너희들끼리 있으면 더 편할 테니까"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0621",
+        "origin_text": "그래, 나야, 지난밤에 내 얼굴이 바뀌지는 않았지…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.899993896484375,
+          "file_duration": 5.399993896484375,
+          "filename": "D-H1-G-032-0621.wav",
+          "ptr": "그래  /  나야  /  지난밤에 내 얼굴이 바뀌지는 않았지",
+          "tr": "그래, 나야, 지난밤에 내 얼굴이 바뀌지는 않았지"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0622",
+        "origin_text": "내 코가 거꾸로 되었니?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.779998779296875,
+          "file_duration": 2.279998779296875,
+          "filename": "D-H1-G-032-0622.wav",
+          "ptr": "내 코가  /  거꾸로 되었니?",
+          "tr": "내 코가 거꾸로 되었니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0623",
+        "origin_text": "무슨 일이야, 너 잠에서 덜 깼니?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8600006103515625,
+          "file_duration": 3.3600006103515625,
+          "filename": "D-H1-G-032-0623.wav",
+          "ptr": "무슨 일이야  /  너 잠에서 덜 깼니?",
+          "tr": "무슨 일이야, 너 잠에서 덜 깼니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0624",
+        "origin_text": "당연하지, 바지를 입고 재킷을 걸쳐라…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.1599884033203125,
+          "file_duration": 3.6599884033203125,
+          "filename": "D-H1-G-032-0624.wav",
+          "ptr": "당연하지  /  바지를 입고 재킷을 걸쳐라",
+          "tr": "당연하지, 바지를 입고 재킷을 걸쳐라"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H1-G-032-0625",
+        "origin_text": "의자 위에 있단다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.2400054931640625,
+          "file_duration": 1.7400054931640625,
+          "filename": "D-H1-G-032-0625.wav",
+          "ptr": "의자 위에 있단다",
+          "tr": "의자 위에 있단다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "G",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오7"
+    },
+    "voice": {
+      "duration": 190.68,
+      "filename": "/data2/gst-voice/splitted/D/032/D-H105-P13-G-032.wav",
+      "recorded_at": "2022-10-27 01:40:35",
+      "sample_rate": 44100
+    }
+  }
+]

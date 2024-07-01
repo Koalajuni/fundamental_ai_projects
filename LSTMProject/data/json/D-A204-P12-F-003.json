@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-A204-P12-F-003",
+    "import": {
+      "author": "조르주 페이도",
+      "book_title": "의심 품기",
+      "country": "프랑스",
+      "id": "D0044",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "의심 품기",
+      "translator": "장인숙"
+    },
+    "reciter": {
+      "age": 20,
+      "gender": "MALE",
+      "id": 3
+    },
+    "script": {
+      "chars_count": 1242,
+      "id": "D-A204",
+      "normalized": [
+        "한심한 인간, 오, 붙잡고 말 거야!",
+        "겁쟁이, 오, 증거를 찾아야지.",
+        "모르겠어, 니가 왔으니까, 찾아 주겠지.",
+        "그래도 괜찮아요, 어쨌든, 거짓말이니까",
+        "그 만찬 약속은 내일이에요, 내가 초대장을 확인했어요!",
+        "괜한 짓 하지 마세요, 모두 다 계획된 일이니까.",
+        "날짜를 착각했다고 말하면서 오늘 저녁 집에 돌아왔다는 알리바이를 만들려는 거예요.",
+        "아, 나에 관한 말씀도 하셨나요?",
+        "편지라뇨, 무슨 편지 말이에요?",
+        "램스덴 씨, 이게 무엇인지 아십니까?",
+        "화이트필드의 유언장 사본입니다, 앤이 오늘 아침에 받았어요.",
+        "우리의 앤 말입니다.",
+        "나를 약간 의심하는 모양이군.",
+        "어째서냐니!",
+        "아, 그렇지, 어째서 그런 일을 할 수 없는지 까닭을 말하지.",
+        "첫째로 그렇게 됐다면, 자네가 나하고 싸움을 해야 할 게고, 둘째로 바이올렛은 나를 좋아하지 않아.",
+        "셋째, 만일 내가 바이올렛의 애 아버지가 될 영광을 얻을 수 있다면 나는 그것을 부정하기는커녕 자랑할 거야.",
+        "후회할 것 없어, 앤.",
+        "내가 당신에게 지껄였던 자랑 중 이십 분의 십 구 는 새빨간 거짓말이었으니까.",
+        "당신이 진실한 이야기를 좋아하지 않는다는 걸 곧 알아차릴 수 있었어.",
+        "그중에는 몹시 나쁜 행동이 있다는 것을 나에게 상기시키려는 거군.",
+        "내가 한때 진짜 이야기를 했더니 당신이 어른들에게 일러바치겠다고 협박한 적이 있으니까.",
+        "내 부정행위를 금지하는 것은 당신 의무가 아니었을 거야.",
+        "정말 그렇게 생각해?",
+        "물론 내 모험담을 하지 못하게 했지만, 그렇다고 나의 모험 자체를 금지시켰다고야 생각할 수 없지 않아?",
+        "그러면 당신은 그 후에도 딴 여자들하고 같은 일을 계속했단 말씀이에요?",
+        "아니, 그런 로맨틱한 광대놀이는 레이첼하고 한 것만으로도 지긋지긋해.",
+        "그렇다면 어째서 당신은 저와의 신의를 끊어 버리고 아주 남이 된 것같이 대해 주셨어요?",
+        "당신은 결코 그게 나 혼자만의 것이라고 한다면 가만있지 않았을 거야.",
+        "어머나, 잭, 좀 지각 있는 말씀을 하세요.",
+        "당신 말이 실없는 소리라고 생각하지 않으세요?",
+        "그러나 사람의 애정을 농담으로 삼지 마세요.",
+        "누구도 오해할 수 없을 거예요, 당신도 오해하지 마세요.",
+        "가련한 리키 티키 테이비!",
+        "설마 당신은 테이비를 질투하는 그런 어리석은 사람은 아니겠죠?",
+        "그리고 테이비가 당신 손아귀에 들어 있다는 것도 이상할 것 없지.",
+        "당신은 나하고 그저 장난을 칠 정도인데도 내 몸을 칭칭 감고 있는 것 같은 기분이니까.",
+        "당신이 나에 대해서 테이비를 잘못 인도한다면, 테이비는 그야말로 불행에 빠질 거예요.",
+        "절대로 염려 마, 테이비는 당신한테서 달아나지 않을 거야!",
+        "당신이 정말 똑똑한 사람인지 의심스러워요!",
+        "어째서 별안간 그런 일에 의심을 갖기 시작했어?",
+        "당신은 내가 알지 못하는 일은 죄다 알고 있으면서도 내가 알고 있는 일에 대해서는 아주 어린애예요.",
+        "테이비가 당신을 어떻게 생각하고 있는지 나는 알고 있어, 앤, 아무튼 그것만은 틀림없어.",
+        "그 가련한 테이비에게 무슨 일이 일어날지, 너무나 잘 알고 있지.",
+        "저는 당신을 비웃어 주고 싶어요, 잭.",
+        "상중만 아니라면 기억해 두세요, 테이비는 아주 불행해질 거예요.",
+        "가련하게도, 그 녀석은 당신보다 천 배나 좋은 인간이니까.",
+        "그 때문에 당신으로 인해서 일생을 망치려 하고 있지.",
+        "인간이란 사람이 지나치게 좋아서 실수하는 것보다 지나치게 영리해서 실수하는 일이 많아요.",
+        "아, 당신이 그렇게 테이비를 좋아하고 있지 않는다는 건 나도 알고 있지."
+      ],
+      "origin": [
+        "한심한 인간, 오, 붙잡고 말 거야!",
+        "겁쟁이, 오, 증거를 찾아야지.",
+        "모르겠어, 니가 왔으니까, 찾아 주겠지.",
+        "그래도 괜찮아요, 어쨌든, 거짓말이니까…",
+        "그 만찬 약속은 내일이에요, 내가 초대장을 확인했어요!",
+        "괜한 짓 하지 마세요, 모두 다 계획된 일이니까.",
+        "날짜를 착각했다고 말하면서 오늘 저녁 집에 돌아왔다는 알리바이를 만들려는 거예요.",
+        "아, 나에 관한 말씀도 하셨나요?",
+        "편지라뇨, 무슨 편지 말이에요?",
+        "램스덴 씨, 이게 무엇인지 아십니까?",
+        "화이트필드의 유언장 사본입니다, 앤이 오늘 아침에 받았어요.",
+        "우리의 앤 말입니다.",
+        "나를 약간 의심하는 모양이군.",
+        "어째서냐니!",
+        "아, 그렇지, 어째서 그런 일을 할 수 없는지 까닭을 말하지.",
+        "첫째로 그렇게 됐다면, 자네가 나하고 싸움을 해야 할 게고, 둘째로 바이올렛은 나를 좋아하지 않아.",
+        "셋째, 만일 내가 바이올렛의 애 아버지가 될 영광을 얻을 수 있다면 나는 그것을 부정하기는커녕 자랑할 거야.",
+        "후회할 것 없어, 앤.",
+        "내가 당신에게 지껄였던 자랑 중 20분의 19는 새빨간 거짓말이었으니까.",
+        "당신이 진실한 이야기를 좋아하지 않는다는 걸 곧 알아차릴 수 있었어.",
+        "그중에는 몹시 나쁜 행동이 있다는 것을 나에게 상기시키려는 거군.",
+        "내가 한때 진짜 이야기를 했더니 당신이 어른들에게 일러바치겠다고 협박한 적이 있으니까.",
+        "내 부정행위를 금지하는 것은 당신 의무가 아니었을 거야.",
+        "정말 그렇게 생각해?",
+        "물론 내 모험담을 하지 못하게 했지만, 그렇다고 나의 모험 자체를 금지시켰다고야 생각할 수 없지 않아?",
+        "그러면 당신은 그 후에도 딴 여자들하고 같은 일을 계속했단 말씀이에요?",
+        "아니, 그런 로맨틱한 광대놀이는 레이첼하고 한 것만으로도 지긋지긋해.",
+        "그렇다면 어째서 당신은 저와의 신의를 끊어 버리고 아주 남이 된 것같이 대해 주셨어요?",
+        "당신은 결코 그게 나 혼자만의 것이라고 한다면 가만있지 않았을 거야.",
+        "어머나, 잭, 좀 지각 있는 말씀을 하세요.",
+        "당신 말이 실없는 소리라고 생각하지 않으세요?",
+        "그러나 사람의 애정을 농담으로 삼지 마세요.",
+        "누구도 오해할 수 없을 거예요, 당신도 오해하지 마세요.",
+        "가련한 리키 티키 테이비!",
+        "설마 당신은 테이비를 질투하는 그런 어리석은 사람은 아니겠죠?",
+        "그리고 테이비가 당신 손아귀에 들어 있다는 것도 이상할 것 없지.",
+        "당신은 나하고 그저 장난을 칠 정도인데도 내 몸을 칭칭 감고 있는 것 같은 기분이니까.",
+        "당신이 나에 대해서 테이비를 잘못 인도한다면, 테이비는 그야말로 불행에 빠질 거예요.",
+        "절대로 염려 마, 테이비는 당신한테서 달아나지 않을 거야!",
+        "당신이 정말 똑똑한 사람인지 의심스러워요!",
+        "어째서 별안간 그런 일에 의심을 갖기 시작했어?",
+        "당신은 내가 알지 못하는 일은 죄다 알고 있으면서도 내가 알고 있는 일에 대해서는 아주 어린애예요.",
+        "테이비가 당신을 어떻게 생각하고 있는지 나는 알고 있어, 앤, 아무튼 그것만은 틀림없어.",
+        "그 가련한 테이비에게 무슨 일이 일어날지, 너무나 잘 알고 있지.",
+        "저는 당신을 비웃어 주고 싶어요, 잭.",
+        "상중만 아니라면 기억해 두세요, 테이비는 아주 불행해질 거예요.",
+        "가련하게도, 그 녀석은 당신보다 천 배나 좋은 인간이니까.",
+        "그 때문에 당신으로 인해서 일생을 망치려 하고 있지.",
+        "인간이란 사람이 지나치게 좋아서 실수하는 것보다 지나치게 영리해서 실수하는 일이 많아요.",
+        "아, 당신이 그렇게 테이비를 좋아하고 있지 않는다는 건 나도 알고 있지."
+      ],
+      "part_no": 12,
+      "tokens_count": 409
+    },
+    "sentences": [
+      {
+        "id": "D-A2-F-003-0551",
+        "origin_text": "한심한 인간, 오, 붙잡고 말 거야!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.739990234375,
+          "file_duration": 3.28,
+          "filename": "D-A2-F-003-0551.wav",
+          "ptr": "한심한 인간  /  오  /  붙잡고 말 거야!",
+          "tr": "한심한 인간, 오, 붙잡고 말 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0552",
+        "origin_text": "겁쟁이, 오, 증거를 찾아야지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.55999755859375,
+          "file_duration": 3.05999755859375,
+          "filename": "D-A2-F-003-0552.wav",
+          "ptr": "겁쟁이  /  오  /  증거를 찾아야지.",
+          "tr": "겁쟁이, 오, 증거를 찾아야지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0553",
+        "origin_text": "모르겠어, 니가 왔으니까, 찾아 주겠지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.72003173828125,
+          "file_duration": 3.22003173828125,
+          "filename": "D-A2-F-003-0553.wav",
+          "ptr": "모르겠어  /  니가 왔으니까  /  찾아 주겠지.",
+          "tr": "모르겠어, 니가 왔으니까, 찾아 주겠지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0554",
+        "origin_text": "그래도 괜찮아요, 어쨌든, 거짓말이니까…",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.34002685546875,
+          "file_duration": 2.84002685546875,
+          "filename": "D-A2-F-003-0554.wav",
+          "ptr": "그래도 괜찮아요  /  어쨌든 거짓말이니까",
+          "tr": "그래도 괜찮아요, 어쨌든, 거짓말이니까"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0555",
+        "origin_text": "그 만찬 약속은 내일이에요, 내가 초대장을 확인했어요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.239990234375,
+          "file_duration": 3.739990234375,
+          "filename": "D-A2-F-003-0555.wav",
+          "ptr": "그 만찬 약속은 내일이에요  /  내가 초대장을 확인했어요!",
+          "tr": "그 만찬 약속은 내일이에요, 내가 초대장을 확인했어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0556",
+        "origin_text": "괜한 짓 하지 마세요, 모두 다 계획된 일이니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.84002685546875,
+          "file_duration": 3.34002685546875,
+          "filename": "D-A2-F-003-0556.wav",
+          "ptr": "괜한 짓 하지 마세요  /  모두 다 계획된 일이니까.",
+          "tr": "괜한 짓 하지 마세요, 모두 다 계획된 일이니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0557",
+        "origin_text": "날씨를 착각했다고 말하면서 오늘 저녁 집에 돌아왔다는 알리바이를 만들려는 거예요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.760009765625,
+          "file_duration": 5.260009765625,
+          "filename": "D-A2-F-003-0557.wav",
+          "ptr": "날씨를 착각했다고 말하면서  /  오늘 저녁 집에 돌아왔다는 알리바이를 만들려는 거예요.",
+          "tr": "날씨를 착각했다고 말하면서 오늘 저녁 집에 돌아왔다는 알리바이를 만들려는 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0558",
+        "origin_text": "아, 나에 관한 말씀도 하셨나요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.3399658203125,
+          "file_duration": 2.8199926757812506,
+          "filename": "D-A2-F-003-0558.wav",
+          "ptr": "아  /  나에 관한 말씀도 하셨나요?",
+          "tr": "아, 나에 관한 말씀도 하셨나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0559",
+        "origin_text": "편지라뇨, 무슨 편지 말이에요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.9000244140625,
+          "file_duration": 2.4399999999999977,
+          "filename": "D-A2-F-003-0559.wav",
+          "ptr": "편지라뇨  /  무슨 편지 말이에요?",
+          "tr": "편지라뇨, 무슨 편지 말이에요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0560",
+        "origin_text": "램스덴 씨, 이게 무엇인지 아십니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.4000244140625,
+          "file_duration": 2.9099975585937514,
+          "filename": "D-A2-F-003-0560.wav",
+          "ptr": "램스덴 씨  /  이게 무엇인지 아십니까?",
+          "tr": "램스덴 씨, 이게 무엇인지 아십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0561",
+        "origin_text": "화이트필드의 유언장 사본입니다, 앤이 오늘 아침에 받았어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.239990234375,
+          "file_duration": 4.739990234375,
+          "filename": "D-A2-F-003-0561.wav",
+          "ptr": "화이트필드의 유언장 사본입니다  /  앤이 오늘 아침에 받았어요.",
+          "tr": "화이트필드의 유언장 사본입니다, 앤이 오늘 아침에 받았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0562",
+        "origin_text": "우리의 앤 말입니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.08001708984375,
+          "file_duration": 1.58001708984375,
+          "filename": "D-A2-F-003-0562.wav",
+          "ptr": "우리의 앤 말입니다.",
+          "tr": "우리의 앤 말입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0563",
+        "origin_text": "나를 약간 의심하는 모양이군.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.65997314453125,
+          "file_duration": 2.239978027343753,
+          "filename": "D-A2-F-003-0563.wav",
+          "ptr": "나를 약간 의심하는 모양이군.",
+          "tr": "나를 약간 의심하는 모양이군."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0564",
+        "origin_text": "어째서냐니!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 0.86004638671875,
+          "file_duration": 1.36004638671875,
+          "filename": "D-A2-F-003-0564.wav",
+          "ptr": "어째서냐니!",
+          "tr": "어째서냐니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0565",
+        "origin_text": "아, 그렇지, 어째서 그런 일을 할 수 없는지 까닭을 말하지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "D-A2-F-003-0565.wav",
+          "ptr": "아 그렇지  /  어째서 그런 일을 할 수 없는지  /  까닭을 말하지.",
+          "tr": "아, 그렇지, 어째서 그런 일을 할 수 없는지 까닭을 말하지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0566",
+        "origin_text": "첫째로 그렇게 됐다면, 자네가 나하고 싸움을 해야 할 게고, 둘째로 바이올렛은 나를 좋아하지 않아.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.199951171875,
+          "file_duration": 6.77000000000001,
+          "filename": "D-A2-F-003-0566.wav",
+          "ptr": "첫째로 그렇게 됐다면  /  자네가 나하고 싸움을 해야 할 게고  /  둘째로 바이올렛은 나를 좋아하지 않아.",
+          "tr": "첫째로 그렇게 됐다면, 자네가 나하고 싸움을 해야 할 게고, 둘째로 바이올렛은 나를 좋아하지 않아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0567",
+        "origin_text": "셋째, 만일 내가 바이올렛의 애 아버지가 될 영광을 얻을 수 있다면 나는 그것을 부정하기는커녕 자랑할 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.94000244140625,
+          "file_duration": 7.4700268554687455,
+          "filename": "D-A2-F-003-0567.wav",
+          "ptr": "셋째  /  만일 내가 바이올렛의 애 아버지가 될 영광을 얻을 수 있다면  /  나는 그것을 부정하기는커녕 자랑할 거야.",
+          "tr": "셋째, 만일 내가 바이올렛의 애 아버지가 될 영광을 얻을 수 있다면 나는 그것을 부정하기는커녕 자랑할 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0568",
+        "origin_text": "후회할 것 없어, 앤.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.1199951171875,
+          "file_duration": 1.6199951171875,
+          "filename": "D-A2-F-003-0568.wav",
+          "ptr": "후회할 것 없어 앤.",
+          "tr": "후회할 것 없어, 앤."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0569",
+        "origin_text": "내가 당신에게 지껄였던 자랑 중 20분의 19는 새빨간 거짓말이었으니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.280029296875,
+          "file_duration": 5.780029296875,
+          "filename": "D-A2-F-003-0569.wav",
+          "ptr": "내가 당신에게 지껄였던 자랑 중  /  이십 분의 십 구는  /  새빨간 거짓말이었으니까.",
+          "tr": "내가 당신에게 지껄였던 자랑 중 이십 분의 십 구는 새빨간 거짓말이었으니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0570",
+        "origin_text": "당신이 진실한 이야기를 좋아하지 않는다는 걸 곧 알아차릴 수 있었어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "D-A2-F-003-0570.wav",
+          "ptr": "당신이 진실한 이야기를 좋아하지 않는다는 걸  /  곧 알아차릴 수 있었어.",
+          "tr": "당신이 진실한 이야기를 좋아하지 않는다는 걸 곧 알아차릴 수 있었어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0571",
+        "origin_text": "그중에는 몹시 나쁜 행동이 있다는 것을 나에게 상기시키려는 거군.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.08001708984375,
+          "file_duration": 4.600004882812499,
+          "filename": "D-A2-F-003-0571.wav",
+          "ptr": "그중에는 몹시 나쁜 행동이 있다는 것을  /  나에게 상기시키려는 거군.",
+          "tr": "그중에는 몹시 나쁜 행동이 있다는 것을 나에게 상기시키려는 거군."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0572",
+        "origin_text": "내가 한때 진짜 이야기를 했더니 당신이 어른들에게 일러바치겠다고 협박한 적이 있으니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.46002197265625,
+          "file_duration": 5.990029296874994,
+          "filename": "D-A2-F-003-0572.wav",
+          "ptr": "내가 한때 진짜 이야기를 했더니  /  당신이 어른들에게 일러바치겠다고 협박한 적이 있으니까.",
+          "tr": "내가 한때 진짜 이야기를 했더니 당신이 어른들에게 일러바치겠다고 협박한 적이 있으니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0573",
+        "origin_text": "내 부정행위를 금지하는 것은 당신 의무가 아니었을 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.3599853515625,
+          "file_duration": 3.8599853515625,
+          "filename": "D-A2-F-003-0573.wav",
+          "ptr": "내 부정행위를 금지하는 것은  /  당신 의무가 아니었을 거야.",
+          "tr": "내 부정행위를 금지하는 것은 당신 의무가 아니었을 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0574",
+        "origin_text": "정말 그렇게 생각해?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.1600341796875,
+          "file_duration": 1.670000000000016,
+          "filename": "D-A2-F-003-0574.wav",
+          "ptr": "정말 그렇게 생각해?",
+          "tr": "정말 그렇게 생각해?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0575",
+        "origin_text": "물론 내 모험담을 하지 못하게 했지만, 그렇다고 나의 모험 자체를 금지시켰다고야 생각할 수 없지 않아?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.5999755859375,
+          "file_duration": 7.0999755859375,
+          "filename": "D-A2-F-003-0575.wav",
+          "ptr": "물론  /  내 모험담을 하지 못하게 했지만  /  그렇다고 나의 모험 자체를 금지시켰다고야 생각할 수 없지 않아?",
+          "tr": "물론 내 모험담을 하지 못하게 했지만, 그렇다고 나의 모험 자체를 금지시켰다고야 생각할 수 없지 않아?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0576",
+        "origin_text": "그러면 당신은 그 후에도 딴 여자들하고 같은 일을 계속했단 말씀이에요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.29998779296875,
+          "file_duration": 4.79998779296875,
+          "filename": "D-A2-F-003-0576.wav",
+          "ptr": "그러면 당신은  /  그 후에도 딴 여자들하고 같은 일을 계속했단 말씀이에요?",
+          "tr": "그러면 당신은 그 후에도 딴 여자들하고 같은 일을 계속했단 말씀이에요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0577",
+        "origin_text": "아니, 그런 로맨틱한 광대놀이는 레이첼하고 한 것만으로도 지긋지긋해.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.97998046875,
+          "file_duration": 5.47998046875,
+          "filename": "D-A2-F-003-0577.wav",
+          "ptr": "아니  /  그런 로맨틱한 광대놀이는  /  레이첼하고 한 것만으로도  /  지긋지긋해.",
+          "tr": "아니, 그런 로맨틱한 광대놀이는 레이첼하고 한 것만으로도 지긋지긋해."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0578",
+        "origin_text": "그렇다면 어째서 당신은 저와의 신의를 끊어 버리고 아주 남이 된 것같이 대해 주셨어요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "D-A2-F-003-0578.wav",
+          "ptr": "그렇다면 어째서 당신은  /  저와의 신의를 끊어 버리고  /  아주 남이 된 것같이 대해 주셨어요?",
+          "tr": "그렇다면 어째서 당신은 저와의 신의를 끊어 버리고 아주 남이 된 것같이 대해 주셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0579",
+        "origin_text": "당신은 결코 그게 나 혼자만의 것이라고 한다면 가만있지 않았을 거야.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.1199951171875,
+          "file_duration": 4.6199951171875,
+          "filename": "D-A2-F-003-0579.wav",
+          "ptr": "당신은 결코 그게 나 혼자만의 것이라고 한다면  /  가만있지 않았을 거야.",
+          "tr": "당신은 결코 그게 나 혼자만의 것이라고 한다면 가만있지 않았을 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0580",
+        "origin_text": "어머나, 잭, 좀 지각 있는 말씀을 하세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.60003662109375,
+          "file_duration": 3.10003662109375,
+          "filename": "D-A2-F-003-0580.wav",
+          "ptr": "어머나 잭  /  좀 지각 있는 말씀을 하세요.",
+          "tr": "어머나, 잭, 좀 지각 있는 말씀을 하세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0581",
+        "origin_text": "당신 말이 실없는 소리라고 생각하지 않으세요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.48004150390625,
+          "file_duration": 3.0000268554687466,
+          "filename": "D-A2-F-003-0581.wav",
+          "ptr": "당신 말이 실없는 소리라고 생각하지 않으세요?",
+          "tr": "당신 말이 실없는 소리라고 생각하지 않으세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0582",
+        "origin_text": "그러나 사람의 애정을 농담으로 삼지 마세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.8599853515625,
+          "file_duration": 3.3599853515625,
+          "filename": "D-A2-F-003-0582.wav",
+          "ptr": "그러나  /  사람의 애정을 농담으로 삼지 마세요.",
+          "tr": "그러나 사람의 애정을 농담으로 삼지 마세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0583",
+        "origin_text": "누구도 오해할 수 없을 거예요, 당신도 오해하지 마세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.27996826171875,
+          "file_duration": 3.77996826171875,
+          "filename": "D-A2-F-003-0583.wav",
+          "ptr": "누구도 오해할 수 없을 거예요  /  당신도 오해하지 마세요.",
+          "tr": "누구도 오해할 수 없을 거예요, 당신도 오해하지 마세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0584",
+        "origin_text": "가련한 리키 티키 테이비!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.55999755859375,
+          "file_duration": 2.0700244140624875,
+          "filename": "D-A2-F-003-0584.wav",
+          "ptr": "가련한 리키 티키 테이비!",
+          "tr": "가련한 리키 티키 테이비!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0585",
+        "origin_text": "설마 당신은 테이비를 질투하는 그런 어리석은 사람은 아니겠죠?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.9599609375,
+          "file_duration": 4.5,
+          "filename": "D-A2-F-003-0585.wav",
+          "ptr": "설마 당신은  /  테이비를 질투하는  /  그런 어리석은 사람은 아니겠죠?",
+          "tr": "설마 당신은 테이비를 질투하는 그런 어리석은 사람은 아니겠죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0586",
+        "origin_text": "그리고 테이비가 당신 손아귀에 들어 있다는 것도 이상할 것 없지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.5999755859375,
+          "file_duration": 4.0999755859375,
+          "filename": "D-A2-F-003-0586.wav",
+          "ptr": "그리고 테이비가  /  당신 손아귀에 들어 있다는 것도 이상할 것 없지.",
+          "tr": "그리고 테이비가 당신 손아귀에 들어 있다는 것도 이상할 것 없지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0587",
+        "origin_text": "당신은 나하고 그저 장난을 칠 정도인데도 내 몸을 칭칭 감고 있는 것 같은 기분이니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.02001953125,
+          "file_duration": 5.52001953125,
+          "filename": "D-A2-F-003-0587.wav",
+          "ptr": "당신은 나하고 그저 장난을 칠 정도인데도  /  내 몸을 칭칭 감고 있는 것 같은 기분이니까.",
+          "tr": "당신은 나하고 그저 장난을 칠 정도인데도 내 몸을 칭칭 감고 있는 것 같은 기분이니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0588",
+        "origin_text": "당신이 나에 대해서 테이비를 잘못 인도한다면, 테이비는 그야말로 불행에 빠질 거예요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.1600341796875,
+          "file_duration": 5.6400097656249955,
+          "filename": "D-A2-F-003-0588.wav",
+          "ptr": "당신이 나에 대해서 테이비를 잘못 인도한다면  /  테이비는 그야말로 불행에 빠질 거예요.",
+          "tr": "당신이 나에 대해서 테이비를 잘못 인도한다면, 테이비는 그야말로 불행에 빠질 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0589",
+        "origin_text": "절대로 염려 마, 테이비는 당신한테서 달아나지 않을 거야!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.3800048828125,
+          "file_duration": 3.8799999999999955,
+          "filename": "D-A2-F-003-0589.wav",
+          "ptr": "절대로 염려 마  /  테이비는 당신한테서 달아나지 않을 거야!",
+          "tr": "절대로 염려 마, 테이비는 당신한테서 달아나지 않을 거야!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0590",
+        "origin_text": "당신이 정말 똑똑한 사람인지 의심스러워요!",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.70001220703125,
+          "file_duration": 3.229987792968757,
+          "filename": "D-A2-F-003-0590.wav",
+          "ptr": "당신이 정말 똑똑한 사람인지 의심스러워요!",
+          "tr": "당신이 정말 똑똑한 사람인지 의심스러워요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0591",
+        "origin_text": "어째서 별안간 그런 일에 의심을 갖기 시작했어?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.67999267578125,
+          "file_duration": 3.1699999999999875,
+          "filename": "D-A2-F-003-0591.wav",
+          "ptr": "어째서 별안간 그런 일에 의심을 갖기 시작했어?",
+          "tr": "어째서 별안간 그런 일에 의심을 갖기 시작했어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0592",
+        "origin_text": "당신은 내가 알지 못하는 일은 죄다 알고 있으면서도 내가 알고 있는 일에 대해서는 아주 어린애예요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.05999755859375,
+          "file_duration": 7.589999999999975,
+          "filename": "D-A2-F-003-0592.wav",
+          "ptr": "당신은  /  내가 알지 못하는 일은 죄다 알고 있으면서도  /  내가 알고 있는 일에 대해서는  /  아주 어린애예요.",
+          "tr": "당신은 내가 알지 못하는 일은 죄다 알고 있으면서도 내가 알고 있는 일에 대해서는 아주 어린애예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0593",
+        "origin_text": "테이비가 당신을 어떻게 생각하고 있는지 난 알고 있어, 앤, 아무튼 그것만은 틀림없어.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.780029296875,
+          "file_duration": 6.280029296875,
+          "filename": "D-A2-F-003-0593.wav",
+          "ptr": "테이비가 당신을 어떻게 생각하고 있는지  /  난 알고 있어  /  앤  /  아무튼 그것만은 틀림없어.",
+          "tr": "테이비가 당신을 어떻게 생각하고 있는지 난 알고 있어, 앤, 아무튼 그것만은 틀림없어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0594",
+        "origin_text": "그 가련한 테이비에게 무슨 일이 일어날지, 너무나 잘 알고 있지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.280029296875,
+          "file_duration": 4.750014648437514,
+          "filename": "D-A2-F-003-0594.wav",
+          "ptr": "그 가련한 테이비에게  /  무슨 일이 일어날지  /  너무나 잘 알고 있지.",
+          "tr": "그 가련한 테이비에게 무슨 일이 일어날지, 너무나 잘 알고 있지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0595",
+        "origin_text": "저는 당신을 비웃어 주고 싶어요, 잭.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 1.89996337890625,
+          "file_duration": 2.359975585937491,
+          "filename": "D-A2-F-003-0595.wav",
+          "ptr": "저는 당신을 비웃어 주고 싶어요 잭.",
+          "tr": "저는 당신을 비웃어 주고 싶어요, 잭."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0596",
+        "origin_text": "상중만 아니라면 기억해 두세요, 테이비는 아주 불행해질 거예요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.27996826171875,
+          "file_duration": 4.829999999999984,
+          "filename": "D-A2-F-003-0596.wav",
+          "ptr": "상중만 아니라면 기억해 두세요  /  테이비는  /  아주 불행해질 거예요.",
+          "tr": "상중만 아니라면 기억해 두세요, 테이비는 아주 불행해질 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0597",
+        "origin_text": "가련하게도, 그 녀석은 당신보다 천 배나 좋은 인간이니까.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.5400390625,
+          "file_duration": 4.050029296874982,
+          "filename": "D-A2-F-003-0597.wav",
+          "ptr": "가련하게도  /  그 녀석은 당신보다 천 배나 좋은 인간이니까.",
+          "tr": "가련하게도, 그 녀석은 당신보다 천 배나 좋은 인간이니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0598",
+        "origin_text": "그 때문에 당신으로 인해서 일생을 망치려 하고 있지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.08001708984375,
+          "file_duration": 3.58001708984375,
+          "filename": "D-A2-F-003-0598.wav",
+          "ptr": "그 때문에 당신으로 인해서  /  일생을 망치려 하고 있지.",
+          "tr": "그 때문에 당신으로 인해서 일생을 망치려 하고 있지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0599",
+        "origin_text": "인간이란 사람이 지나치게 좋아서 실수하는 것보다 지나치게 영리해서 실수하는 일이 많아요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 6.05999755859375,
+          "file_duration": 6.529980468750011,
+          "filename": "D-A2-F-003-0599.wav",
+          "ptr": "인간이란  /  사람이 지나치게 좋아서 실수하는 것보다  /  지나치게 영리해서 실수하는 일이 많아요.",
+          "tr": "인간이란 사람이 지나치게 좋아서 실수하는 것보다 지나치게 영리해서 실수하는 일이 많아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-A2-F-003-0600",
+        "origin_text": "아, 당신이 그렇게 테이비를 좋아하고 있지 않는다는 건 나도 알고 있지.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.3699951171875,
+          "file_duration": 4.810024414062525,
+          "filename": "D-A2-F-003-0600.wav",
+          "ptr": "아  /  당신이 그렇게 테이비를 좋아하고 있지 않는다는 건 나도 알고 있지.",
+          "tr": "아, 당신이 그렇게 테이비를 좋아하고 있지 않는다는 건 나도 알고 있지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "F",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오6"
+    },
+    "voice": {
+      "duration": 320.9699546485261,
+      "filename": "/data2/gst-voice/splitted/D/003/D-A204-P12-F-003.wav",
+      "recorded_at": "2022-08-29 08:36:31",
+      "sample_rate": 44100
+    }
+  }
+]

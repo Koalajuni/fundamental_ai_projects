@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "D-S105-P15-C-048",
+    "import": {
+      "author": "외된 폰 호르바트(Ödön von Horváth)",
+      "book_title": "빈 숲속의 이야기(Geschichten aus dem Wiener Wald)",
+      "country": "독일",
+      "id": "D0022",
+      "publish_year": 2020,
+      "times_bg": "근대",
+      "title": "빈 숲속의 이야기(Geschichten aus dem Wiener Wald)",
+      "translator": "이원양"
+    },
+    "reciter": {
+      "age": 60,
+      "gender": "FEMALE",
+      "id": 48
+    },
+    "script": {
+      "chars_count": 251,
+      "id": "D-S105",
+      "normalized": [
+        "전쟁이 이 주만 더 계속되었으면 우리가 이겼을 거예요.",
+        "인간이 헤아릴 수 있는 한에서는.",
+        "틀림없어요.",
+        "내가 그랬나?",
+        "화났어?",
+        "무슨 일이 있었는데?",
+        "게다가 좋은 동지로 말이야.",
+        "당신은 여자가 아니라 몰라.",
+        "그렇지 않다면 내 감정을 달리 존중해 줄 텐데.",
+        "무슨 감정을?",
+        "아직도 남아 있어?",
+        "여자는 그리 쉽게 잊지 못해.",
+        "내 말은, 나를 합리적으로 사랑하느냐 이 말이야.",
+        "합리적으로?",
+        "분별 없는 짓은 하지 않겠지.",
+        "내가 그에 대한 책임을 질 수 없기 때문이야.",
+        "여보.",
+        "뭘?",
+        "내가 그 사람과 결혼하지 않으리라는 것을.",
+        "마리아네!",
+        "대체 왜 그래요?",
+        "나는 돈이 없어.",
+        "불꽃놀이요.",
+        "우리의 약혼을 축하하는 불꽃놀이."
+      ],
+      "origin": [
+        "전쟁이 2주만 더 계속되었으면 우리가 이겼을 거예요.",
+        "인간이 헤아릴 수 있는 한에서는...",
+        "틀림없어요.",
+        "내가 그랬나?",
+        "화났어?",
+        "무슨 일이 있었는데?",
+        "게다가 좋은 동지로 말이야.",
+        "당신은 여자가 아니라 몰라...",
+        "그렇지 않다면 내 감정을 달리 존중해 줄 텐데.",
+        "무슨 감정을?",
+        "아직도 남아 있어?",
+        "여자는 그리 쉽게 잊지 못해.",
+        "내 말은, 나를 합리적으로 사랑하느냐 이 말이야.",
+        "합리적으로?",
+        "분별 없는 짓은 하지 않겠지...",
+        "내가 그에 대한 책임을 질 수 없기 때문이야.",
+        "여보...",
+        "뭘?",
+        "내가 그 사람과 결혼하지 않으리라는 것을...",
+        "마리아네!",
+        "대체 왜 그래요?",
+        "나는 돈이 없어.",
+        "불꽃놀이요.",
+        "우리의 약혼을 축하하는 불꽃놀이."
+      ],
+      "part_no": 15,
+      "tokens_count": 87
+    },
+    "sentences": [
+      {
+        "id": "D-S1-C-048-0701",
+        "origin_text": "전쟁이 2주만 더 계속되었으면 우리가 이겼을 거예요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.300018310546875,
+          "file_duration": 4.800018310546875,
+          "filename": "D-S1-C-048-0701.wav",
+          "ptr": "전쟁이 이 주만 더 계속되었으면  /  우리가 이겼을 거예요.",
+          "tr": "전쟁이 이 주만 더 계속되었으면 우리가 이겼을 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0702",
+        "origin_text": "인간이 헤아릴 수 있는 한에서는...",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.3800048828125,
+          "file_duration": 2.8800048828125,
+          "filename": "D-S1-C-048-0702.wav",
+          "ptr": "인간이 헤아릴 수 있는 한에서는.",
+          "tr": "인간이 헤아릴 수 있는 한에서는."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0703",
+        "origin_text": "틀림없어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.079986572265625,
+          "file_duration": 1.579986572265625,
+          "filename": "D-S1-C-048-0703.wav",
+          "ptr": "틀림없어요.",
+          "tr": "틀림없어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0704",
+        "origin_text": "내가 그랬나?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.05999755859375,
+          "file_duration": 1.55999755859375,
+          "filename": "D-S1-C-048-0704.wav",
+          "ptr": "내가 그랬나?",
+          "tr": "내가 그랬나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0705",
+        "origin_text": "화났어?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.839996337890625,
+          "file_duration": 1.3199890136718757,
+          "filename": "D-S1-C-048-0705.wav",
+          "ptr": "화났어?",
+          "tr": "화났어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0706",
+        "origin_text": "무슨 일이 있었는데?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.620025634765625,
+          "file_duration": 2.120025634765625,
+          "filename": "D-S1-C-048-0706.wav",
+          "ptr": "무슨 일이 있었는데?",
+          "tr": "무슨 일이 있었는데?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0707",
+        "origin_text": "게다가 좋은 동지로 말이야.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.280029296875,
+          "file_duration": 2.780029296875,
+          "filename": "D-S1-C-048-0707.wav",
+          "ptr": "게다가 좋은 동지로 말이야.",
+          "tr": "게다가 좋은 동지로 말이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0708",
+        "origin_text": "당신은 여자가 아니라 몰라...",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.20001220703125,
+          "file_duration": 2.70001220703125,
+          "filename": "D-S1-C-048-0708.wav",
+          "ptr": "당신은 여자가 아니라 몰라.",
+          "tr": "당신은 여자가 아니라 몰라."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0709",
+        "origin_text": "그렇지 않다면 내 감정을 달리 존중해 줄 텐데.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "D-S1-C-048-0709.wav",
+          "ptr": "그렇지 않다면  /  내 감정을 달리 존중해 줄 텐데.",
+          "tr": "그렇지 않다면 내 감정을 달리 존중해 줄 텐데."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0710",
+        "origin_text": "무슨 감정을?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.29998779296875,
+          "file_duration": 1.79998779296875,
+          "filename": "D-S1-C-048-0710.wav",
+          "ptr": "무슨 감정을?",
+          "tr": "무슨 감정을?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0711",
+        "origin_text": "아직도 남아 있어?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.379974365234375,
+          "file_duration": 1.879974365234375,
+          "filename": "D-S1-C-048-0711.wav",
+          "ptr": "아직도 남아 있어?",
+          "tr": "아직도 남아 있어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0712",
+        "origin_text": "여자는 그리 쉽게 잊지 못해.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6600341796875,
+          "file_duration": 3.1600341796875,
+          "filename": "D-S1-C-048-0712.wav",
+          "ptr": "여자는 그리 쉽게 잊지 못해.",
+          "tr": "여자는 그리 쉽게 잊지 못해."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0713",
+        "origin_text": "내 말은, 나를 합리적으로 사랑하느냐 이 말이야.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.10003662109375,
+          "file_duration": 4.60003662109375,
+          "filename": "D-S1-C-048-0713.wav",
+          "ptr": "내 말은  /  나를 합리적으로 사랑하느냐 이 말이야.",
+          "tr": "내 말은, 나를 합리적으로 사랑하느냐 이 말이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0714",
+        "origin_text": "합리적으로?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.03997802734375,
+          "file_duration": 1.53997802734375,
+          "filename": "D-S1-C-048-0714.wav",
+          "ptr": "합리적으로?",
+          "tr": "합리적으로?"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0715",
+        "origin_text": "분별 없는 짓은 하지 않겠지...",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5799560546875,
+          "file_duration": 3.0799560546875,
+          "filename": "D-S1-C-048-0715.wav",
+          "ptr": "분별 없는 짓은 하지 않겠지.",
+          "tr": "분별 없는 짓은 하지 않겠지."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0716",
+        "origin_text": "내가 그에 대한 책임을 질 수 없기 때문이야.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.06005859375,
+          "file_duration": 3.56005859375,
+          "filename": "D-S1-C-048-0716.wav",
+          "ptr": "내가 그에 대한 책임을 질 수 없기 때문이야.",
+          "tr": "내가 그에 대한 책임을 질 수 없기 때문이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0717",
+        "origin_text": "여보...",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.67999267578125,
+          "file_duration": 1.17999267578125,
+          "filename": "D-S1-C-048-0717.wav",
+          "ptr": "여보.",
+          "tr": "여보."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0718",
+        "origin_text": "뭘?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.46002197265625,
+          "file_duration": 0.96002197265625,
+          "filename": "D-S1-C-048-0718.wav",
+          "ptr": "뭘?",
+          "tr": "뭘?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0719",
+        "origin_text": "내가 그 사람과 결혼하지 않으리라는 것을...",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "D-S1-C-048-0719.wav",
+          "ptr": "내가  /  그 사람과 결혼하지 않으리라는 것을.",
+          "tr": "내가 그 사람과 결혼하지 않으리라는 것을."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0720",
+        "origin_text": "마리아네!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.8399658203125,
+          "file_duration": 1.3199731445312466,
+          "filename": "D-S1-C-048-0720.wav",
+          "ptr": "마리아네!",
+          "tr": "마리아네!"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0721",
+        "origin_text": "대체 왜 그래요?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.5999755859375,
+          "file_duration": 2.0999755859375,
+          "filename": "D-S1-C-048-0721.wav",
+          "ptr": "대체 왜 그래요?",
+          "tr": "대체 왜 그래요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0722",
+        "origin_text": "나는 돈이 없어.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.52001953125,
+          "file_duration": 2.02001953125,
+          "filename": "D-S1-C-048-0722.wav",
+          "ptr": "나는 돈이 없어.",
+          "tr": "나는 돈이 없어."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0723",
+        "origin_text": "불꽃놀이요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.0999755859375,
+          "file_duration": 1.5999755859375,
+          "filename": "D-S1-C-048-0723.wav",
+          "ptr": "불꽃놀이요.",
+          "tr": "불꽃놀이요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S1-C-048-0724",
+        "origin_text": "우리의 약혼을 축하하는 불꽃놀이.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.77996826171875,
+          "file_duration": 3.1399804687499966,
+          "filename": "D-S1-C-048-0724.wav",
+          "ptr": "우리의 약혼을 축하하는 불꽃놀이.",
+          "tr": "우리의 약혼을 축하하는 불꽃놀이."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "C",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오3"
+    },
+    "voice": {
+      "duration": 105.8,
+      "filename": "/data2/gst-voice/splitted/D/048/D-S105-P15-C-048.wav",
+      "recorded_at": "2022-10-17 08:42:44",
+      "sample_rate": 44100
+    }
+  }
+]

@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-NX02-P04-A-063",
+    "import": {
+      "author": "프랑크 베데킨트",
+      "book_title": "눈뜨는 봄",
+      "country": "독일",
+      "id": "D0012",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "눈뜨는 봄",
+      "translator": "김미란"
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "MALE",
+      "id": 63
+    },
+    "script": {
+      "chars_count": 814,
+      "id": "D-NX02",
+      "normalized": [
+        "하지만 기쁨이 없다면 가지 않을 거지?",
+        "그런데 넌 그 대가로 천당에 가겠지?",
+        "한 달 전부터 날 못살게 군 생각이 맞았어!",
+        "아이고, 전혀 아무 느낌도 없는데!",
+        "너희 엄마는 그레트헨 이야기를 말씀하신 거야.",
+        "하지만 왜?",
+        "벌써 나갔다 오셨어요?",
+        "너 여기서 뭐 찾니?",
+        "뭐 찾느냐고?",
+        "그렇담 찾아봐도 소용없지.",
+        "너 또 어디를 헤매고 다녔니?",
+        "넌 배가 고파서 떨고 있는 거야, 넌 전혀 판단할 능력이 없어.",
+        "안돼, 내가 제안하지, 날 믿으라고, 내가 자네의 첫 출발을 보살펴 줄 테니.",
+        "뭐라고, 자 저녁 식어.",
+        "너 아버지가 죽기를 기도했잖아.",
+        "글쎄 형은 안 그래?",
+        "아무도 누굴 죽인 게 아냐, 뭔가가 있어.",
+        "글쎄, 가축들 물도 줘야 했고, 쟁기질도 해야 하고.",
+        "끼어들 시간이 없었다.",
+        "맞아, 글쎄, 이미 엎질러진 물이라면",
+        "사랑에 빠진 거냐?",
+        "돈이 진짜인지 확인할 때까지는.",
+        "그 여자 어떻게 생겼을 것 같아?",
+        "우리 새엄마 말이야.",
+        "생각 중이야, 너는 빨리 일하러 가.",
+        "너 탓이 아냐, 낯선 사람이 엄마의 자리를 차지하러 오면 나라도 같은 기분일 거야.",
+        "죽을 때 갖고 갈 수는 없잖아요.",
+        "아내는 내가 아냐, 아들이 나야.",
+        "헛간으로 가봐야겠어, 노인네가 의심이 나서 몰래 올지도 모르니까.",
+        "작별 인사야, 곧 떠날 거야.",
+        "생각해 봤는데, 아버지에게 아무 말도 안 할 거야.",
+        "그럴 필요 없어요, 이븐이 벌써 갔어요.",
+        "형들의 농장 소유권과 맞바꾸었어요.",
+        "캘리포니아로 가는 뱃삯을 내라고.",
+        "신분증 좀 봅시다, 증명 좀 봅시다.",
+        "이거면 됐지, 중이 증명이 뭐가 필요하오.",
+        "그렇소, 모두가 번뇌 덩어리요.",
+        "그냥 만행 중입니다.",
+        "사실은 나도 본 일이 없습니다.",
+        "단지 승복을 입고 망신을 당하는 게 딱해서",
+        "객승 문안입니다.",
+        "중이 술 마시는 게 아주 못마땅한 모양인데",
+        "자네 아직 멀었군, 중이 누구 보라고 도 닦나?",
+        "주지란 수도하는 사람들 뒷바라지나 하는 심부름꾼이지 벼슬이 아냐.",
+        "이 사바세계에 이유 있는 것은 아무것도 없다.",
+        "밀렵꾼들이 꿩 잡는 데 쓰는 청산가리야.",
+        "대신 이거나 자시고 떠나시지요.",
+        "공양준지 뭔지 행차하신다고 바깥이 시끄럽지?",
+        "그 자가 머잖아 국회의원인가 뭔가 출마를 할 모양인데, 당선만 되면 산신각을 새로 지어 준다는 거야.",
+        "그래서 앞으로 열흘 동안 당선 기원제를 올린다는구먼."
+      ],
+      "origin": [
+        "하지만 기쁨이 없다면 가지 않을 거지?",
+        "그런데 넌 그 대가로 천당에 가겠지?",
+        "한 달 전부터 날 못살게 군 생각이 맞았어!",
+        "아이고, 전혀 아무 느낌도 없는데!",
+        "너희 엄마는 그레트헨 이야기를 말씀하신 거야.",
+        "하지만 왜?",
+        "벌써 나갔다 오셨어요?",
+        "너 여기서 뭐 찾니?",
+        "뭐 찾느냐고?",
+        "그렇담 찾아봐도 소용없지.",
+        "너 또 어디를 헤매고 다녔니?",
+        "넌 배가 고파서 떨고 있는 거야, 넌 전혀 판단할 능력이 없어.",
+        "안돼, 내가 제안하지, 날 믿으라고, 내가 자네의 첫 출발을 보살펴 줄 테니.",
+        "뭐라고, 자 저녁 식어.",
+        "너 아버지가 죽기를 기도했잖아.",
+        "글쎄 형은 안 그래?",
+        "아무도 누굴 죽인 게 아냐, 뭔가가 있어.",
+        "글쎄, 가축들 물도 줘야 했고, 쟁기질도 해야 하고.",
+        "끼어들 시간이 없었다.",
+        "맞아, 글쎄, 이미 엎질러진 물이라면….",
+        "사랑에 빠진 거냐?",
+        "돈이 진짜인지 확인할 때까지는.",
+        "그 여자 어떻게 생겼을 것 같아?",
+        "우리 새엄마 말이야.",
+        "생각 중이야, 너는 빨리 일하러 가.",
+        "너 탓이 아냐, 낯선 사람이 엄마의 자리를 차지하러 오면 나라도 같은 기분일 거야.",
+        "죽을 때 갖고 갈 수는 없잖아요.",
+        "아내는 내가 아냐, 아들이 나야.",
+        "헛간으로 가봐야겠어, 노인네가 의심이 나서 몰래 올지도 모르니까.",
+        "작별 인사야, 곧 떠날 거야.",
+        "생각해 봤는데, 아버지에게 아무 말도 안 할 거야.",
+        "그럴 필요 없어요, 이븐이 벌써 갔어요.",
+        "형들의 농장 소유권과 맞바꾸었어요.",
+        "캘리포니아로 가는 뱃삯을 내라고.",
+        "신분증 좀 봅시다, 증명 좀 봅시다.",
+        "이거면 됐지, 중이 증명이 뭐가 필요하오.",
+        "그렇소, 모두가 번뇌 덩어리요.",
+        "그냥 만행 중입니다.",
+        "사실은 나도 본 일이 없습니다.",
+        "단지 승복을 입고 망신을 당하는 게 딱해서…",
+        "객승 문안입니다.",
+        "중이 술 마시는 게 아주 못마땅한 모양인데…",
+        "자네 아직 멀었군, 중이 누구 보라고 도 닦나?",
+        "주지란 수도하는 사람들 뒷바라지나 하는 심부름꾼이지 벼슬이 아냐.",
+        "이 사바세계에 이유 있는 것은 아무것도 없다.",
+        "밀렵꾼들이 꿩 잡는 데 쓰는 청산가리야.",
+        "대신 이거나 자시고 떠나시지요.",
+        "공양준지 뭔지 행차하신다고 바깥이 시끄럽지?",
+        "그 자가 머잖아 국회의원인가 뭔가 출마를 할 모양인데, 당선만 되면 산신각을 새로 지어 준다는 거야.",
+        "그래서 앞으로 열흘 동안 당선 기원제를 올린다는구먼."
+      ],
+      "part_no": 4,
+      "tokens_count": 289
+    },
+    "sentences": [
+      {
+        "id": "D-NX-A-063-0151",
+        "origin_text": "하지만 기쁨이 없다면 가지 않을 거지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5200002193450928,
+          "file_duration": 3.0200002193450928,
+          "filename": "D-NX-A-063-0151.wav",
+          "ptr": "하지만 기쁨이 없다면 가지 않을 거지?",
+          "tr": "하지만 기쁨이 없다면 가지 않을 거지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0152",
+        "origin_text": "그런데 넌 그 대가로 천당에 가겠지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.619999885559082,
+          "file_duration": 3.119999885559082,
+          "filename": "D-NX-A-063-0152.wav",
+          "ptr": "그런데  /  넌 그 대가로 천당에 가겠지?",
+          "tr": "그런데 넌 그 대가로 천당에 가겠지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0153",
+        "origin_text": "한 달 전부터 날 못살게 군 생각이 맞았어!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.840001106262207,
+          "file_duration": 3.340001106262207,
+          "filename": "D-NX-A-063-0153.wav",
+          "ptr": "한 달 전부터 날 못살게 군 생각이 맞았어!",
+          "tr": "한 달 전부터 날 못살게 군 생각이 맞았어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0154",
+        "origin_text": "아이고, 전혀 아무 느낌도 없는데!",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1800003051757812,
+          "file_duration": 2.6800003051757812,
+          "filename": "D-NX-A-063-0154.wav",
+          "ptr": "아이고  /  전혀 아무 느낌도 없는데!",
+          "tr": "아이고, 전혀 아무 느낌도 없는데!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0155",
+        "origin_text": "너희 엄마는 그레트헨 이야기를 말씀하신 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6599998474121094,
+          "file_duration": 3.1599998474121094,
+          "filename": "D-NX-A-063-0155.wav",
+          "ptr": "너희 엄마는 그레트헨 이야기를 말씀하신 거야.",
+          "tr": "너희 엄마는 그레트헨 이야기를 말씀하신 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0156",
+        "origin_text": "하지만 왜?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.7399997711181641,
+          "file_duration": 1.239999771118164,
+          "filename": "D-NX-A-063-0156.wav",
+          "ptr": "하지만 왜?",
+          "tr": "하지만 왜?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0157",
+        "origin_text": "벌써 나갔다 오셨어요?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3600006103515625,
+          "file_duration": 1.8600006103515625,
+          "filename": "D-NX-A-063-0157.wav",
+          "ptr": "벌써 나갔다 오셨어요?",
+          "tr": "벌써 나갔다 오셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0158",
+        "origin_text": "너 여기서 뭐 찾니?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1599998474121094,
+          "file_duration": 1.6599998474121094,
+          "filename": "D-NX-A-063-0158.wav",
+          "ptr": "너 여기서 뭐 찾니?",
+          "tr": "너 여기서 뭐 찾니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0159",
+        "origin_text": "뭐 찾느냐고?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.8400001525878906,
+          "file_duration": 1.3400001525878906,
+          "filename": "D-NX-A-063-0159.wav",
+          "ptr": "뭐 찾느냐고?",
+          "tr": "뭐 찾느냐고?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0160",
+        "origin_text": "그렇담 찾아봐도 소용없지.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8600006103515625,
+          "file_duration": 2.3600006103515625,
+          "filename": "D-NX-A-063-0160.wav",
+          "ptr": "그렇담 찾아봐도 소용없지.",
+          "tr": "그렇담 찾아봐도 소용없지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0161",
+        "origin_text": "너 또 어디를 헤매고 다녔니?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.7400016784667969,
+          "file_duration": 2.240001678466797,
+          "filename": "D-NX-A-063-0161.wav",
+          "ptr": "너 또 어디를 헤매고 다녔니?",
+          "tr": "너 또 어디를 헤매고 다녔니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0162",
+        "origin_text": "넌 배가 고파서 떨고 있는 거야, 넌 전혀 판단할 능력이 없어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.219997406005859,
+          "file_duration": 4.719997406005859,
+          "filename": "D-NX-A-063-0162.wav",
+          "ptr": "넌 배가 고파서 떨고 있는 거야  /  넌 전혀 판단할 능력이 없어.",
+          "tr": "넌 배가 고파서 떨고 있는 거야, 넌 전혀 판단할 능력이 없어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0163",
+        "origin_text": "안돼, 내가 제안하지, 날 믿으라고, 내가 자네의 첫 출발을 보살펴 줄 테니.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.299999237060547,
+          "file_duration": 5.799999237060547,
+          "filename": "D-NX-A-063-0163.wav",
+          "ptr": "안돼  /  내가 제안하지  /  날 믿으라고  /  내가 자네의 첫 출발을 보살펴 줄 테니.",
+          "tr": "안돼, 내가 제안하지, 날 믿으라고, 내가 자네의 첫 출발을 보살펴 줄 테니."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0164",
+        "origin_text": "뭐라고, 자 저녁 식어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9000015258789062,
+          "file_duration": 2.4000015258789062,
+          "filename": "D-NX-A-063-0164.wav",
+          "ptr": "뭐라고  /  자 저녁 식어.",
+          "tr": "뭐라고, 자 저녁 식어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0165",
+        "origin_text": "너 아버지가 죽기를 기도했잖아.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.660003662109375,
+          "file_duration": 2.160003662109375,
+          "filename": "D-NX-A-063-0165.wav",
+          "ptr": "너 아버지가 죽기를 기도했잖아.",
+          "tr": "너 아버지가 죽기를 기도했잖아."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0166",
+        "origin_text": "글쎄 형은 안 그래?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3600006103515625,
+          "file_duration": 1.8600006103515625,
+          "filename": "D-NX-A-063-0166.wav",
+          "ptr": "글쎄  /  형은 안 그래?",
+          "tr": "글쎄 형은 안 그래?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0167",
+        "origin_text": "아무도 누굴 죽인 게 아냐, 뭔가가 있어.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6200027465820312,
+          "file_duration": 3.1200027465820312,
+          "filename": "D-NX-A-063-0167.wav",
+          "ptr": "아무도 누굴 죽인 게 아냐  /  뭔가가 있어.",
+          "tr": "아무도 누굴 죽인 게 아냐, 뭔가가 있어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0168",
+        "origin_text": "글쎄, 가축들 물도 줘야 했고, 쟁기질도 해야 하고.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.7399978637695312,
+          "file_duration": 4.239997863769531,
+          "filename": "D-NX-A-063-0168.wav",
+          "ptr": "글쎄  /  가축들 물도 줘야 했고 쟁기질도 해야 하고.",
+          "tr": "글쎄, 가축들 물도 줘야 했고, 쟁기질도 해야 하고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0169",
+        "origin_text": "끼어들 시간이 없었다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3000030517578125,
+          "file_duration": 1.8000030517578125,
+          "filename": "D-NX-A-063-0169.wav",
+          "ptr": "끼어들 시간이 없었다.",
+          "tr": "끼어들 시간이 없었다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0170",
+        "origin_text": "맞아, 글쎄, 이미 엎질러진 물이라면….",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.399993896484375,
+          "file_duration": 3.899993896484375,
+          "filename": "D-NX-A-063-0170.wav",
+          "ptr": "맞아  /  글쎄  /  이미 엎질러진 물이라면",
+          "tr": "맞아, 글쎄, 이미 엎질러진 물이라면"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0171",
+        "origin_text": "사랑에 빠진 거냐?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.0199966430664062,
+          "file_duration": 1.5199966430664062,
+          "filename": "D-NX-A-063-0171.wav",
+          "ptr": "사랑에 빠진 거냐?",
+          "tr": "사랑에 빠진 거냐?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0172",
+        "origin_text": "돈이 진짜인지 확인할 때까지는.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.899993896484375,
+          "file_duration": 2.399993896484375,
+          "filename": "D-NX-A-063-0172.wav",
+          "ptr": "돈이 진짜인지 확인할 때까지는.",
+          "tr": "돈이 진짜인지 확인할 때까지는."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0173",
+        "origin_text": "그 여자 어떻게 생겼을 것 같아?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9199981689453125,
+          "file_duration": 2.4199981689453125,
+          "filename": "D-NX-A-063-0173.wav",
+          "ptr": "그 여자 어떻게 생겼을 것 같아?",
+          "tr": "그 여자 어떻게 생겼을 것 같아?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0174",
+        "origin_text": "우리 새엄마 말이야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 0.9599990844726562,
+          "file_duration": 1.4599990844726562,
+          "filename": "D-NX-A-063-0174.wav",
+          "ptr": "우리 새엄마 말이야.",
+          "tr": "우리 새엄마 말이야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0175",
+        "origin_text": "생각 중이야, 너는 빨리 일하러 가.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.0199966430664062,
+          "file_duration": 2.5199966430664062,
+          "filename": "D-NX-A-063-0175.wav",
+          "ptr": "생각 중이야  /  너는 빨리 일하러 가.",
+          "tr": "생각 중이야, 너는 빨리 일하러 가."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0176",
+        "origin_text": "너 탓이 아냐, 낯선 사람이 엄마의 자리를 차지하러 오면 나라도 같은 기분일 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.339996337890625,
+          "file_duration": 5.839996337890625,
+          "filename": "D-NX-A-063-0176.wav",
+          "ptr": "너 탓이 아냐  /  낯선 사람이 엄마의 자리를 차지하러 오면  /  나라도 같은 기분일 거야.",
+          "tr": "너 탓이 아냐, 낯선 사람이 엄마의 자리를 차지하러 오면 나라도 같은 기분일 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0177",
+        "origin_text": "죽을 때 갖고 갈 수는 없잖아요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.7800140380859375,
+          "file_duration": 2.2800140380859375,
+          "filename": "D-NX-A-063-0177.wav",
+          "ptr": "죽을 때 갖고 갈 수는 없잖아요.",
+          "tr": "죽을 때 갖고 갈 수는 없잖아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0178",
+        "origin_text": "아내는 내가 아냐, 아들이 나야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.160003662109375,
+          "file_duration": 2.660003662109375,
+          "filename": "D-NX-A-063-0178.wav",
+          "ptr": "아내는 내가 아냐  /  아들이 나야.",
+          "tr": "아내는 내가 아냐, 아들이 나야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0179",
+        "origin_text": "헛간으로 가봐야겠어, 노인네가 의심이 나서 몰래 올지도 모르니까.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.3000030517578125,
+          "file_duration": 4.8000030517578125,
+          "filename": "D-NX-A-063-0179.wav",
+          "ptr": "헛간으로 가봐야겠어  /  노인네가 의심이 나서 몰래 올지도 모르니까.",
+          "tr": "헛간으로 가봐야겠어, 노인네가 의심이 나서 몰래 올지도 모르니까."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0180",
+        "origin_text": "작별 인사야, 곧 떠날 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.6999969482421875,
+          "file_duration": 2.1999969482421875,
+          "filename": "D-NX-A-063-0180.wav",
+          "ptr": "작별 인사야  /  곧 떠날 거야.",
+          "tr": "작별 인사야, 곧 떠날 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0181",
+        "origin_text": "생각해 봤는데, 아버지에게 아무 말도 안 할 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8800048828125,
+          "file_duration": 3.3800048828125,
+          "filename": "D-NX-A-063-0181.wav",
+          "ptr": "생각해 봤는데  /  아버지에게 아무 말도 안 할 거야.",
+          "tr": "생각해 봤는데, 아버지에게 아무 말도 안 할 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0182",
+        "origin_text": "그럴 필요 없어요, 이븐이 벌써 갔어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.339996337890625,
+          "file_duration": 2.839996337890625,
+          "filename": "D-NX-A-063-0182.wav",
+          "ptr": "그럴 필요 없어요  /  이븐이 벌써 갔어요.",
+          "tr": "그럴 필요 없어요, 이븐이 벌써 갔어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0183",
+        "origin_text": "형들의 농장 소유권과 맞바꾸었어요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.260009765625,
+          "file_duration": 2.760009765625,
+          "filename": "D-NX-A-063-0183.wav",
+          "ptr": "형들의 농장 소유권과 맞바꾸었어요.",
+          "tr": "형들의 농장 소유권과 맞바꾸었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0184",
+        "origin_text": "캘리포니아로 가는 뱃삯을 내라고.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8800048828125,
+          "file_duration": 2.3800048828125,
+          "filename": "D-NX-A-063-0184.wav",
+          "ptr": "캘리포니아로 가는 뱃삯을 내라고.",
+          "tr": "캘리포니아로 가는 뱃삯을 내라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0185",
+        "origin_text": "신분증 좀 봅시다, 증명 좀 봅시다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5200042724609375,
+          "file_duration": 3.0200042724609375,
+          "filename": "D-NX-A-063-0185.wav",
+          "ptr": "신분증 좀 봅시다  /  증명 좀 봅시다.",
+          "tr": "신분증 좀 봅시다, 증명 좀 봅시다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0186",
+        "origin_text": "이거면 됐지, 중이 증명이 뭐가 필요하오.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5,
+          "file_duration": 3,
+          "filename": "D-NX-A-063-0186.wav",
+          "ptr": "이거면 됐지  /  중이 증명이 뭐가 필요하오.",
+          "tr": "이거면 됐지, 중이 증명이 뭐가 필요하오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0187",
+        "origin_text": "그렇소, 모두가 번뇌 덩어리요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.05999755859375,
+          "file_duration": 2.55999755859375,
+          "filename": "D-NX-A-063-0187.wav",
+          "ptr": "그렇소  /  모두가 번뇌 덩어리요.",
+          "tr": "그렇소, 모두가 번뇌 덩어리요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0188",
+        "origin_text": "그냥 만행 중입니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.279998779296875,
+          "file_duration": 1.779998779296875,
+          "filename": "D-NX-A-063-0188.wav",
+          "ptr": "그냥 만행 중입니다.",
+          "tr": "그냥 만행 중입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0189",
+        "origin_text": "사실은 나도 본 일이 없습니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.660003662109375,
+          "file_duration": 2.160003662109375,
+          "filename": "D-NX-A-063-0189.wav",
+          "ptr": "사실은 나도 본 일이 없습니다.",
+          "tr": "사실은 나도 본 일이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0190",
+        "origin_text": "단지 승복을 입고 망신을 당하는 게 딱해서…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.540008544921875,
+          "file_duration": 3.040008544921875,
+          "filename": "D-NX-A-063-0190.wav",
+          "ptr": "단지 승복을 입고 망신을 당하는 게 딱해서",
+          "tr": "단지 승복을 입고 망신을 당하는 게 딱해서"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0191",
+        "origin_text": "객승 문안입니다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.1200103759765625,
+          "file_duration": 1.6200103759765625,
+          "filename": "D-NX-A-063-0191.wav",
+          "ptr": "객승 문안입니다.",
+          "tr": "객승 문안입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0192",
+        "origin_text": "중이 술 마시는 게 아주 못마땅한 모양인데…",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6399993896484375,
+          "file_duration": 3.1399993896484375,
+          "filename": "D-NX-A-063-0192.wav",
+          "ptr": "중이 술 마시는 게 아주 못마땅한 모양인데",
+          "tr": "중이 술 마시는 게 아주 못마땅한 모양인데"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0193",
+        "origin_text": "자네 아직 멀었군, 중이 누구 보라고 도 닦나?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8799896240234375,
+          "file_duration": 3.3799896240234375,
+          "filename": "D-NX-A-063-0193.wav",
+          "ptr": "자네 아직 멀었군  /  중이 누구 보라고 도 닦나?",
+          "tr": "자네 아직 멀었군, 중이 누구 보라고 도 닦나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0194",
+        "origin_text": "주지란 수도하는 사람들 뒷바라지나 하는 심부름꾼이지 벼슬이 아냐.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.4600067138671875,
+          "file_duration": 4.9600067138671875,
+          "filename": "D-NX-A-063-0194.wav",
+          "ptr": "주지란  /  수도하는 사람들 뒷바라지나 하는 심부름꾼이지  /  벼슬이 아냐.",
+          "tr": "주지란 수도하는 사람들 뒷바라지나 하는 심부름꾼이지 벼슬이 아냐."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0195",
+        "origin_text": "이 사바세계에 이유 있는 것은 아무것도 없다.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8000030517578125,
+          "file_duration": 3.3000030517578125,
+          "filename": "D-NX-A-063-0195.wav",
+          "ptr": "이 사바세계에 이유 있는 것은 아무것도 없다.",
+          "tr": "이 사바세계에 이유 있는 것은 아무것도 없다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0196",
+        "origin_text": "밀렵꾼들이 꿩 잡는 데 쓰는 청산가리야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.4199981689453125,
+          "file_duration": 2.9199981689453125,
+          "filename": "D-NX-A-063-0196.wav",
+          "ptr": "밀렵꾼들이 꿩 잡는 데 쓰는 청산가리야.",
+          "tr": "밀렵꾼들이 꿩 잡는 데 쓰는 청산가리야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0197",
+        "origin_text": "대신 이거나 자시고 떠나시지요.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1199951171875,
+          "file_duration": 2.6199951171875,
+          "filename": "D-NX-A-063-0197.wav",
+          "ptr": "대신  /  이거나 자시고 떠나시지요.",
+          "tr": "대신 이거나 자시고 떠나시지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0198",
+        "origin_text": "공양준지 뭔지 행차하신다고 바깥이 시끄럽지?",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.160003662109375,
+          "file_duration": 3.660003662109375,
+          "filename": "D-NX-A-063-0198.wav",
+          "ptr": "공양준지 뭔지 행차하신다고 바깥이 시끄럽지?",
+          "tr": "공양준지 뭔지 행차하신다고 바깥이 시끄럽지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0199",
+        "origin_text": "그 자가 머잖아 국회의원인가 뭔가 출마를 할 모양인데, 당선만 되면 산신각을 새로 지어 준다는 거야.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.5800018310546875,
+          "file_duration": 7.0800018310546875,
+          "filename": "D-NX-A-063-0199.wav",
+          "ptr": "그 자가 머잖아 국회의원인가 뭔가 출마를 할 모양인데  /  당선만 되면 산신각을 새로 지어 준다는 거야.",
+          "tr": "그 자가 머잖아 국회의원인가 뭔가 출마를 할 모양인데, 당선만 되면 산신각을 새로 지어 준다는 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-NX-A-063-0200",
+        "origin_text": "그래서 앞으로 열흘 동안 당선 기원제를 올린다는구먼.",
+        "style": {
+          "emotion": "무감정",
+          "intensity": 0,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.5800018310546875,
+          "file_duration": 4.0800018310546875,
+          "filename": "D-NX-A-063-0200.wav",
+          "ptr": "그래서 앞으로 열흘 동안 당선 기원제를 올린다는구먼.",
+          "tr": "그래서 앞으로 열흘 동안 당선 기원제를 올린다는구먼."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "A",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오1"
+    },
+    "voice": {
+      "duration": 251.9,
+      "filename": "/data2/gst-voice/splitted/D/063/D-NX02-P04-A-063.wav",
+      "recorded_at": "2022-09-20 09:07:22",
+      "sample_rate": 44100
+    }
+  }
+]

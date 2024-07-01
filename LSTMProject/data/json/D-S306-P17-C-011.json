@@ -1,0 +1,423 @@
+[
+  {
+    "id": "D-S306-P17-C-011",
+    "import": {
+      "author": "조지 버나드 쇼",
+      "book_title": "캔디다",
+      "country": "영국",
+      "id": "D0056",
+      "publish_year": 2020,
+      "times_bg": "근대",
+      "title": "캔디다",
+      "translator": "임성균"
+    },
+    "reciter": {
+      "age": 30,
+      "gender": "MALE",
+      "id": 11
+    },
+    "script": {
+      "chars_count": 215,
+      "id": "D-S306",
+      "normalized": [
+        "나는 믿고 바라요, 악한 생각은 안 할 거라고.",
+        "그야말로 홈통의 문제지요, 우리들의 비밀과 관련된 것이에요!",
+        "종말의 시작이에요, 당신에게 미리 알리려고 잠깐 빠져나온 거예요.",
+        "하지만 어쩔 수 없게 될까 봐 두려워요",
+        "뭐라고, 도대체 무슨 일이지?",
+        "꼬마 틸틸에 대해 당신에게 전에 말한 적이 있잖아요, 그 나무꾼 아들 말이에요, 그리고 요술 다이아몬드에 대해서도.",
+        "그런데 그 애가 이리로 오고 있어요, 당신에게 파랑새를 요구하기 위해서",
+        "아직 파랑새를 찾지 못했구나",
+        "곧 찾을 거예요, 우리가 어떤 기적을 행하지 않으면"
+      ],
+      "origin": [
+        "나는 믿고 바라요, 악한 생각은 안 할 거라고.",
+        "그야말로 홈통의 문제지요, 우리들의 비밀과 관련된 것이에요!",
+        "종말의 시작이에요, 당신에게 미리 알리려고 잠깐 빠져나온 거예요.",
+        "하지만 어쩔 수 없게 될까 봐 두려워요…",
+        "뭐라고, 도대체 무슨 일이지?",
+        "꼬마 틸틸에 대해 당신에게 전에 말한 적이 있잖아요, 그 나무꾼 아들 말이에요, 그리고 요술 다이아몬드에 대해서도.",
+        "그런데 그 애가 이리로 오고 있어요, 당신에게 파랑새를 요구하기 위해서…",
+        "아직 파랑새를 찾지 못했구나…",
+        "곧 찾을 거예요, 우리가 어떤 기적을 행하지 않으면…"
+      ],
+      "part_no": 17,
+      "tokens_count": 72
+    },
+    "sentences": [
+      {
+        "id": "D-S3-C-011-0801",
+        "origin_text": "나는 믿고 바라요, 악한 생각은 안 할 거라고.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.839996337890625,
+          "file_duration": 4.339996337890625,
+          "filename": "D-S3-C-011-0801.wav",
+          "ptr": "나는 믿고 바라요  /  악한 생각은 안 할 거라고.",
+          "tr": "나는 믿고 바라요, 악한 생각은 안 할 거라고."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0802",
+        "origin_text": "그야말로 홈통의 문제지요, 우리들의 비밀과 관련된 것이에요!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.019989013671875,
+          "file_duration": 5.519989013671875,
+          "filename": "D-S3-C-011-0802.wav",
+          "ptr": "그야말로 홈통의 문제지요  /  우리들의 비밀과 관련된 것이에요!",
+          "tr": "그야말로 홈통의 문제지요, 우리들의 비밀과 관련된 것이에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0803",
+        "origin_text": "종말의 시작이에요, 당신에게 미리 알리려고 잠깐 빠져나온 거예요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.58001708984375,
+          "file_duration": 6.08001708984375,
+          "filename": "D-S3-C-011-0803.wav",
+          "ptr": "종말의 시작이에요  /  당신에게  /  미리 알리려고 잠깐 빠져나온 거예요.",
+          "tr": "종말의 시작이에요, 당신에게 미리 알리려고 잠깐 빠져나온 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0804",
+        "origin_text": "하지만 어쩔 수 없게 될까 봐 두려워요…",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.46002197265625,
+          "file_duration": 2.96002197265625,
+          "filename": "D-S3-C-011-0804.wav",
+          "ptr": "하지만 어쩔 수 없게 될까 봐 두려워요",
+          "tr": "하지만 어쩔 수 없게 될까 봐 두려워요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0805",
+        "origin_text": "뭐라고, 도대체 무슨 일이지?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.8800048828125,
+          "file_duration": 3.3800048828125,
+          "filename": "D-S3-C-011-0805.wav",
+          "ptr": "뭐라고  /  도대체 무슨 일이지?",
+          "tr": "뭐라고, 도대체 무슨 일이지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0806",
+        "origin_text": "꼬마 틸틸에 대해 당신에게 전에 말한 적이 있잖아요, 그 나무꾼 아들 말이에요, 그리고 요술 다이아몬드에 대해서도.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 10.44000244140625,
+          "file_duration": 10.94000244140625,
+          "filename": "D-S3-C-011-0806.wav",
+          "ptr": "꼬마 틸틸에 대해  /  당신에게 전에 말한 적이 있잖아요  /  그 나무꾼 아들 말이에요  /  그리고  /  요술 다이아몬드에 대해서도.",
+          "tr": "꼬마 틸틸에 대해 당신에게 전에 말한 적이 있잖아요, 그 나무꾼 아들 말이에요, 그리고 요술 다이아몬드에 대해서도."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0807",
+        "origin_text": "그런데 그 애가 이리로 오고 있어요, 당신에게 파랑새를 요구하기 위해서…",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.46002197265625,
+          "file_duration": 5.96002197265625,
+          "filename": "D-S3-C-011-0807.wav",
+          "ptr": "그런데 그 애가 이리로 오고 있어요  /  당신에게 파랑새를 요구하기 위해서",
+          "tr": "그런데 그 애가 이리로 오고 있어요, 당신에게 파랑새를 요구하기 위해서"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0808",
+        "origin_text": "아직 파랑새를 찾지 못했구나…",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.05999755859375,
+          "file_duration": 2.55999755859375,
+          "filename": "D-S3-C-011-0808.wav",
+          "ptr": "아직 파랑새를 찾지 못했구나",
+          "tr": "아직 파랑새를 찾지 못했구나"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S3-C-011-0809",
+        "origin_text": "곧 찾을 거예요, 우리가 어떤 기적을 행하지 않으면…",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.44000244140625,
+          "file_duration": 4.690015869140623,
+          "filename": "D-S3-C-011-0809.wav",
+          "ptr": "곧 찾을 거예요  /  우리가 어떤 기적을 행하지 않으면",
+          "tr": "곧 찾을 거예요, 우리가 어떤 기적을 행하지 않으면"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "C",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오3"
+    },
+    "voice": {
+      "duration": 71.57997732426304,
+      "filename": "/data2/gst-voice/splitted/D/011/D-S306-P17-C-011.wav",
+      "recorded_at": "2022-09-02 06:17:20",
+      "sample_rate": 44100
+    }
+  }
+]

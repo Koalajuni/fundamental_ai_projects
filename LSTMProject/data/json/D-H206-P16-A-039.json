@@ -1,0 +1,759 @@
+[
+  {
+    "id": "D-H206-P16-A-039",
+    "import": {
+      "author": "모리스 마테를링크(Maurice Maeterlinck)",
+      "book_title": "파랑새(L'Oiseau bleu)",
+      "country": "벨기에",
+      "id": "D0057",
+      "publish_year": 2019,
+      "times_bg": "근대",
+      "title": "파랑새(L'Oiseau bleu)",
+      "translator": "이용복"
+    },
+    "reciter": {
+      "age": 50,
+      "gender": "FEMALE",
+      "id": 39
+    },
+    "script": {
+      "chars_count": 398,
+      "id": "D-H206",
+      "normalized": [
+        "그 손이 널 어루만지자마자 손이 아주 뽀얗게 되고 빛으로 가득 차는 것을 보지 못했니?",
+        "각각의 아이는 단 하나의 어머니만 있어, 그리고 언제나 같은 어머니이고 언제나 가장 아름다운 어머니야.",
+        "난 그녀를 전혀 본 적이 없는데 그녀가 널 몹시 사랑하고 또 매우 친절하다는 얘기를 들었어",
+        "우리가 그녀만을 기다리고 있다는 것을 모르다니!",
+        "분명 그 새는 파랄 거예요, 여기서는 모든 것이 파란색이니까요",
+        "아니야, 저 애들은 웃고 있어, 하지만 놀라고 있지",
+        "더 많이 있어, 우린 그들을 다 볼 수는 없어",
+        "생각 좀 해 봐, 마지막 때를 채울 사람들이 있어야 하잖아",
+        "아무도 이들의 숫자를 셀 수는 없을 거야",
+        "정확히는 몰라, 우린 보호자들이라고 생각하지",
+        "인간들 다음에 이들이 지구에 올 거라고 말하기도 해, 하지만 그들에게 물어보는 건 허락되지 않았단다",
+        "다른 사람들, 아이들에게는 말을 걸 수 있나요?",
+        "그럼, 서로 알아야지",
+        "이런, 다른 아이들보다 좀 더 호기심이 많은 아이가 있군",
+        "다가가서 그에게 말을 해 봐라",
+        "네가 하고 싶은 대로, 마치 친구에게 하듯이",
+        "그럼, 너한테 해를 끼치지 않을 거야"
+      ],
+      "origin": [
+        "그 손이 널 어루만지자마자 손이 아주 뽀얗게 되고 빛으로 가득 차는 것을 보지 못했니?",
+        "각각의 아이는 단 하나의 어머니만 있어, 그리고 언제나 같은 어머니이고 언제나 가장 아름다운 어머니야.",
+        "난 그녀를 전혀 본 적이 없는데 그녀가 널 몹시 사랑하고 또 매우 친절하다는 얘기를 들었어…",
+        "우리가 그녀만을 기다리고 있다는 것을 모르다니!",
+        "분명 그 새는 파랄 거예요, 여기서는 모든 것이 파란색이니까요…",
+        "아니야, 저 애들은 웃고 있어, 하지만 놀라고 있지…",
+        "더 많이 있어, 우린 그들을 다 볼 수는 없어…",
+        "생각 좀 해 봐, 마지막 때를 채울 사람들이 있어야 하잖아…",
+        "아무도 이들의 숫자를 셀 수는 없을 거야…",
+        "정확히는 몰라, 우린 보호자들이라고 생각하지…",
+        "인간들 다음에 이들이 지구에 올 거라고 말하기도 해, 하지만 그들에게 물어보는 건 허락되지 않았단다…",
+        "다른 사람들, 아이들에게는 말을 걸 수 있나요?",
+        "그럼, 서로 알아야지…",
+        "이런, 다른 아이들보다 좀 더 호기심이 많은 아이가 있군…",
+        "다가가서 그에게 말을 해 봐라…",
+        "네가 하고 싶은 대로, 마치 친구에게 하듯이…",
+        "그럼, 너한테 해를 끼치지 않을 거야…"
+      ],
+      "part_no": 16,
+      "tokens_count": 148
+    },
+    "sentences": [
+      {
+        "id": "D-H2-A-039-0751",
+        "origin_text": "그 손이 널 어루만지자마자 손이 아주 뽀얗게 되고 빛으로 가득 차는 것을 보지 못했니?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 8.839999437332153,
+          "file_duration": 9.280000000000001,
+          "filename": "D-H2-A-039-0751.wav",
+          "ptr": "그 손이 널 어루만지자마자  /  손이 아주  /  뽀얗게 되고  /  빛으로 가득 차는 것을  /  보지 못했니?",
+          "tr": "그 손이 널 어루만지자마자 손이 아주 뽀얗게 되고 빛으로 가득 차는 것을 보지 못했니?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0752",
+        "origin_text": "각각의 아이는 단 하나의 어머니만 있어, 그리고 언제나 같은 어머니이고 언제나 가장 아름다운 어머니야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 10.74000072479248,
+          "file_duration": 11.200000066757202,
+          "filename": "D-H2-A-039-0752.wav",
+          "ptr": "각각의 아이는  /  단 하나의 어머니만 있어  /  그리고  /  언제나 같은 어머니이고  /  언제나 가장  /  아름다운 어머니야.",
+          "tr": "각각의 아이는 단 하나의 어머니만 있어, 그리고 언제나 같은 어머니이고 언제나 가장 아름다운 어머니야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0753",
+        "origin_text": "난 그녀를 전혀 본 적이 없는데 그녀가 널 몹시 사랑하고 또 매우 친절하다는 얘기를 들었어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 9.520000457763672,
+          "file_duration": 10.069999895095826,
+          "filename": "D-H2-A-039-0753.wav",
+          "ptr": "난 그녀를 전혀 본 적이 없는데  /  그녀가  /  널 몹시  /  사랑하고  /  또 매우 친절하다는 얘기를 들었어",
+          "tr": "난 그녀를 전혀 본 적이 없는데 그녀가 널 몹시 사랑하고 또 매우 친절하다는 얘기를 들었어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0754",
+        "origin_text": "우리가 그녀만을 기다리고 있다는 것을 모르다니!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.44000244140625,
+          "file_duration": 3.9800014209747303,
+          "filename": "D-H2-A-039-0754.wav",
+          "ptr": "우리가 그녀만을 기다리고 있다는 것을 모르다니!",
+          "tr": "우리가 그녀만을 기다리고 있다는 것을 모르다니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0755",
+        "origin_text": "분명 그 새는 파랄 거예요, 여기서는 모든 것이 파란색이니까요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 7.060001373291016,
+          "file_duration": 7.560001373291016,
+          "filename": "D-H2-A-039-0755.wav",
+          "ptr": "분명 그 새는  /  파랄 거예요  /  여기서는  /  모든 것이  /  파란색이니까요",
+          "tr": "분명 그 새는 파랄 거예요, 여기서는 모든 것이 파란색이니까요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0756",
+        "origin_text": "아니야, 저 애들은 웃고 있어, 하지만 놀라고 있지…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.720001220703125,
+          "file_duration": 6.220001220703125,
+          "filename": "D-H2-A-039-0756.wav",
+          "ptr": "아니야  /  저 애들은 웃고 있어  /  하지만 놀라고 있지",
+          "tr": "아니야, 저 애들은 웃고 있어, 하지만 놀라고 있지"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0757",
+        "origin_text": "더 많이 있어, 우린 그들을 다 볼 수는 없어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.680000305175781,
+          "file_duration": 5.210002336502072,
+          "filename": "D-H2-A-039-0757.wav",
+          "ptr": "더 많이 있어  /  우린  /  그들을 다 볼 수는 없어",
+          "tr": "더 많이 있어, 우린 그들을 다 볼 수는 없어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0758",
+        "origin_text": "생각 좀 해 봐, 마지막 때를 채울 사람들이 있어야 하잖아…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.649997453689579,
+          "filename": "D-H2-A-039-0758.wav",
+          "ptr": "생각 좀 해 봐  /  마지막 때를 채울 사람들이 있어야 하잖아",
+          "tr": "생각 좀 해 봐, 마지막 때를 채울 사람들이 있어야 하잖아"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0759",
+        "origin_text": "아무도 이들의 숫자를 셀 수는 없을 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.4599990844726562,
+          "file_duration": 3.9599990844726562,
+          "filename": "D-H2-A-039-0759.wav",
+          "ptr": "아무도  /  이들의 숫자를 셀 수는 없을 거야",
+          "tr": "아무도 이들의 숫자를 셀 수는 없을 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0760",
+        "origin_text": "정확히는 몰라, 우린 보호자들이라고 생각하지…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.3000030517578125,
+          "file_duration": 4.83000111579895,
+          "filename": "D-H2-A-039-0760.wav",
+          "ptr": "정확히는 몰라  /  우린  /  보호자들이라고 생각하지",
+          "tr": "정확히는 몰라, 우린 보호자들이라고 생각하지"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0761",
+        "origin_text": "인간들 다음에 이들이 지구에 올 거라고 말하기도 해, 하지만 그들에게 물어보는 건 허락되지 않았단다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 9.480003356933594,
+          "file_duration": 9.980003356933594,
+          "filename": "D-H2-A-039-0761.wav",
+          "ptr": "인간들 다음에  /  이들이 지구에 올 거라고 말하기도 해  /  하지만  /  그들에게 물어보는 건  /  허락되지 않았단다",
+          "tr": "인간들 다음에 이들이 지구에 올 거라고 말하기도 해, 하지만 그들에게 물어보는 건 허락되지 않았단다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0762",
+        "origin_text": "다른 사람들, 아이들에게는 말을 걸 수 있나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.019996643066406,
+          "file_duration": 4.519996643066406,
+          "filename": "D-H2-A-039-0762.wav",
+          "ptr": "다른 사람들  /  아이들에게는 말을 걸 수 있나요?",
+          "tr": "다른 사람들, 아이들에게는 말을 걸 수 있나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0763",
+        "origin_text": "그럼, 서로 알아야지…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.5999984741210938,
+          "file_duration": 3.1099995899200508,
+          "filename": "D-H2-A-039-0763.wav",
+          "ptr": "그럼  /  서로 알아야지",
+          "tr": "그럼, 서로 알아야지"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0764",
+        "origin_text": "이런, 다른 아이들보다 좀 더 호기심이 많은 아이가 있군…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 5.0800018310546875,
+          "file_duration": 5.659999999999997,
+          "filename": "D-H2-A-039-0764.wav",
+          "ptr": "이런  /  다른 아이들보다  /  좀 더 호기심이 많은 아이가 있군",
+          "tr": "이런, 다른 아이들보다 좀 더 호기심이 많은 아이가 있군"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0765",
+        "origin_text": "다가가서 그에게 말을 해 봐라…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 2.7400054931640625,
+          "file_duration": 3.2400054931640625,
+          "filename": "D-H2-A-039-0765.wav",
+          "ptr": "다가가서 그에게 말을 해 봐라",
+          "tr": "다가가서 그에게 말을 해 봐라"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0766",
+        "origin_text": "네가 하고 싶은 대로, 마치 친구에게 하듯이…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 4.1399993896484375,
+          "file_duration": 4.69999623298645,
+          "filename": "D-H2-A-039-0766.wav",
+          "ptr": "네가 하고 싶은 대로  /  마치  /  친구에게 하듯이",
+          "tr": "네가 하고 싶은 대로, 마치 친구에게 하듯이"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H2-A-039-0767",
+        "origin_text": "그럼, 너한테 해를 끼치지 않을 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 2,
+          "style": "대화체",
+          "sub_style": "A"
+        },
+        "voice_piece": {
+          "duration": 3.3799896240234375,
+          "file_duration": 3.8499964427948044,
+          "filename": "D-H2-A-039-0767.wav",
+          "ptr": "그럼  /  너한테  /  해를 끼치지 않을 거야",
+          "tr": "그럼, 너한테 해를 끼치지 않을 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "A",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오1"
+    },
+    "voice": {
+      "duration": 143.89997732426303,
+      "filename": "/data2/gst-voice/splitted/D/039/D-H206-P16-A-039.wav",
+      "recorded_at": "2022-09-06 08:41:52",
+      "sample_rate": 44100
+    }
+  }
+]

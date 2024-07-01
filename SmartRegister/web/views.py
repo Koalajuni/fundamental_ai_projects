@@ -13,7 +13,7 @@ def index(request):
     dbList = "This is an initial index page"
     return render(
         request,
-        'web_index.html',
+        'web/web_index.html',
         {'data': dbList}
     )
 
@@ -23,7 +23,7 @@ def index(request):
 def cctv(request):
     return render(
         request,
-        'cctv_main.html',
+        'web/cctv_main.html',
     )
 
 
@@ -39,7 +39,7 @@ def stream():
     faceDetect = FaceDetector(
         detectorPath="", predictorpath= predictorPath)
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
 
     while True:
         ret, frame = cap.read()
@@ -53,7 +53,7 @@ def stream():
 
         if len(faceCount) == 1:
             predictedName = face_detect(frame) 
-            # cv2.putText(frame, predictedName, (50,50), cv2.FONT_HERSHEY_SIMPLEX, fontScale = 2, color = (255,0,0),thickness = 3, lineType = cv2.LINE_AA )
+            cv2.putText(frame, predictedName, (50,50), cv2.FONT_HERSHEY_SIMPLEX, fontScale = 2, color = (255,0,0),thickness = 3, lineType = cv2.LINE_AA )
 
             if predictedName != "unknown":
                 addUser = RegisterUser()

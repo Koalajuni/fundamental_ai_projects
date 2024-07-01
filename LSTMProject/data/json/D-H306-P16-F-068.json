@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "D-H306-P16-F-068",
+    "import": {
+      "author": "조지 버나드 쇼",
+      "book_title": "캔디다",
+      "country": "영국",
+      "id": "D0056",
+      "publish_year": 2020,
+      "times_bg": "근대",
+      "title": "캔디다",
+      "translator": "임성균"
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "FEMALE",
+      "id": 68
+    },
+    "script": {
+      "chars_count": 1066,
+      "id": "D-H306",
+      "normalized": [
+        "자기는 기도할 수 있게 되어서 행복하지 않아요?",
+        "네, 아주 행복해요.",
+        "좋아요, 그 행복이 자기 기도에 대한 응답이죠, 더 하고 싶은 말은 없나요?",
+        "아뇨. 저는 천국에 들어와 있어요, 부족함이 없는 곳이죠.",
+        "오, 아름다운 정원, 아름다운 정원, 여기가 어딘가요?",
+        "우린 자리를 바꾸지 않았어, 네 눈이 영역을 바꾼 거야",
+        "우린 이제 사물들의 진실을 보고 있어, 그리고 다이아몬드의 빛을 견디는 행복들의 영혼을 보게 될 거야.",
+        "참 멋져요, 날씨도 참 좋고요, 한여름 같아요.",
+        "이런, 사람들이 다가와서 우리를 안내할 것 같아요",
+        "저기 몇 명의 사랑스럽고 호기심 어린 행복들이 우리를 안내해 주러 나오고 있어",
+        "그들을 알아요?",
+        "응, 모두 알지, 난 그들 집에 자주 가거든.",
+        "내가 누군지 그들은 모르게 하고서",
+        "또 있어요, 또 있어!",
+        "사방에서 나오고 있어요!",
+        "예전에는 훨씬 더 많았단다, 뚱뚱한 행복들이 저들에게 잘못을 저질렀어.",
+        "어쨌든 아직도 많이 남아 있어요",
+        "다이아몬드의 영향이 정원에 점점 퍼짐에 따라서 넌 또 다른 행복들도 보게 될 거야",
+        "사람들은 지상에서 자신들이 생각하는 것보다 훨씬 더 많은 행복을 만나지.",
+        "하지만 대부분의 사람들은 그것을 전혀 발견하지 못하고 있어",
+        "여기 작은 행복들이 오고 있어요, 저들을 만나러 뛰어가요",
+        "쓸데없어, 우리의 흥미를 끄는 자들은 이쪽으로 지나갈 거야.",
+        "우린 모든 이들과 교제할 시간이 없어",
+        "아이 예뻐라, 참 예쁘다!",
+        "저들은 어디에서 온 거죠?",
+        "저들은 아이들의 행복이란다",
+        "저 애들에게 말해도 돼요?",
+        "부질없는 짓이야, 저 애들은 노래하고, 춤추고, 웃지만 아직 말을 하지는 않아",
+        "안녕, 안녕, 오, 저기 웃고 있는 통통한 아이!",
+        "저 애들은 참 예쁜 뺨을 갖고 있고, 예쁜 옷을 입고 있어요.",
+        "저 애들은 모두 부자예요?",
+        "아니, 어디서나 마찬가지로 여기에서도 부자보다는 가난한 자들이 훨씬 더 많아",
+        "가난한 자들은 어디 있어요?",
+        "난 저 애들과 함께 춤추고 싶어요",
+        "날 아는 사람이 또 있군!",
+        "사람들이 도처에서 날 알아보기 시작해요, 넌 누구지?",
+        "날 알아보지 못하니, 넌 여기 있는 자들 중 아무도 알아보지 못하지?",
+        "응, 난 몰라, 너희들을 본 기억이 없어",
+        "너희들 듣고 있어?",
+        "그럴 줄 알았어, 우리를 본 적이 없다고!",
+        "하지만 틸틸, 넌 오직 우리만을 알고 있어!",
+        "우리는 항상 네 주변에 있어, 우린 너와 함께 먹고, 마시고, 깨어나고, 숨 쉬고, 살고 있어!",
+        "그래, 그래, 알아, 기억나.",
+        "완벽하게, 하지만 난 사람들이 너희를 뭐라고 부르는지 알고 싶어",
+        "넌 아무것도 모르고 있어, 난 너의 집에 있는 여러 행복들의 대장이란다.",
+        "여기 있는 이들이 모두 그곳에 살고 있는 행복들이야",
+        "그러니까 집에 행복이 있다는 거야?",
+        "너희들 들었지, 너의 집에 행복이 있냐고!",
+        "불쌍한 녀석, 집은 문과 창문들이 터질 정도로 행복으로 가득 차 있는데!",
+        "우린 웃고, 노래하고, 벽을 뒤로 물러가게 하고, 지붕을 들어 올릴 정도로 기쁨을 만들어 내고 있어, 하지만 우리가 그렇게 해야 소용없지."
+      ],
+      "origin": [
+        "자기는 기도할 수 있게 되어서 행복하지 않아요?",
+        "네, 아주 행복해요.",
+        "좋아요, 그 행복이 자기 기도에 대한 응답이죠, 더 하고 싶은 말은 없나요?",
+        "아뇨. 저는 천국에 들어와 있어요, 부족함이 없는 곳이죠.",
+        "오, 아름다운 정원, 아름다운 정원, 여기가 어딘가요?",
+        "우린 자리를 바꾸지 않았어, 네 눈이 영역을 바꾼 거야…",
+        "우린 이제 사물들의 진실을 보고 있어, 그리고 다이아몬드의 빛을 견디는 행복들의 영혼을 보게 될 거야.",
+        "참 멋져요, 날씨도 참 좋고요, 한여름 같아요.",
+        "이런, 사람들이 다가와서 우리를 안내할 것 같아요…",
+        "저기 몇 명의 사랑스럽고 호기심 어린 행복들이 우리를 안내해 주러 나오고 있어…",
+        "그들을 알아요?",
+        "응, 모두 알지, 난 그들 집에 자주 가거든.",
+        "내가 누군지 그들은 모르게 하고서…",
+        "또 있어요, 또 있어!",
+        "사방에서 나오고 있어요!",
+        "예전에는 훨씬 더 많았단다, 뚱뚱한 행복들이 저들에게 잘못을 저질렀어.",
+        "어쨌든 아직도 많이 남아 있어요…",
+        "다이아몬드의 영향이 정원에 점점 퍼짐에 따라서 넌 또 다른 행복들도 보게 될 거야…",
+        "사람들은 지상에서 자신들이 생각하는 것보다 훨씬 더 많은 행복을 만나지.",
+        "하지만 대부분의 사람들은 그것을 전혀 발견하지 못하고 있어…",
+        "여기 작은 행복들이 오고 있어요, 저들을 만나러 뛰어가요…",
+        "쓸데없어, 우리의 흥미를 끄는 자들은 이쪽으로 지나갈 거야.",
+        "우린 모든 이들과 교제할 시간이 없어…",
+        "아이 예뻐라, 참 예쁘다!",
+        "저들은 어디에서 온 거죠?",
+        "저들은 아이들의 행복이란다…",
+        "저 애들에게 말해도 돼요?",
+        "부질없는 짓이야, 저 애들은 노래하고, 춤추고, 웃지만 아직 말을 하지는 않아…",
+        "안녕, 안녕, 오, 저기 웃고 있는 통통한 아이!",
+        "저 애들은 참 예쁜 뺨을 갖고 있고, 예쁜 옷을 입고 있어요.",
+        "저 애들은 모두 부자예요?",
+        "아니, 어디서나 마찬가지로 여기에서도 부자보다는 가난한 자들이 훨씬 더 많아…",
+        "가난한 자들은 어디 있어요?",
+        "난 저 애들과 함께 춤추고 싶어요…",
+        "날 아는 사람이 또 있군!",
+        "사람들이 도처에서 날 알아보기 시작해요, 넌 누구지?",
+        "날 알아보지 못하니, 넌 여기 있는 자들 중 아무도 알아보지 못하지?",
+        "응, 난 몰라, 너희들을 본 기억이 없어…",
+        "너희들 듣고 있어?",
+        "그럴 줄 알았어, 우리를 본 적이 없다고!",
+        "하지만 틸틸, 넌 오직 우리만을 알고 있어!",
+        "우리는 항상 네 주변에 있어, 우린 너와 함께 먹고, 마시고, 깨어나고, 숨 쉬고, 살고 있어!",
+        "그래, 그래, 알아, 기억나.",
+        "완벽하게, 하지만 난 사람들이 너희를 뭐라고 부르는지 알고 싶어…",
+        "넌 아무것도 모르고 있어, 난 너의 집에 있는 여러 행복들의 대장이란다.",
+        "여기 있는 이들이 모두 그곳에 살고 있는 행복들이야…",
+        "그러니까 집에 행복이 있다는 거야?",
+        "너희들 들었지, 너의 집에 행복이 있냐고!",
+        "불쌍한 녀석, 집은 문과 창문들이 터질 정도로 행복으로 가득 차 있는데!",
+        "우린 웃고, 노래하고, 벽을 뒤로 물러가게 하고, 지붕을 들어 올릴 정도로 기쁨을 만들어 내고 있어, 하지만 우리가 그렇게 해야 소용없지."
+      ],
+      "part_no": 16,
+      "tokens_count": 381
+    },
+    "sentences": [
+      {
+        "id": "D-H3-F-068-0751",
+        "origin_text": "자기는 기도할 수 있게 되어서 행복하지 않아요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.8400001525878906,
+          "file_duration": 4.26,
+          "filename": "D-H3-F-068-0751.wav",
+          "ptr": "자기는  /  기도할 수 있게 되어서  /  행복하지 않아요?",
+          "tr": "자기는 기도할 수 있게 되어서 행복하지 않아요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0752",
+        "origin_text": "네, 아주 행복해요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.0199995040893555,
+          "file_duration": 2.5199995040893555,
+          "filename": "D-H3-F-068-0752.wav",
+          "ptr": "네  /  아주 행복해요.",
+          "tr": "네, 아주 행복해요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0753",
+        "origin_text": "좋아요, 그 행복이 자기 기도에 대한 응답이죠, 더 하고 싶은 말은 없나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.720000267028809,
+          "file_duration": 7.159999752044676,
+          "filename": "D-H3-F-068-0753.wav",
+          "ptr": "좋아요  /  그 행복이  /  자기 기도에 대한 응답이죠  /  더 하고 싶은 말은 없나요?",
+          "tr": "좋아요, 그 행복이 자기 기도에 대한 응답이죠, 더 하고 싶은 말은 없나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0754",
+        "origin_text": "아뇨. 저는 천국에 들어와 있어요, 부족함이 없는 곳이죠.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.980001449584961,
+          "file_duration": 5.480001449584961,
+          "filename": "D-H3-F-068-0754.wav",
+          "ptr": "아뇨  /  저는 천국에 들어와 있어요  /  부족함이 없는 곳이죠.",
+          "tr": "아뇨. 저는 천국에 들어와 있어요, 부족함이 없는 곳이죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0755",
+        "origin_text": "오, 아름다운 정원, 아름다운 정원, 여기가 어딘가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.619998931884766,
+          "file_duration": 6.089998569488529,
+          "filename": "D-H3-F-068-0755.wav",
+          "ptr": "오  /  아름다운 정원  /  아름다운 정원  /  여기가 어딘가요?",
+          "tr": "오, 아름다운 정원, 아름다운 정원, 여기가 어딘가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0756",
+        "origin_text": "우린 자리를 바꾸지 않았어, 네 눈이 영역을 바꾼 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.299999237060547,
+          "file_duration": 5.799999237060547,
+          "filename": "D-H3-F-068-0756.wav",
+          "ptr": "우린  /  자리를 바꾸지 않았어  /  네 눈이  /  영역을 바꾼 거야",
+          "tr": "우린 자리를 바꾸지 않았어, 네 눈이 영역을 바꾼 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0757",
+        "origin_text": "우린 이제 사물들의 진실을 보고 있어, 그리고 다이아몬드의 빛을 견디는 행복들의 영혼을 보게 될 거야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8.759998321533203,
+          "file_duration": 9.259998321533203,
+          "filename": "D-H3-F-068-0757.wav",
+          "ptr": "우린 이제  /  사물들의 진실을 보고 있어  /  그리고  /  다이아몬드의 빛을 견디는  /  행복들의 영혼을  /  보게 될 거야.",
+          "tr": "우린 이제 사물들의 진실을 보고 있어, 그리고 다이아몬드의 빛을 견디는 행복들의 영혼을 보게 될 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0758",
+        "origin_text": "참 멋져요, 날씨도 참 좋고요, 한여름 같아요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8600006103515625,
+          "file_duration": 5.3600006103515625,
+          "filename": "D-H3-F-068-0758.wav",
+          "ptr": "참 멋져요  /  날씨도 참 좋고요  /  한여름 같아요.",
+          "tr": "참 멋져요, 날씨도 참 좋고요, 한여름 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0759",
+        "origin_text": "이런, 사람들이 다가와서 우리를 안내할 것 같아요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.6399993896484375,
+          "file_duration": 5.1399993896484375,
+          "filename": "D-H3-F-068-0759.wav",
+          "ptr": "이런  /  사람들이 다가와서  /  우리를  /  안내할 것 같아요",
+          "tr": "이런, 사람들이 다가와서 우리를 안내할 것 같아요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0760",
+        "origin_text": "저기 몇 명의 사랑스럽고 호기심 어린 행복들이 우리를 안내해 주러 나오고 있어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.839996337890625,
+          "file_duration": 7.339996337890625,
+          "filename": "D-H3-F-068-0760.wav",
+          "ptr": "저기  /  몇 명의  /  사랑스럽고  /  호기심 어린 행복들이  /  우리를 안내해 주러 나오고 있어",
+          "tr": "저기 몇 명의 사랑스럽고 호기심 어린 행복들이 우리를 안내해 주러 나오고 있어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0761",
+        "origin_text": "그들을 알아요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4000015258789062,
+          "file_duration": 1.9000015258789062,
+          "filename": "D-H3-F-068-0761.wav",
+          "ptr": "그들을  /  알아요?",
+          "tr": "그들을 알아요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0762",
+        "origin_text": "응, 모두 알지, 난 그들 집에 자주 가거든.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.019996643066406,
+          "file_duration": 5.519996643066406,
+          "filename": "D-H3-F-068-0762.wav",
+          "ptr": "응  /  모두 알지  /  난 그들 집에 자주 가거든.",
+          "tr": "응, 모두 알지, 난 그들 집에 자주 가거든."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0763",
+        "origin_text": "내가 누군지 그들은 모르게 하고서…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.6399993896484375,
+          "file_duration": 3.1399993896484375,
+          "filename": "D-H3-F-068-0763.wav",
+          "ptr": "내가 누군지  /  그들은 모르게 하고서",
+          "tr": "내가 누군지 그들은 모르게 하고서"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0764",
+        "origin_text": "또 있어요, 또 있어!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8400039672851562,
+          "file_duration": 2.2900008583068825,
+          "filename": "D-H3-F-068-0764.wav",
+          "ptr": "또 있어요  /  또 있어!",
+          "tr": "또 있어요, 또 있어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0765",
+        "origin_text": "사방에서 나오고 있어요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.779998779296875,
+          "file_duration": 2.2499981117248495,
+          "filename": "D-H3-F-068-0765.wav",
+          "ptr": "사방에서 나오고 있어요!",
+          "tr": "사방에서 나오고 있어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0766",
+        "origin_text": "예전에는 훨씬 더 많았단다, 뚱뚱한 행복들이 저들에게 잘못을 저질렀어.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.4199981689453125,
+          "file_duration": 7.88000116348266,
+          "filename": "D-H3-F-068-0766.wav",
+          "ptr": "예전에는  /  훨씬 더 많았단다  /  뚱뚱한 행복들이  /  저들에게 잘못을 저질렀어.",
+          "tr": "예전에는 훨씬 더 많았단다, 뚱뚱한 행복들이 저들에게 잘못을 저질렀어."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0767",
+        "origin_text": "어쨌든 아직도 많이 남아 있어요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.9600067138671875,
+          "file_duration": 3.4099999427795353,
+          "filename": "D-H3-F-068-0767.wav",
+          "ptr": "어쨌든  /  아직도 많이 남아 있어요",
+          "tr": "어쨌든 아직도 많이 남아 있어요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0768",
+        "origin_text": "다이아몬드의 영향이 정원에 점점 퍼짐에 따라서 넌 또 다른 행복들도 보게 될 거야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.7400054931640625,
+          "file_duration": 8.23999933242797,
+          "filename": "D-H3-F-068-0768.wav",
+          "ptr": "다이아몬드의 영향이  /  정원에 점점 퍼짐에 따라서  /  넌  /  또 다른 행복들도 보게 될 거야",
+          "tr": "다이아몬드의 영향이 정원에 점점 퍼짐에 따라서 넌 또 다른 행복들도 보게 될 거야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0769",
+        "origin_text": "사람들은 지상에서 자신들이 생각하는 것보다 훨씬 더 많은 행복을 만나지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.8400115966796875,
+          "file_duration": 7.3400115966796875,
+          "filename": "D-H3-F-068-0769.wav",
+          "ptr": "사람들은  /  지상에서  /  자신들이 생각하는 것보다  /  훨씬 더  /  많은 행복을 만나지.",
+          "tr": "사람들은 지상에서 자신들이 생각하는 것보다 훨씬 더 많은 행복을 만나지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0770",
+        "origin_text": "하지만 대부분의 사람들은 그것을 전혀 발견하지 못하고 있어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.3199920654296875,
+          "file_duration": 5.8199920654296875,
+          "filename": "D-H3-F-068-0770.wav",
+          "ptr": "하지만 대부분의 사람들은  /  그것을  /  전혀 발견하지 못하고 있어",
+          "tr": "하지만 대부분의 사람들은 그것을 전혀 발견하지 못하고 있어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0771",
+        "origin_text": "여기 작은 행복들이 오고 있어요, 저들을 만나러 뛰어가요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.1999969482421875,
+          "file_duration": 5.6999969482421875,
+          "filename": "D-H3-F-068-0771.wav",
+          "ptr": "여기  /  작은 행복들이 오고 있어요  /  저들을 만나러 뛰어가요",
+          "tr": "여기 작은 행복들이 오고 있어요, 저들을 만나러 뛰어가요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0772",
+        "origin_text": "쓸데없어, 우리의 흥미를 끄는 자들은 이쪽으로 지나갈 거야.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "D-H3-F-068-0772.wav",
+          "ptr": "쓸데없어  /  우리의 흥미를 끄는 자들은  /  이쪽으로 지나갈 거야.",
+          "tr": "쓸데없어, 우리의 흥미를 끄는 자들은 이쪽으로 지나갈 거야."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0773",
+        "origin_text": "우린 모든 이들과 교제할 시간이 없어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.55999755859375,
+          "file_duration": 4.05999755859375,
+          "filename": "D-H3-F-068-0773.wav",
+          "ptr": "우린  /  모든 이들과 교제할 시간이 없어",
+          "tr": "우린 모든 이들과 교제할 시간이 없어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0774",
+        "origin_text": "아이 예뻐라, 참 예쁘다!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.1399993896484375,
+          "file_duration": 3.6399993896484375,
+          "filename": "D-H3-F-068-0774.wav",
+          "ptr": "아이 예뻐라  /  참 예쁘다!",
+          "tr": "아이 예뻐라, 참 예쁘다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0775",
+        "origin_text": "저들은 어디에서 온 거죠?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.8800048828125,
+          "file_duration": 2.3800048828125,
+          "filename": "D-H3-F-068-0775.wav",
+          "ptr": "저들은  /  어디에서 온 거죠?",
+          "tr": "저들은 어디에서 온 거죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0776",
+        "origin_text": "저들은 아이들의 행복이란다…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.5,
+          "file_duration": 3,
+          "filename": "D-H3-F-068-0776.wav",
+          "ptr": "저들은  /  아이들의 행복이란다",
+          "tr": "저들은 아이들의 행복이란다"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0777",
+        "origin_text": "저 애들에게 말해도 돼요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.160003662109375,
+          "file_duration": 2.660003662109375,
+          "filename": "D-H3-F-068-0777.wav",
+          "ptr": "저 애들에게 말해도 돼요?",
+          "tr": "저 애들에게 말해도 돼요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0778",
+        "origin_text": "부질없는 짓이야, 저 애들은 노래하고, 춤추고, 웃지만 아직 말을 하지는 않아…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 8,
+          "file_duration": 8.5,
+          "filename": "D-H3-F-068-0778.wav",
+          "ptr": "부질없는 짓이야  /  저 애들은  /  노래하고 춤추고 웃지만  /  아직  /  말을 하지는 않아",
+          "tr": "부질없는 짓이야, 저 애들은 노래하고, 춤추고, 웃지만 아직 말을 하지는 않아"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0779",
+        "origin_text": "안녕, 안녕, 오, 저기 웃고 있는 통통한 아이!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.899993896484375,
+          "file_duration": 5.31999750137328,
+          "filename": "D-H3-F-068-0779.wav",
+          "ptr": "안녕 안녕  /  오  /  저기 웃고 있는 통통한 아이!",
+          "tr": "안녕, 안녕, 오, 저기 웃고 있는 통통한 아이!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0780",
+        "origin_text": "저 애들은 참 예쁜 뺨을 갖고 있고, 예쁜 옷을 입고 있어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.0800018310546875,
+          "file_duration": 5.5800018310546875,
+          "filename": "D-H3-F-068-0780.wav",
+          "ptr": "저 애들은  /  참 예쁜 뺨을 갖고 있고  /  예쁜 옷을 입고 있어요.",
+          "tr": "저 애들은 참 예쁜 뺨을 갖고 있고, 예쁜 옷을 입고 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0781",
+        "origin_text": "저 애들은 모두 부자예요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.220001220703125,
+          "file_duration": 2.720001220703125,
+          "filename": "D-H3-F-068-0781.wav",
+          "ptr": "저 애들은  /  모두 부자예요?",
+          "tr": "저 애들은 모두 부자예요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0782",
+        "origin_text": "아니, 어디서나 마찬가지로 여기에서도 부자보다는 가난한 자들이 훨씬 더 많아…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 7.7599945068359375,
+          "file_duration": 8.259994506835938,
+          "filename": "D-H3-F-068-0782.wav",
+          "ptr": "아니  /  어디서나 마찬가지로  /  여기에서도  /  부자보다는  /  가난한 자들이  /  훨씬 더 많아",
+          "tr": "아니, 어디서나 마찬가지로 여기에서도 부자보다는 가난한 자들이 훨씬 더 많아"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0783",
+        "origin_text": "가난한 자들은 어디 있어요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1399993896484375,
+          "file_duration": 2.6399993896484375,
+          "filename": "D-H3-F-068-0783.wav",
+          "ptr": "가난한 자들은 어디 있어요?",
+          "tr": "가난한 자들은 어디 있어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0784",
+        "origin_text": "난 저 애들과 함께 춤추고 싶어요…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.2599945068359375,
+          "file_duration": 3.7599945068359375,
+          "filename": "D-H3-F-068-0784.wav",
+          "ptr": "난  /  저 애들과 함께 춤추고 싶어요",
+          "tr": "난 저 애들과 함께 춤추고 싶어요"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0785",
+        "origin_text": "날 아는 사람이 또 있군!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.0800018310546875,
+          "file_duration": 2.5800018310546875,
+          "filename": "D-H3-F-068-0785.wav",
+          "ptr": "날 아는 사람이  /  또 있군!",
+          "tr": "날 아는 사람이 또 있군!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0786",
+        "origin_text": "사람들이 도처에서 날 알아보기 시작해요, 넌 누구지?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.459991455078125,
+          "file_duration": 5.959991455078125,
+          "filename": "D-H3-F-068-0786.wav",
+          "ptr": "사람들이  /  도처에서  /  날 알아보기 시작해요  /  넌  /  누구지?",
+          "tr": "사람들이 도처에서 날 알아보기 시작해요, 넌 누구지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0787",
+        "origin_text": "날 알아보지 못하니, 넌 여기 있는 자들 중 아무도 알아보지 못하지?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 5.360015869140625,
+          "file_duration": 5.860015869140625,
+          "filename": "D-H3-F-068-0787.wav",
+          "ptr": "날 알아보지 못하니  /  넌 여기 있는 자들 중  /  아무도 알아보지 못하지?",
+          "tr": "날 알아보지 못하니, 넌 여기 있는 자들 중 아무도 알아보지 못하지?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0788",
+        "origin_text": "응, 난 몰라, 너희들을 본 기억이 없어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.019989013671875,
+          "file_duration": 4.519989013671875,
+          "filename": "D-H3-F-068-0788.wav",
+          "ptr": "응  /  난 몰라  /  너희들을 본 기억이 없어",
+          "tr": "응, 난 몰라, 너희들을 본 기억이 없어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0789",
+        "origin_text": "너희들 듣고 있어?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.70001220703125,
+          "file_duration": 2.20001220703125,
+          "filename": "D-H3-F-068-0789.wav",
+          "ptr": "너희들  /  듣고 있어?",
+          "tr": "너희들 듣고 있어?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0790",
+        "origin_text": "그럴 줄 알았어, 우리를 본 적이 없다고!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 3.420013427734375,
+          "file_duration": 3.920013427734375,
+          "filename": "D-H3-F-068-0790.wav",
+          "ptr": "그럴 줄 알았어  /  우리를 본 적이 없다고!",
+          "tr": "그럴 줄 알았어, 우리를 본 적이 없다고!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0791",
+        "origin_text": "하지만 틸틸, 넌 오직 우리만을 알고 있어!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.339996337890625,
+          "file_duration": 4.839996337890625,
+          "filename": "D-H3-F-068-0791.wav",
+          "ptr": "하지만 틸틸  /  넌 오직  /  우리만을 알고 있어!",
+          "tr": "하지만 틸틸, 넌 오직 우리만을 알고 있어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0792",
+        "origin_text": "우리는 항상 네 주변에 있어, 우린 너와 함께 먹고, 마시고, 깨어나고, 숨 쉬고, 살고 있어!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 9.58001708984375,
+          "file_duration": 10.08001708984375,
+          "filename": "D-H3-F-068-0792.wav",
+          "ptr": "우리는  /  항상 네 주변에 있어  /  우린  /  너와 함께 먹고  /  마시고  /  깨어나고 숨 쉬고  /  살고 있어!",
+          "tr": "우리는 항상 네 주변에 있어, 우린 너와 함께 먹고, 마시고, 깨어나고, 숨 쉬고, 살고 있어!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0793",
+        "origin_text": "그래, 그래, 알아, 기억나.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.639984130859375,
+          "file_duration": 3.139984130859375,
+          "filename": "D-H3-F-068-0793.wav",
+          "ptr": "그래 그래  /  알아  /  기억나.",
+          "tr": "그래, 그래, 알아, 기억나."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0794",
+        "origin_text": "완벽하게, 하지만 난 사람들이 너희를 뭐라고 부르는지 알고 싶어…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.220001220703125,
+          "file_duration": 6.720001220703125,
+          "filename": "D-H3-F-068-0794.wav",
+          "ptr": "완벽하게  /  하지만 난  /  사람들이  /  너희를 뭐라고 부르는지  /  알고 싶어",
+          "tr": "완벽하게, 하지만 난 사람들이 너희를 뭐라고 부르는지 알고 싶어"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0795",
+        "origin_text": "넌 아무것도 모르고 있어, 난 너의 집에 있는 여러 행복들의 대장이란다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.839996337890625,
+          "file_duration": 7.339996337890625,
+          "filename": "D-H3-F-068-0795.wav",
+          "ptr": "넌  /  아무것도 모르고 있어  /  난  /  너의 집에 있는  /  여러 행복들의 대장이란다.",
+          "tr": "넌 아무것도 모르고 있어, 난 너의 집에 있는 여러 행복들의 대장이란다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0796",
+        "origin_text": "여기에 있는 이들이 모두 그곳에 살고 있는 행복들이야…",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.239990234375,
+          "file_duration": 4.739990234375,
+          "filename": "D-H3-F-068-0796.wav",
+          "ptr": "여기에 있는 이들이  /  모두  /  그곳에 살고 있는 행복들이야",
+          "tr": "여기에 있는 이들이 모두 그곳에 살고 있는 행복들이야"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0797",
+        "origin_text": "그러니까 집에 행복이 있다는 거야?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.760009765625,
+          "file_duration": 3.260009765625,
+          "filename": "D-H3-F-068-0797.wav",
+          "ptr": "그러니까  /  집에 행복이 있다는 거야?",
+          "tr": "그러니까 집에 행복이 있다는 거야?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0798",
+        "origin_text": "너희들 들었지, 너의 집에 행복이 있냐고!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 4.180023193359375,
+          "file_duration": 4.680023193359375,
+          "filename": "D-H3-F-068-0798.wav",
+          "ptr": "너희들 들었지  /  너에 집에  /  행복이 있냐고!",
+          "tr": "너희들 들었지, 너의 집에 행복이 있냐고!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0799",
+        "origin_text": "불쌍한 녀석, 집은 문과 창문들이 터질 정도로 행복으로 가득 차 있는데!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 6.47998046875,
+          "file_duration": 6.97998046875,
+          "filename": "D-H3-F-068-0799.wav",
+          "ptr": "불쌍한 녀석  /  집은  /  문과 창문들이 터질 정도로  /  행복으로 가득 차 있는데!",
+          "tr": "불쌍한 녀석, 집은 문과 창문들이 터질 정도로 행복으로 가득 차 있는데!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-H3-F-068-0800",
+        "origin_text": "우린 웃고, 노래하고, 벽을 뒤로 물러가게 하고, 지붕을 들어 올릴 정도로 기쁨을 만들어 내고 있어, 하지만 우리가 그렇게 해야 소용없지.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 12.579986572265625,
+          "file_duration": 13.079986572265625,
+          "filename": "D-H3-F-068-0800.wav",
+          "ptr": "우린  /  웃고  /  노래하고  /  벽을 뒤로 물러가게 하고  /  지붕을 들어 올릴 정도로  /  기쁨을 만들어 내고 있어  /  하지만  /  우리가 그렇게 해야  /  소용없지.",
+          "tr": "우린 웃고, 노래하고, 벽을 뒤로 물러가게 하고, 지붕을 들어 올릴 정도로 기쁨을 만들어 내고 있어, 하지만 우리가 그렇게 해야 소용없지."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "F",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오6"
+    },
+    "voice": {
+      "duration": 375.62,
+      "filename": "/data2/gst-voice/splitted/D/068/D-H306-P16-F-068.wav",
+      "recorded_at": "2022-09-20 09:20:44",
+      "sample_rate": 44100
+    }
+  }
+]

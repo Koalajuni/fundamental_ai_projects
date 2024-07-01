@@ -1,0 +1,423 @@
+[
+  {
+    "id": "D-S206-P16-A-040",
+    "import": {
+      "author": "조지 버나드 쇼",
+      "book_title": "캔디다",
+      "country": "영국",
+      "id": "D0056",
+      "publish_year": 2020,
+      "times_bg": "근대",
+      "title": "캔디다",
+      "translator": "임성균"
+    },
+    "reciter": {
+      "age": 50,
+      "gender": "FEMALE",
+      "id": 40
+    },
+    "script": {
+      "chars_count": 83,
+      "id": "D-S206",
+      "normalized": [
+        "죽는 게 무서운 건 아니다.",
+        "벌써, 돌아가셨나?",
+        "아, 넌, 정말!",
+        "차라리 날 지옥으로데려가!",
+        "날 사랑하다니, 날!",
+        "알아요, 알고 있소!",
+        "부인을 죽일 것 같았어요!",
+        "아, 죽이다니!",
+        "여기가 어딥니까?"
+      ],
+      "origin": [
+        "죽는 게 무서운 건 아니다.",
+        "벌써, 돌아가셨나?",
+        "아, 넌, 정말!",
+        "차라리 날 지옥으로데려가!",
+        "날 사랑하다니, 날!",
+        "알아요, 알고 있소!",
+        "부인을 죽일 것 같았어요!",
+        "아, 죽이다니!",
+        "여기가 어딥니까?"
+      ],
+      "part_no": 16,
+      "tokens_count": 27
+    },
+    "sentences": [
+      {
+        "id": "D-S2-A-040-0751",
+        "origin_text": "죽는 게 무서운 건 아니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.940000057220459,
+          "file_duration": 2.440000057220459,
+          "filename": "D-S2-A-040-0751.wav",
+          "ptr": "죽는 게 무서운 건 아니다.",
+          "tr": "죽는 게 무서운 건 아니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0752",
+        "origin_text": "벌써, 돌아가셨나?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.4800000190734863,
+          "file_duration": 1.9800000190734863,
+          "filename": "D-S2-A-040-0752.wav",
+          "ptr": "벌써 돌아가셨나?",
+          "tr": "벌써, 돌아가셨나?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0753",
+        "origin_text": "아, 넌, 정말!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9200000762939453,
+          "file_duration": 2.369999866485596,
+          "filename": "D-S2-A-040-0753.wav",
+          "ptr": "아  /  넌 정말!",
+          "tr": "아, 넌, 정말!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0754",
+        "origin_text": "차라리 날 지옥으로 데려가!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.1000003814697266,
+          "file_duration": 2.6000003814697266,
+          "filename": "D-S2-A-040-0754.wav",
+          "ptr": "차라리 날  /  지옥으로 데려가!",
+          "tr": "차라리 날 지옥으로 데려가!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0755",
+        "origin_text": "날 사랑하다니, 날!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9599990844726562,
+          "file_duration": 2.4599990844726562,
+          "filename": "D-S2-A-040-0755.wav",
+          "ptr": "날 사랑하다니  /  날!",
+          "tr": "날 사랑하다니, 날!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0756",
+        "origin_text": "알아요, 알고 있소!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 2.0799999237060547,
+          "file_duration": 2.5799999237060547,
+          "filename": "D-S2-A-040-0756.wav",
+          "ptr": "알아요  /  알고 있소!",
+          "tr": "알아요, 알고 있소!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0757",
+        "origin_text": "부인을 죽일 것 같았어요!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.9200019836425781,
+          "file_duration": 2.420001983642578,
+          "filename": "D-S2-A-040-0757.wav",
+          "ptr": "부인을 죽일 것 같았어요!",
+          "tr": "부인을 죽일 것 같았어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0758",
+        "origin_text": "아, 죽이다니!",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.6199989318847656,
+          "file_duration": 2.1199989318847656,
+          "filename": "D-S2-A-040-0758.wav",
+          "ptr": "아  /  죽이다니!",
+          "tr": "아, 죽이다니!"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "D-S2-A-040-0759",
+        "origin_text": "여기가 어딥니까?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "대화체",
+          "sub_style": "B"
+        },
+        "voice_piece": {
+          "duration": 1.3600006103515625,
+          "file_duration": 1.8600006103515625,
+          "filename": "D-S2-A-040-0759.wav",
+          "ptr": "여기가 어딥니까?",
+          "tr": "여기가 어딥니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 2,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "A",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오1"
+    },
+    "voice": {
+      "duration": 42.000022675736965,
+      "filename": "/data2/gst-voice/splitted/D/040/D-S206-P16-A-040.wav",
+      "recorded_at": "2022-09-29 08:04:06",
+      "sample_rate": 44100
+    }
+  }
+]
